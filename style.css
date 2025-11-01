@@ -1,33 +1,79 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Forever Young</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <h1>Forever Young</h1>
-    <nav>
-      <a href="#trendler">Haftalık Trendler</a>
-    </nav>
-  </header>
-
-  <main>
-    <section id="trendler">
-      <h2>Haftalık Trendler</h2>
-      <ul>
-        <li>🌀 Yapay zekâda en yeni gelişmeler</li>
-        <li>🎬 Bu haftanın popüler dizileri</li>
-        <li>🎵 Spotify top listeleri</li>
-        <li>📱 Yeni çıkan mobil uygulamalar</li>
-      </ul>
-    </section>
-  </main>
-
-  <footer>
-    <p>© 2025 Forever Young</p>
-  </footer>
-</body>
-</html>
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #0d1b2a;
+    color: #e0e1dd;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  header {
+    background-color: #1b263b;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  h1 {
+    color: #f0a500;
+    margin: 0;
+  }
+  
+  main {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px;
+    flex: 1;
+    gap: 20px;
+  }
+  
+  .column {
+    background-color: #1b263b;
+    border-radius: 12px;
+    padding: 15px;
+    width: 30%;
+    min-width: 320px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+  }
+  
+  .column h2 {
+    text-align: center;
+    color: #f0a500;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 8px 0;
+    padding: 6px 10px;
+    background-color: #415a77;
+    border-radius: 8px;
+  }
+  
+  li button {
+    background: none;
+    border: none;
+    color: #f0a500;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  li button:hover {
+    color: #ffd60a;
+  }
+  
+  footer {
+    background-color: #1b263b;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+  }
+  
