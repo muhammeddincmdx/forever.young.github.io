@@ -25,3 +25,25 @@ main {
     min-width: 320px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.4);
 }
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin: 8px 0;
+    padding: 8px 12px;
+    background-color: #415a77;
+    border-radius: 8px;
+}
+
+li a {
+    color: #f0a500;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #ffd60a;
+}
