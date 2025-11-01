@@ -3,31 +3,42 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Forever Young</title>
+  <title>Forever Young — Haftalık Trendler</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Forever Young</h1>
-    <nav>
-      <a href="#trendler">Haftalık Trendler</a>
-    </nav>
+    <h1>🎧 Haftalık Trendler</h1>
   </header>
 
   <main>
-    <section id="trendler">
-      <h2>Haftalık Trendler</h2>
-      <ul>
-        <li>🌀 Yapay zekâda en yeni gelişmeler</li>
-        <li>🎬 Bu haftanın popüler dizileri</li>
-        <li>🎵 Spotify top listeleri</li>
-        <li>📱 Yeni çıkan mobil uygulamalar</li>
-      </ul>
-    </section>
+    <div class="column">
+      <h2>Apple Music</h2>
+      <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450"
+        style="width:100%;overflow:hidden;background:transparent;"
+        src="https://embed.music.apple.com/gb/playlist/official-trending-chart/pl.8382eff1ac624044bc6a63685074797e">
+      </iframe>
+    </div>
+
+    <div class="column">
+      <h2>YouTube Trendleri</h2>
+      <ul id="yt-list"></ul>
+    </div>
+
+    <div class="column">
+      <h2>Spotify</h2>
+      <iframe style="border-radius:12px"
+        src="https://open.spotify.com/embed/playlist/37i9dQZEVXbNG2KDcFcKOF?utm_source=generator"
+        width="100%" height="450" frameborder="0"
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+      </iframe>
+    </div>
   </main>
 
   <footer>
     <p>© 2025 Forever Young</p>
   </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
