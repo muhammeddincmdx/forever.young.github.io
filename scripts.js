@@ -1,11 +1,4 @@
-// YouTube trendleri - örnek veri (manuel veya API'den alınabilir)
-const youtubeTrends = [
-    "Post Malone - Chemical",
-    "Sabrina Carpenter - Espresso",
-    "Doja Cat - Paint The Town Red",
-    "Taylor Swift - Fortnight",
-    "The Weeknd - Popular (feat. Madonna, Playboi Carti)"
-  ];
+
   
   const ytList = document.getElementById('yt-list');
   
