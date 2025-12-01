@@ -14,7 +14,7 @@
     <header class="hero">
       <p class="eyebrow">Liste Köşesi</p>
       <h1>Forever Young</h1>
-      <p class="lede">Apple Music ve Spotify'ın güncel trend listeleri tek ekranda.</p>
+      <p class="lede">Apple Music, Spotify ve diğer popüler listeler tek ekranda.</p>
     </header>
 
     <section class="grid">
@@ -60,6 +60,19 @@
 
       <article class="card">
         <div class="card__top">
+          <span class="pill pill--soundcloud">SoundCloud</span>
+          <p class="card__title">Top 50 - Global</p>
+        </div>
+        <div class="frame">
+          <iframe
+            width="100%" height="450" scrolling="no"
+            src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/soundcloud-charts/top-50-global&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true">
+          </iframe>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card__top">
           <span class="pill pill--ytmusic">YouTube Music</span>
           <p class="card__title">Top Songs - Global</p>
         </div>
@@ -80,16 +93,9 @@
           <span class="pill pill--shazam">Shazam</span>
           <p class="card__title">Top 200 - World</p>
         </div>
-        <div class="frame frame--fallback">
-          <iframe
-            src="https://www.shazam.com/charts/top-200/world"
-            width="100%" height="450" frameborder="0"
-            allow="fullscreen">
-          </iframe>
-          <div class="frame__overlay">
-            <p>Shazam listesi yeni sekmede açılır.</p>
-            <a class="cta" href="https://www.shazam.com/charts/top-200/world" target="_blank" rel="noopener">Listeyi aç</a>
-          </div>
+        <div class="frame frame--static">
+          <p class="frame__text">Shazam liste gömmeye izin vermiyor.</p>
+          <a class="cta" href="https://www.shazam.com/charts/top-200/world" target="_blank" rel="noopener">Yeni sekmede aç</a>
         </div>
       </article>
     </section>

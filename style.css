@@ -138,6 +138,10 @@ body {
     background: linear-gradient(135deg, #f43192, #ff9dcf);
 }
 
+.pill--soundcloud {
+    background: linear-gradient(135deg, #ff8b22, #ffd36f);
+}
+
 .pill--ytmusic {
     background: linear-gradient(135deg, #ff4b4b, #ffb36b);
 }
@@ -159,25 +163,19 @@ body {
     display: block;
 }
 
-.frame--fallback {
-    position: relative;
-    min-height: 120px;
-}
-
-.frame__overlay {
-    position: absolute;
-    inset: 0;
+.frame--static {
     display: grid;
     place-items: center;
-    text-align: center;
-    padding: 16px;
-    background: linear-gradient(180deg, rgba(13, 19, 36, 0.15), rgba(13, 19, 36, 0.55));
-    color: var(--muted);
     gap: 12px;
-    pointer-events: none;
+    padding: 28px 18px;
+    text-align: center;
 }
 
-.frame__overlay .cta {
+.frame__text {
+    color: var(--muted);
+}
+
+.cta {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -188,10 +186,9 @@ body {
     font-weight: 700;
     text-decoration: none;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
-    pointer-events: auto;
 }
 
-.frame__overlay .cta:hover {
+.cta:hover {
     transform: translateY(-1px);
 }
 
