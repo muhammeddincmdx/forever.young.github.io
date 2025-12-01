@@ -4,24 +4,48 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Forever Young</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <main>
-    <div class="column">
-      <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450"
-        style="width:100%; overflow:hidden; background:transparent;"
-        src="https://embed.music.apple.com/gb/playlist/official-trending-chart/pl.8382eff1ac624044bc6a63685074797e">
-      </iframe>
-    </div>
+  <main class="layout">
+    <header class="hero">
+      <p class="eyebrow">Liste Köşesi</p>
+      <h1>Forever Young</h1>
+      <p class="lede">Apple Music ve Spotify'ın güncel trend listeleri tek ekranda.</p>
+    </header>
 
-    <div class="column">
-      <iframe style="border-radius:12px"
-        src="https://open.spotify.com/embed/playlist/37i9dQZEVXbNG2KDcFcKOF?utm_source=generator"
-        width="100%" height="450" frameborder="0"
-        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
-      </iframe>
-    </div>
+    <section class="grid">
+      <article class="card">
+        <div class="card__top">
+          <span class="pill pill--apple">Apple Music</span>
+          <p class="card__title">Official Trending Chart</p>
+        </div>
+        <div class="frame">
+          <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450"
+            src="https://embed.music.apple.com/gb/playlist/official-trending-chart/pl.8382eff1ac624044bc6a63685074797e">
+          </iframe>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card__top">
+          <span class="pill pill--spotify">Spotify</span>
+          <p class="card__title">Top 50 - Global</p>
+        </div>
+        <div class="frame">
+          <iframe
+            src="https://open.spotify.com/embed/playlist/37i9dQZEVXbNG2KDcFcKOF?utm_source=generator"
+            width="100%" height="450" frameborder="0"
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+          </iframe>
+        </div>
+      </article>
+    </section>
+
+    <p class="caption">Listeler kaynak platformlardan canlı çekilir. Sadece arkanıza yaslanın ve çalın.</p>
   </main>
 </body>
 </html>
