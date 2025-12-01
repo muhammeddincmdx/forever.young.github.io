@@ -138,14 +138,6 @@ body {
     background: linear-gradient(135deg, #f43192, #ff9dcf);
 }
 
-.pill--billboard {
-    background: linear-gradient(135deg, #4adede, #a09bff);
-}
-
-.pill--officialcharts {
-    background: linear-gradient(135deg, #7a5bff, #c59bff);
-}
-
 .frame {
     border-radius: 14px;
     overflow: hidden;
