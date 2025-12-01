@@ -134,6 +134,14 @@ body {
     background: linear-gradient(135deg, #ff6bb5, #ffc2e4);
 }
 
+.pill--deezer {
+    background: linear-gradient(135deg, #f43192, #ff9dcf);
+}
+
+.pill--ytmusic {
+    background: linear-gradient(135deg, #ff4b4b, #ffb36b);
+}
+
 .pill--shazam {
     background: linear-gradient(135deg, #00c7ff, #7ae5ff);
 }
