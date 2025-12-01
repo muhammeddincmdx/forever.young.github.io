@@ -134,6 +134,10 @@ body {
     background: linear-gradient(135deg, #ff6bb5, #ffc2e4);
 }
 
+.pill--shazam {
+    background: linear-gradient(135deg, #00c7ff, #7ae5ff);
+}
+
 .frame {
     border-radius: 14px;
     overflow: hidden;
@@ -145,6 +149,42 @@ body {
     width: 100%;
     border: none;
     display: block;
+}
+
+.frame--fallback {
+    position: relative;
+    min-height: 120px;
+}
+
+.frame__overlay {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    padding: 16px;
+    background: linear-gradient(180deg, rgba(13, 19, 36, 0.15), rgba(13, 19, 36, 0.55));
+    color: var(--muted);
+    gap: 12px;
+    pointer-events: none;
+}
+
+.frame__overlay .cta {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 16px;
+    border-radius: 999px;
+    background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    color: #0d1324;
+    font-weight: 700;
+    text-decoration: none;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    pointer-events: auto;
+}
+
+.frame__overlay .cta:hover {
+    transform: translateY(-1px);
 }
 
 .caption {
