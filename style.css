@@ -138,16 +138,12 @@ body {
     background: linear-gradient(135deg, #f43192, #ff9dcf);
 }
 
-.pill--soundcloud {
-    background: linear-gradient(135deg, #ff8b22, #ffd36f);
+.pill--billboard {
+    background: linear-gradient(135deg, #4adede, #a09bff);
 }
 
-.pill--ytmusic {
-    background: linear-gradient(135deg, #ff4b4b, #ffb36b);
-}
-
-.pill--shazam {
-    background: linear-gradient(135deg, #00c7ff, #7ae5ff);
+.pill--officialcharts {
+    background: linear-gradient(135deg, #7a5bff, #c59bff);
 }
 
 .frame {
