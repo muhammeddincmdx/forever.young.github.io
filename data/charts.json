@@ -1,0 +1,295 @@
+{
+  "generatedAt": "2026-03-29T16:46:08.727544+00:00",
+  "charts": [
+    {
+      "id": "spotify-global-daily",
+      "name": "Global Daily",
+      "platform": "Spotify",
+      "source": "https://kworb.net/spotify/country/global_daily.html",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 2,
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
+        },
+        {
+          "rank": 3,
+          "title": "Body to Body",
+          "artist": "BTS"
+        },
+        {
+          "rank": 4,
+          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
+          "artist": "PinkPantheress"
+        },
+        {
+          "rank": 5,
+          "title": "Hooligan",
+          "artist": "BTS"
+        },
+        {
+          "rank": 6,
+          "title": "FYA",
+          "artist": "BTS"
+        },
+        {
+          "rank": 7,
+          "title": "Raindance (w/ Tems )",
+          "artist": "Dave"
+        },
+        {
+          "rank": 8,
+          "title": "NORMAL",
+          "artist": "BTS"
+        },
+        {
+          "rank": 9,
+          "title": "Risk It All",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 10,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        }
+      ]
+    },
+    {
+      "id": "spotify-global-weekly",
+      "name": "Global Weekly",
+      "platform": "Spotify",
+      "source": "https://kworb.net/spotify/country/global_weekly.html",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 2,
+          "title": "Body to Body",
+          "artist": "BTS"
+        },
+        {
+          "rank": 3,
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
+        },
+        {
+          "rank": 4,
+          "title": "Hooligan",
+          "artist": "BTS"
+        },
+        {
+          "rank": 5,
+          "title": "FYA",
+          "artist": "BTS"
+        },
+        {
+          "rank": 6,
+          "title": "NORMAL",
+          "artist": "BTS"
+        },
+        {
+          "rank": 7,
+          "title": "Aliens",
+          "artist": "BTS"
+        },
+        {
+          "rank": 8,
+          "title": "Like Animals",
+          "artist": "BTS"
+        },
+        {
+          "rank": 9,
+          "title": "2.0",
+          "artist": "BTS"
+        },
+        {
+          "rank": 10,
+          "title": "they don’t know ’bout us",
+          "artist": "BTS"
+        }
+      ]
+    },
+    {
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 2,
+          "title": "FATHER",
+          "artist": "Kanye West & Travis Scott"
+        },
+        {
+          "rank": 3,
+          "title": "E85",
+          "artist": "Don Toliver"
+        },
+        {
+          "rank": 4,
+          "title": "Motion Party",
+          "artist": "Bossman Dlow"
+        },
+        {
+          "rank": 5,
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
+        },
+        {
+          "rank": 6,
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
+        },
+        {
+          "rank": 7,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 8,
+          "title": "KING",
+          "artist": "Kanye West"
+        },
+        {
+          "rank": 9,
+          "title": "Be By You",
+          "artist": "Luke Combs"
+        },
+        {
+          "rank": 10,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        }
+      ]
+    },
+    {
+      "id": "apple-tr-most-played",
+      "name": "TR Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
+        },
+        {
+          "rank": 2,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 3,
+          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
+          "artist": "Hadise & Motive"
+        },
+        {
+          "rank": 4,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 5,
+          "title": "Ömrüm",
+          "artist": "Eypio"
+        },
+        {
+          "rank": 6,
+          "title": "Yeraltı",
+          "artist": "Eypio"
+        },
+        {
+          "rank": 7,
+          "title": "YIN YANG",
+          "artist": "Motive"
+        },
+        {
+          "rank": 8,
+          "title": "Body to Body",
+          "artist": "BTS"
+        },
+        {
+          "rank": 9,
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
+        },
+        {
+          "rank": 10,
+          "title": "FATHER",
+          "artist": "Kanye West & Travis Scott"
+        }
+      ]
+    },
+    {
+      "id": "deezer-global-top",
+      "name": "Global Top Tracks",
+      "platform": "Deezer",
+      "source": "https://api.deezer.com/chart/0/tracks?limit=50",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Skyfall",
+          "artist": "Adele"
+        },
+        {
+          "rank": 2,
+          "title": "Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers)",
+          "artist": "Daft Punk"
+        },
+        {
+          "rank": 3,
+          "title": "Dracula (JENNIE Remix)",
+          "artist": "Tame Impala"
+        },
+        {
+          "rank": 4,
+          "title": "Golden",
+          "artist": "HUNTR/X"
+        },
+        {
+          "rank": 5,
+          "title": "Zoo (From \"Zootropolis 2\")",
+          "artist": "Disney"
+        },
+        {
+          "rank": 6,
+          "title": "Something Just Like This",
+          "artist": "Coldplay"
+        },
+        {
+          "rank": 7,
+          "title": "End of Beginning",
+          "artist": "Djo"
+        },
+        {
+          "rank": 8,
+          "title": "Another Love",
+          "artist": "Tom Odell"
+        },
+        {
+          "rank": 9,
+          "title": "Lush Life",
+          "artist": "Zara Larsson"
+        },
+        {
+          "rank": 10,
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
+        }
+      ]
+    }
+  ]
+}
