@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-29T20:55:53.480557+00:00",
+  "generatedAt": "2026-03-29T21:27:32.767703+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -29,33 +29,33 @@
         },
         {
           "rank": 5,
-          "title": "Hooligan",
-          "artist": "BTS"
-        },
-        {
-          "rank": 6,
-          "title": "FYA",
-          "artist": "BTS"
-        },
-        {
-          "rank": 7,
           "title": "Raindance (w/ Tems )",
           "artist": "Dave"
         },
         {
-          "rank": 8,
-          "title": "NORMAL",
+          "rank": 6,
+          "title": "Hooligan",
           "artist": "BTS"
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "End of Beginning",
+          "artist": "Djo"
+        },
+        {
+          "rank": 8,
           "title": "Risk It All",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Man I Need",
           "artist": "Olivia Dean"
+        },
+        {
+          "rank": 10,
+          "title": "DtMF",
+          "artist": "Bad Bunny"
         }
       ]
     },
@@ -114,64 +114,6 @@
           "rank": 10,
           "title": "they don’t know ’bout us",
           "artist": "BTS"
-        }
-      ]
-    },
-    {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 2,
-          "title": "FATHER",
-          "artist": "Kanye West & Travis Scott"
-        },
-        {
-          "rank": 3,
-          "title": "E85",
-          "artist": "Don Toliver"
-        },
-        {
-          "rank": 4,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
-        },
-        {
-          "rank": 5,
-          "title": "KING",
-          "artist": "Kanye West"
-        },
-        {
-          "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 7,
-          "title": "Motion Party",
-          "artist": "Bossman Dlow"
-        },
-        {
-          "rank": 8,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
-        },
-        {
-          "rank": 9,
-          "title": "Be By You",
-          "artist": "Luke Combs"
-        },
-        {
-          "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
         }
       ]
     },
