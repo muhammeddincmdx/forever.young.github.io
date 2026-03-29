@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-29T16:46:08.727544+00:00",
+  "generatedAt": "2026-03-29T17:55:30.182793+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -241,53 +241,53 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Skyfall",
-          "artist": "Adele"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 2,
-          "title": "Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers)",
-          "artist": "Daft Punk"
+          "title": "12 to 12",
+          "artist": "sombr"
         },
         {
           "rank": 3,
-          "title": "Dracula (JENNIE Remix)",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 4,
           "title": "Golden",
           "artist": "HUNTR/X"
         },
         {
+          "rank": 4,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
           "rank": 5,
-          "title": "Zoo (From \"Zootropolis 2\")",
-          "artist": "Disney"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 6,
-          "title": "Something Just Like This",
-          "artist": "Coldplay"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 7,
-          "title": "End of Beginning",
-          "artist": "Djo"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 8,
-          "title": "Another Love",
-          "artist": "Tom Odell"
+          "title": "American Girls",
+          "artist": "Harry Styles"
         },
         {
           "rank": 9,
-          "title": "Lush Life",
-          "artist": "Zara Larsson"
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 10,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         }
       ]
     }
