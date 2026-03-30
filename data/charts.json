@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T09:53:20.502129+00:00",
+  "generatedAt": "2026-03-30T10:56:55.204705+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,8 +155,8 @@
         },
         {
           "rank": 7,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "PUNCH DRUNK",
+          "artist": "Kanye West"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "PUNCH DRUNK",
+          "title": "WHATEVER WORKS",
           "artist": "Kanye West"
         },
         {
           "rank": 10,
-          "title": "WHATEVER WORKS",
-          "artist": "Kanye West"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
