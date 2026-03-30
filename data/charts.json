@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T18:12:02.830468+00:00",
+  "generatedAt": "2026-03-30T19:32:45.968141+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -29,33 +29,33 @@
         },
         {
           "rank": 5,
-          "title": "Raindance (w/ Tems )",
-          "artist": "Dave"
-        },
-        {
-          "rank": 6,
-          "title": "Hooligan",
-          "artist": "BTS"
-        },
-        {
-          "rank": 7,
           "title": "End of Beginning",
           "artist": "Djo"
         },
         {
-          "rank": 8,
+          "rank": 6,
           "title": "Risk It All",
           "artist": "Bruno Mars"
         },
         {
+          "rank": 7,
+          "title": "Hooligan",
+          "artist": "BTS"
+        },
+        {
+          "rank": 8,
+          "title": "Raindance (w/ Tems )",
+          "artist": "Dave"
+        },
+        {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "back to friends",
+          "artist": "sombr"
         },
         {
           "rank": 10,
-          "title": "DtMF",
-          "artist": "Bad Bunny"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     },
