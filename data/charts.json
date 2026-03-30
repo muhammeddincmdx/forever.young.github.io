@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T04:40:47.736134+00:00",
+  "generatedAt": "2026-03-30T06:26:44.766193+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -261,8 +261,8 @@
         },
         {
           "rank": 5,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 6,
@@ -271,23 +271,23 @@
         },
         {
           "rank": 7,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 8,
-          "title": "American Girls",
-          "artist": "Harry Styles"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 9,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
+          "title": "DtMF",
+          "artist": "Bad Bunny"
         },
         {
           "rank": 10,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "American Girls",
+          "artist": "Harry Styles"
         }
       ]
     }
