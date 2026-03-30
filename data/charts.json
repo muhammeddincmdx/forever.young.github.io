@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T06:26:44.766193+00:00",
+  "generatedAt": "2026-03-30T08:08:09.249247+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,37 +140,37 @@
         },
         {
           "rank": 4,
-          "title": "E85",
-          "artist": "Don Toliver"
-        },
-        {
-          "rank": 5,
           "title": "KING",
           "artist": "Kanye West"
         },
         {
-          "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "rank": 5,
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "iloveitiloveitiloveit",
           "artist": "Bella Kay"
         },
         {
+          "rank": 7,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
           "rank": 8,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "THIS A MUST",
+          "artist": "Kanye West"
         },
         {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "PUNCH DRUNK",
+          "artist": "Kanye West"
         },
         {
           "rank": 10,
-          "title": "THIS A MUST",
+          "title": "WHATEVER WORKS",
           "artist": "Kanye West"
         }
       ]
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
-          "title": "YIN YANG",
-          "artist": "Motive"
-        },
-        {
-          "rank": 8,
           "title": "ALL THE LOVE",
           "artist": "Kanye West & Andre Troutman"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "FATHER",
           "artist": "Kanye West & Travis Scott"
+        },
+        {
+          "rank": 9,
+          "title": "YIN YANG",
+          "artist": "Motive"
         },
         {
           "rank": 10,
