@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T04:57:18.679971+00:00",
+  "generatedAt": "2026-03-31T06:16:11.609094+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,64 +118,6 @@
       ]
     },
     {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "FATHER",
-          "artist": "Kanye West & Travis Scott"
-        },
-        {
-          "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 3,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
-        },
-        {
-          "rank": 4,
-          "title": "KING",
-          "artist": "Kanye West"
-        },
-        {
-          "rank": 5,
-          "title": "E85",
-          "artist": "Don Toliver"
-        },
-        {
-          "rank": 6,
-          "title": "PUNCH DRUNK",
-          "artist": "Kanye West"
-        },
-        {
-          "rank": 7,
-          "title": "WHATEVER WORKS",
-          "artist": "Kanye West"
-        },
-        {
-          "rank": 8,
-          "title": "THIS A MUST",
-          "artist": "Kanye West"
-        },
-        {
-          "rank": 9,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
-        },
-        {
-          "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        }
-      ]
-    },
-    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -256,18 +198,18 @@
         },
         {
           "rank": 4,
+          "title": "Stargazing",
+          "artist": "Myles Smith"
+        },
+        {
+          "rank": 5,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Stateside + Zara Larsson",
           "artist": "PinkPantheress"
-        },
-        {
-          "rank": 6,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
         },
         {
           "rank": 7,
@@ -276,8 +218,8 @@
         },
         {
           "rank": 8,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 9,
