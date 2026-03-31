@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T23:58:04.277848+00:00",
+  "generatedAt": "2026-03-31T02:25:10.047047+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,8 +150,8 @@
         },
         {
           "rank": 6,
-          "title": "THIS A MUST",
-          "artist": "Kanye West"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 7,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "THIS A MUST",
+          "artist": "Kanye West"
         },
         {
           "rank": 9,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Body to Body",
-          "artist": "BTS"
+          "title": "Maraton",
+          "artist": "Ati242"
         }
       ]
     },
