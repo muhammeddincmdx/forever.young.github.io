@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T02:25:10.047047+00:00",
+  "generatedAt": "2026-03-31T04:57:18.679971+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "PUNCH DRUNK",
-          "artist": "Kanye West"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 6,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "PUNCH DRUNK",
+          "artist": "Kanye West"
         },
         {
           "rank": 7,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         },
         {
           "rank": 10,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
