@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T21:32:34.313036+00:00",
+  "generatedAt": "2026-03-31T22:28:15.336089+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -198,23 +198,23 @@
         },
         {
           "rank": 4,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 5,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
+          "rank": 5,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
           "rank": 6,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 7,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
         },
         {
           "rank": 8,
