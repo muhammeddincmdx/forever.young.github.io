@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T09:59:08.458425+00:00",
+  "generatedAt": "2026-03-31T10:55:51.021588+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,60 +118,60 @@
       ]
     },
     {
-      "id": "apple-tr-most-played",
-      "name": "TR Top Songs",
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
       "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
       "entries": [
         {
           "rank": 1,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
-        },
-        {
-          "rank": 2,
-          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
-          "artist": "Hadise & Motive"
-        },
-        {
-          "rank": 3,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 4,
-          "title": "Ömrüm",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 5,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 6,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
-        },
-        {
-          "rank": 7,
-          "title": "Yeraltı",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 8,
           "title": "FATHER",
           "artist": "Kanye West & Travis Scott"
         },
         {
+          "rank": 2,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 3,
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
+        },
+        {
+          "rank": 4,
+          "title": "KING",
+          "artist": "Kanye West"
+        },
+        {
+          "rank": 5,
+          "title": "E85",
+          "artist": "Don Toliver"
+        },
+        {
+          "rank": 6,
+          "title": "PUNCH DRUNK",
+          "artist": "Kanye West"
+        },
+        {
+          "rank": 7,
+          "title": "WHATEVER WORKS",
+          "artist": "Kanye West"
+        },
+        {
+          "rank": 8,
+          "title": "THIS A MUST",
+          "artist": "Kanye West"
+        },
+        {
           "rank": 9,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         },
         {
           "rank": 10,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
