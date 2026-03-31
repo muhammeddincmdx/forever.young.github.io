@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T14:45:51.796399+00:00",
+  "generatedAt": "2026-03-31T16:02:28.778291+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -114,64 +114,6 @@
           "rank": 10,
           "title": "they don’t know ’bout us",
           "artist": "BTS"
-        }
-      ]
-    },
-    {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "FATHER",
-          "artist": "Kanye West & Travis Scott"
-        },
-        {
-          "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 3,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
-        },
-        {
-          "rank": 4,
-          "title": "KING",
-          "artist": "Kanye West"
-        },
-        {
-          "rank": 5,
-          "title": "PUNCH DRUNK",
-          "artist": "Kanye West"
-        },
-        {
-          "rank": 6,
-          "title": "E85",
-          "artist": "Don Toliver"
-        },
-        {
-          "rank": 7,
-          "title": "WHATEVER WORKS",
-          "artist": "Kanye West"
-        },
-        {
-          "rank": 8,
-          "title": "THIS A MUST",
-          "artist": "Kanye West"
-        },
-        {
-          "rank": 9,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
-        },
-        {
-          "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
         }
       ]
     },
