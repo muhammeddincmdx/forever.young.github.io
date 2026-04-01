@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T18:09:27.156245+00:00",
+  "generatedAt": "2026-04-01T19:35:29.977092+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -29,8 +29,8 @@
         },
         {
           "rank": 5,
-          "title": "End of Beginning",
-          "artist": "Djo"
+          "title": "Hooligan",
+          "artist": "BTS"
         },
         {
           "rank": 6,
@@ -39,23 +39,23 @@
         },
         {
           "rank": 7,
-          "title": "Hooligan",
-          "artist": "BTS"
-        },
-        {
-          "rank": 8,
           "title": "Raindance (w/ Tems )",
           "artist": "Dave"
         },
         {
+          "rank": 8,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
           "rank": 9,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "End of Beginning",
+          "artist": "Djo"
         },
         {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "NORMAL",
+          "artist": "BTS"
         }
       ]
     },
@@ -125,13 +125,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "FATHER",
-          "artist": "Kanye West & Travis Scott"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "FATHER",
+          "artist": "Kanye West & Travis Scott"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "KING",
-          "artist": "Kanye West"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 7,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "KING",
+          "artist": "Kanye West"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "WHATEVER WORKS",
-          "artist": "Kanye West"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "WHATEVER WORKS",
+          "artist": "Kanye West"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Ömrüm",
-          "artist": "Eypio"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 4,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Ömrüm",
+          "artist": "Eypio"
         },
         {
           "rank": 5,
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "FATHER",
-          "artist": "Kanye West & Travis Scott"
+          "title": "YIN YANG",
+          "artist": "Motive"
         },
         {
           "rank": 9,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "FATHER",
+          "artist": "Kanye West & Travis Scott"
         },
         {
           "rank": 10,
