@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T01:55:44.205194+00:00",
+  "generatedAt": "2026-04-01T04:44:41.608411+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,33 +140,33 @@
         },
         {
           "rank": 4,
-          "title": "KING",
-          "artist": "Kanye West"
-        },
-        {
-          "rank": 5,
           "title": "E85",
           "artist": "Don Toliver"
         },
         {
-          "rank": 6,
-          "title": "PUNCH DRUNK",
+          "rank": 5,
+          "title": "KING",
           "artist": "Kanye West"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "iloveitiloveitiloveit",
           "artist": "Bella Kay"
         },
         {
-          "rank": 8,
-          "title": "WHATEVER WORKS",
+          "rank": 7,
+          "title": "PUNCH DRUNK",
           "artist": "Kanye West"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Be Her",
           "artist": "Ella Langley"
+        },
+        {
+          "rank": 9,
+          "title": "WHATEVER WORKS",
+          "artist": "Kanye West"
         },
         {
           "rank": 10,
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
         },
         {
           "rank": 7,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 8,
