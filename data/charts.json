@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T09:13:56.282678+00:00",
+  "generatedAt": "2026-04-01T10:33:22.186237+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "WHATEVER WORKS",
+          "artist": "Kanye West"
         },
         {
           "rank": 9,
-          "title": "WHATEVER WORKS",
-          "artist": "Kanye West"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
@@ -193,28 +193,28 @@
         },
         {
           "rank": 3,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 4,
           "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
+          "rank": 5,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
           "rank": 6,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 7,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
         },
         {
           "rank": 8,
