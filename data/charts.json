@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T23:39:18.969935+00:00",
+  "generatedAt": "2026-04-01T01:55:44.205194+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "WHATEVER WORKS",
-          "artist": "Kanye West"
-        },
-        {
-          "rank": 8,
           "title": "iloveitiloveitiloveit",
           "artist": "Bella Kay"
         },
         {
-          "rank": 9,
-          "title": "THIS A MUST",
+          "rank": 8,
+          "title": "WHATEVER WORKS",
           "artist": "Kanye West"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Be Her",
           "artist": "Ella Langley"
+        },
+        {
+          "rank": 10,
+          "title": "THIS A MUST",
+          "artist": "Kanye West"
         }
       ]
     },
