@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T04:44:41.608411+00:00",
+  "generatedAt": "2026-04-01T06:23:58.621794+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -241,53 +241,53 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 2,
-          "title": "12 to 12",
-          "artist": "sombr"
-        },
-        {
-          "rank": 3,
           "title": "Golden",
           "artist": "HUNTR/X"
         },
         {
-          "rank": 4,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "rank": 2,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "12 to 12",
+          "artist": "sombr"
+        },
+        {
+          "rank": 4,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
-          "rank": 6,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
-        },
-        {
-          "rank": 7,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
-          "rank": 8,
+          "rank": 5,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
+          "rank": 6,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
+          "rank": 7,
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
+        },
+        {
+          "rank": 8,
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
+        },
+        {
           "rank": 9,
-          "title": "DtMF",
-          "artist": "Bad Bunny"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 10,
-          "title": "American Girls",
-          "artist": "Harry Styles"
+          "title": "DtMF",
+          "artist": "Bad Bunny"
         }
       ]
     }
