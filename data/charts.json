@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T06:23:58.621794+00:00",
+  "generatedAt": "2026-04-01T08:00:13.040635+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "KING",
-          "artist": "Kanye West"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         },
         {
           "rank": 6,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "KING",
+          "artist": "Kanye West"
         },
         {
           "rank": 7,
@@ -172,64 +172,6 @@
           "rank": 10,
           "title": "THIS A MUST",
           "artist": "Kanye West"
-        }
-      ]
-    },
-    {
-      "id": "apple-tr-most-played",
-      "name": "TR Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
-        },
-        {
-          "rank": 2,
-          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
-          "artist": "Hadise & Motive"
-        },
-        {
-          "rank": 3,
-          "title": "Ömrüm",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 4,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 5,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 6,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
-        },
-        {
-          "rank": 7,
-          "title": "Yeraltı",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 8,
-          "title": "FATHER",
-          "artist": "Kanye West & Travis Scott"
-        },
-        {
-          "rank": 9,
-          "title": "YIN YANG",
-          "artist": "Motive"
-        },
-        {
-          "rank": 10,
-          "title": "Maraton",
-          "artist": "Ati242"
         }
       ]
     },
