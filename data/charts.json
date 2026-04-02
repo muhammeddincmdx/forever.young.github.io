@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T05:55:13.360498+00:00",
+  "generatedAt": "2026-04-02T07:04:00.053340+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -230,6 +230,64 @@
           "rank": 10,
           "title": "Maraton",
           "artist": "Ati242"
+        }
+      ]
+    },
+    {
+      "id": "deezer-global-top",
+      "name": "Global Top Tracks",
+      "platform": "Deezer",
+      "source": "https://api.deezer.com/chart/0/tracks?limit=50",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 2,
+          "title": "Golden",
+          "artist": "HUNTR/X"
+        },
+        {
+          "rank": 3,
+          "title": "12 to 12",
+          "artist": "sombr"
+        },
+        {
+          "rank": 4,
+          "title": "Stargazing",
+          "artist": "Myles Smith"
+        },
+        {
+          "rank": 5,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
+          "rank": 6,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
+          "rank": 7,
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
+        },
+        {
+          "rank": 8,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 9,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 10,
+          "title": "American Girls",
+          "artist": "Harry Styles"
         }
       ]
     }
