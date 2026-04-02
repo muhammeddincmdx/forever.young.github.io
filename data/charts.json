@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T09:54:15.196715+00:00",
+  "generatedAt": "2026-04-02T10:45:16.750121+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "Stateside (with Zara Larsson)",
+          "artist": "PinkPantheress"
+        },
+        {
+          "rank": 9,
           "title": "KING",
           "artist": "Kanye West"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Be By You",
           "artist": "Luke Combs"
-        },
-        {
-          "rank": 10,
-          "title": "Stateside (with Zara Larsson)",
-          "artist": "PinkPantheress"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Ömrüm",
-          "artist": "Eypio"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 4,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Ömrüm",
+          "artist": "Eypio"
         },
         {
           "rank": 5,
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
+          "title": "YIN YANG",
+          "artist": "Motive"
         },
         {
           "rank": 8,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
         },
         {
           "rank": 9,
