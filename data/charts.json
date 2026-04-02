@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T16:50:33.335599+00:00",
+  "generatedAt": "2026-04-02T17:43:59.628535+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -29,13 +29,13 @@
         },
         {
           "rank": 5,
-          "title": "Hooligan",
-          "artist": "BTS"
+          "title": "Risk It All",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 6,
-          "title": "Risk It All",
-          "artist": "Bruno Mars"
+          "title": "End of Beginning",
+          "artist": "Djo"
         },
         {
           "rank": 7,
@@ -44,18 +44,18 @@
         },
         {
           "rank": 8,
+          "title": "Hooligan",
+          "artist": "BTS"
+        },
+        {
+          "rank": 9,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
-          "rank": 9,
-          "title": "End of Beginning",
-          "artist": "Djo"
-        },
-        {
           "rank": 10,
-          "title": "NORMAL",
-          "artist": "BTS"
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
         }
       ]
     },
