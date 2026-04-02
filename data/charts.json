@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T01:44:35.163435+00:00",
+  "generatedAt": "2026-04-02T04:25:07.766285+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         },
         {
           "rank": 5,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 6,
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "KING",
-          "artist": "Kanye West"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 9,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "KING",
+          "artist": "Kanye West"
         },
         {
           "rank": 10,
@@ -230,64 +230,6 @@
           "rank": 10,
           "title": "Maraton",
           "artist": "Ati242"
-        }
-      ]
-    },
-    {
-      "id": "deezer-global-top",
-      "name": "Global Top Tracks",
-      "platform": "Deezer",
-      "source": "https://api.deezer.com/chart/0/tracks?limit=50",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Golden",
-          "artist": "HUNTR/X"
-        },
-        {
-          "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 3,
-          "title": "12 to 12",
-          "artist": "sombr"
-        },
-        {
-          "rank": 4,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 5,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 6,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
-          "rank": 7,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
-        },
-        {
-          "rank": 8,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 9,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 10,
-          "title": "DtMF",
-          "artist": "Bad Bunny"
         }
       ]
     }
