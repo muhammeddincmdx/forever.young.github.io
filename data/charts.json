@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T05:00:09.783770+00:00",
+  "generatedAt": "2026-04-03T06:13:50.479517+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         },
         {
           "rank": 4,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
         },
         {
           "rank": 5,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Good Days",
-          "artist": "SZA"
+          "title": "Stateside (with Zara Larsson)",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 10,
-          "title": "Stateside (with Zara Larsson)",
-          "artist": "PinkPantheress"
+          "title": "Good Days",
+          "artist": "SZA"
         }
       ]
     },
@@ -203,13 +203,13 @@
         },
         {
           "rank": 5,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 6,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 7,
@@ -256,23 +256,23 @@
         },
         {
           "rank": 4,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 5,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 6,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
-          "rank": 6,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
           "rank": 7,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
+          "title": "American Girls",
+          "artist": "Harry Styles"
         },
         {
           "rank": 8,
@@ -281,13 +281,13 @@
         },
         {
           "rank": 9,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 10,
-          "title": "American Girls",
-          "artist": "Harry Styles"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         }
       ]
     }
