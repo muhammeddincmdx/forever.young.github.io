@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T16:32:41.839321+00:00",
+  "generatedAt": "2026-04-03T17:28:08.193274+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -114,64 +114,6 @@
           "rank": 10,
           "title": "they don’t know ’bout us",
           "artist": "BTS"
-        }
-      ]
-    },
-    {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 2,
-          "title": "FATHER",
-          "artist": "Kanye West & Travis Scott"
-        },
-        {
-          "rank": 3,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
-        },
-        {
-          "rank": 4,
-          "title": "E85",
-          "artist": "Don Toliver"
-        },
-        {
-          "rank": 5,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
-        },
-        {
-          "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 7,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 8,
-          "title": "FDO",
-          "artist": "Pooh Shiesty"
-        },
-        {
-          "rank": 9,
-          "title": "Good Days",
-          "artist": "SZA"
-        },
-        {
-          "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
         }
       ]
     },
