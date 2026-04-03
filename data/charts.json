@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T23:01:45.161428+00:00",
+  "generatedAt": "2026-04-03T23:55:42.711411+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 9,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 10,
@@ -183,13 +183,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 2,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 3,
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "YIN YANG",
+          "artist": "Motive"
         },
         {
           "rank": 8,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 9,
