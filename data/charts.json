@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T11:33:10.455548+00:00",
+  "generatedAt": "2026-04-03T12:45:08.671268+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 5,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
         },
         {
           "rank": 6,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "FDO",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 9,
-          "title": "Stateside (with Zara Larsson)",
-          "artist": "PinkPantheress"
+          "title": "Good Days",
+          "artist": "SZA"
         },
         {
           "rank": 10,
-          "title": "Good Days",
-          "artist": "SZA"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         }
       ]
     },
@@ -188,13 +188,13 @@
         },
         {
           "rank": 2,
-          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
-          "artist": "Hadise & Motive"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 3,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
+          "artist": "Hadise & Motive"
         },
         {
           "rank": 4,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Daha İyi",
+          "artist": "manifest"
         }
       ]
     },
