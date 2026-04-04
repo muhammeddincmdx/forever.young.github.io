@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T04:10:53.198011+00:00",
+  "generatedAt": "2026-04-04T05:38:18.273644+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 4,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
-        },
-        {
-          "rank": 5,
           "title": "E85",
           "artist": "Don Toliver"
         },
         {
+          "rank": 5,
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
+        },
+        {
           "rank": 6,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
+          "title": "FDO",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 7,
-          "title": "FDO",
-          "artist": "Pooh Shiesty"
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
         },
         {
           "rank": 8,
@@ -170,8 +170,66 @@
         },
         {
           "rank": 10,
-          "title": "Good Days",
-          "artist": "SZA"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
+        }
+      ]
+    },
+    {
+      "id": "apple-tr-most-played",
+      "name": "TR Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Daha İyi",
+          "artist": "manifest"
+        },
+        {
+          "rank": 2,
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
+        },
+        {
+          "rank": 3,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 4,
+          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
+          "artist": "Hadise & Motive"
+        },
+        {
+          "rank": 5,
+          "title": "Ömrüm",
+          "artist": "Eypio"
+        },
+        {
+          "rank": 6,
+          "title": "Yeraltı",
+          "artist": "Eypio"
+        },
+        {
+          "rank": 7,
+          "title": "YIN YANG",
+          "artist": "Motive"
+        },
+        {
+          "rank": 8,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 9,
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
+        },
+        {
+          "rank": 10,
+          "title": "FATHER",
+          "artist": "Kanye West & Travis Scott"
         }
       ]
     },
@@ -198,38 +256,38 @@
         },
         {
           "rank": 4,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 5,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 6,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
+          "rank": 6,
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
+        },
+        {
           "rank": 7,
-          "title": "American Girls",
-          "artist": "Harry Styles"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 8,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 9,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
+          "rank": 9,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
           "rank": 10,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "American Girls",
+          "artist": "Harry Styles"
         }
       ]
     }
