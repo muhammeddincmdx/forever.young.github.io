@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T22:22:09.068349+00:00",
+  "generatedAt": "2026-04-04T22:55:31.480145+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 8,
           "title": "YIN YANG",
           "artist": "Motive"
         },
         {
+          "rank": 8,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
           "rank": 9,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 10,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
         }
       ]
     },
