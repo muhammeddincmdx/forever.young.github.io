@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T23:55:42.711411+00:00",
+  "generatedAt": "2026-04-04T01:45:18.121651+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -34,27 +34,27 @@
         },
         {
           "rank": 6,
-          "title": "End of Beginning",
-          "artist": "Djo"
-        },
-        {
-          "rank": 7,
           "title": "Raindance (w/ Tems )",
           "artist": "Dave"
         },
         {
-          "rank": 8,
-          "title": "Hooligan",
-          "artist": "BTS"
+          "rank": 7,
+          "title": "End of Beginning",
+          "artist": "Djo"
         },
         {
-          "rank": 9,
-          "title": "Man I Need",
+          "rank": 8,
+          "title": "So Easy (To Fall In Love)",
           "artist": "Olivia Dean"
         },
         {
+          "rank": 9,
+          "title": "2.0",
+          "artist": "BTS"
+        },
+        {
           "rank": 10,
-          "title": "So Easy (To Fall In Love)",
+          "title": "Man I Need",
           "artist": "Olivia Dean"
         }
       ]
@@ -72,48 +72,48 @@
         },
         {
           "rank": 2,
-          "title": "Body to Body",
-          "artist": "BTS"
-        },
-        {
-          "rank": 3,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
+          "rank": 3,
+          "title": "Body to Body",
+          "artist": "BTS"
+        },
+        {
           "rank": 4,
+          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
+          "artist": "PinkPantheress"
+        },
+        {
+          "rank": 5,
+          "title": "Risk It All",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 6,
           "title": "Hooligan",
           "artist": "BTS"
         },
         {
-          "rank": 5,
-          "title": "FYA",
-          "artist": "BTS"
-        },
-        {
-          "rank": 6,
-          "title": "NORMAL",
-          "artist": "BTS"
-        },
-        {
           "rank": 7,
-          "title": "Aliens",
-          "artist": "BTS"
+          "title": "Raindance (w/ Tems )",
+          "artist": "Dave"
         },
         {
           "rank": 8,
-          "title": "Like Animals",
-          "artist": "BTS"
+          "title": "End of Beginning",
+          "artist": "Djo"
         },
         {
           "rank": 9,
-          "title": "2.0",
-          "artist": "BTS"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 10,
-          "title": "they don’t know ’bout us",
-          "artist": "BTS"
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
         }
       ]
     },
