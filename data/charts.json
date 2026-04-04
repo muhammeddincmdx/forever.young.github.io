@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T10:25:52.814392+00:00",
+  "generatedAt": "2026-04-04T10:58:38.024104+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,23 +130,23 @@
         },
         {
           "rank": 2,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 3,
-          "title": "FATHER",
-          "artist": "Kanye West & Travis Scott"
-        },
-        {
-          "rank": 4,
           "title": "FDO",
           "artist": "Pooh Shiesty"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 4,
           "title": "E85",
           "artist": "Don Toliver"
+        },
+        {
+          "rank": 5,
+          "title": "FATHER",
+          "artist": "Kanye West & Travis Scott"
         },
         {
           "rank": 6,
@@ -155,81 +155,23 @@
         },
         {
           "rank": 7,
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
+        },
+        {
+          "rank": 8,
           "title": "Be By You",
           "artist": "Luke Combs"
         },
         {
-          "rank": 8,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
-        },
-        {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 10,
           "title": "Motion Party",
           "artist": "Bossman Dlow"
-        }
-      ]
-    },
-    {
-      "id": "apple-tr-most-played",
-      "name": "TR Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 2,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
-        },
-        {
-          "rank": 3,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 4,
-          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
-          "artist": "Hadise & Motive"
-        },
-        {
-          "rank": 5,
-          "title": "Ömrüm",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 6,
-          "title": "Yeraltı",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 7,
-          "title": "YIN YANG",
-          "artist": "Motive"
-        },
-        {
-          "rank": 8,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 9,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
         },
         {
           "rank": 10,
-          "title": "FATHER",
-          "artist": "Kanye West & Travis Scott"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     },
