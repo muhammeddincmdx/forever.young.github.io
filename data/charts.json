@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T17:01:52.685560+00:00",
+  "generatedAt": "2026-04-04T17:54:46.270731+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,8 +19,8 @@
         },
         {
           "rank": 3,
-          "title": "Body to Body",
-          "artist": "BTS"
+          "title": "End of Beginning",
+          "artist": "Djo"
         },
         {
           "rank": 4,
@@ -34,28 +34,28 @@
         },
         {
           "rank": 6,
+          "title": "Body to Body",
+          "artist": "BTS"
+        },
+        {
+          "rank": 7,
           "title": "Raindance (w/ Tems )",
           "artist": "Dave"
         },
         {
-          "rank": 7,
-          "title": "End of Beginning",
-          "artist": "Djo"
-        },
-        {
           "rank": 8,
-          "title": "So Easy (To Fall In Love)",
+          "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
           "rank": 9,
-          "title": "2.0",
-          "artist": "BTS"
+          "title": "DtMF",
+          "artist": "Bad Bunny"
         },
         {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "back to friends",
+          "artist": "sombr"
         }
       ]
     },
@@ -172,6 +172,64 @@
           "rank": 10,
           "title": "Man I Need",
           "artist": "Olivia Dean"
+        }
+      ]
+    },
+    {
+      "id": "apple-tr-most-played",
+      "name": "TR Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Daha İyi",
+          "artist": "manifest"
+        },
+        {
+          "rank": 2,
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
+        },
+        {
+          "rank": 3,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 4,
+          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
+          "artist": "Hadise & Motive"
+        },
+        {
+          "rank": 5,
+          "title": "Ömrüm",
+          "artist": "Eypio"
+        },
+        {
+          "rank": 6,
+          "title": "Yeraltı",
+          "artist": "Eypio"
+        },
+        {
+          "rank": 7,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 8,
+          "title": "YIN YANG",
+          "artist": "Motive"
+        },
+        {
+          "rank": 9,
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
+        },
+        {
+          "rank": 10,
+          "title": "Maraton",
+          "artist": "Ati242"
         }
       ]
     },
