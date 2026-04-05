@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T07:35:58.529368+00:00",
+  "generatedAt": "2026-04-05T08:36:26.028509+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -172,64 +172,6 @@
           "rank": 10,
           "title": "ALL THE LOVE",
           "artist": "Kanye West & Andre Troutman"
-        }
-      ]
-    },
-    {
-      "id": "apple-tr-most-played",
-      "name": "TR Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 2,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
-        },
-        {
-          "rank": 3,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 4,
-          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
-          "artist": "Hadise & Motive"
-        },
-        {
-          "rank": 5,
-          "title": "Ömrüm",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 6,
-          "title": "Yeraltı",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 7,
-          "title": "YIN YANG",
-          "artist": "Motive"
-        },
-        {
-          "rank": 8,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 9,
-          "title": "Maraton",
-          "artist": "Ati242"
-        },
-        {
-          "rank": 10,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
         }
       ]
     },
