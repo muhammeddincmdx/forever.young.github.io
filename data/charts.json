@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T23:53:34.790383+00:00",
+  "generatedAt": "2026-04-05T01:51:04.422039+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 7,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
+          "title": "Motion Party",
+          "artist": "Bossman Dlow"
         },
         {
           "rank": 10,
-          "title": "Motion Party",
-          "artist": "Bossman Dlow"
+          "title": "ALL THE LOVE",
+          "artist": "Kanye West & Andre Troutman"
         }
       ]
     },
