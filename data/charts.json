@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T15:54:20.228744+00:00",
+  "generatedAt": "2026-04-05T16:28:42.557057+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -24,23 +24,23 @@
         },
         {
           "rank": 4,
-          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
-          "artist": "PinkPantheress"
-        },
-        {
-          "rank": 5,
           "title": "Risk It All",
           "artist": "Bruno Mars"
         },
         {
+          "rank": 5,
+          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
+          "artist": "PinkPantheress"
+        },
+        {
           "rank": 6,
-          "title": "Body to Body",
-          "artist": "BTS"
+          "title": "Raindance (w/ Tems )",
+          "artist": "Dave"
         },
         {
           "rank": 7,
-          "title": "Raindance (w/ Tems )",
-          "artist": "Dave"
+          "title": "Body to Body",
+          "artist": "BTS"
         },
         {
           "rank": 8,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 10,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
         }
       ]
     },
