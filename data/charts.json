@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T21:37:49.138759+00:00",
+  "generatedAt": "2026-04-05T22:23:12.314839+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -113,64 +113,6 @@
         {
           "rank": 10,
           "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
-        }
-      ]
-    },
-    {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 2,
-          "title": "FDO",
-          "artist": "Pooh Shiesty"
-        },
-        {
-          "rank": 3,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 4,
-          "title": "E85",
-          "artist": "Don Toliver"
-        },
-        {
-          "rank": 5,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
-        },
-        {
-          "rank": 6,
-          "title": "FATHER",
-          "artist": "Kanye West & Travis Scott"
-        },
-        {
-          "rank": 7,
-          "title": "Motion Party",
-          "artist": "Bossman Dlow"
-        },
-        {
-          "rank": 8,
-          "title": "Be By You",
-          "artist": "Luke Combs"
-        },
-        {
-          "rank": 9,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
-        },
-        {
-          "rank": 10,
-          "title": "Man I Need",
           "artist": "Olivia Dean"
         }
       ]
