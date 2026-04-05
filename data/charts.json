@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T15:02:42.312875+00:00",
+  "generatedAt": "2026-04-05T15:54:20.228744+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "Be By You",
-          "artist": "Luke Combs"
-        },
-        {
-          "rank": 8,
           "title": "Motion Party",
           "artist": "Bossman Dlow"
         },
         {
+          "rank": 8,
+          "title": "Be By You",
+          "artist": "Luke Combs"
+        },
+        {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Freestyle",
+          "artist": "Lil Baby"
         },
         {
           "rank": 10,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 10,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
+          "title": "Maraton",
+          "artist": "Ati242"
         }
       ]
     },
