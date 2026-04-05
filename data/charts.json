@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T04:32:30.861253+00:00",
+  "generatedAt": "2026-04-05T06:11:05.459991+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "ALL THE LOVE",
-          "artist": "Kanye West & Andre Troutman"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         }
       ]
     },
@@ -241,13 +241,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Golden",
+          "artist": "HUNTR/X"
         },
         {
           "rank": 2,
-          "title": "Golden",
-          "artist": "HUNTR/X"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
@@ -256,28 +256,28 @@
         },
         {
           "rank": 4,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
-        },
-        {
-          "rank": 5,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 6,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
-        },
-        {
-          "rank": 7,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 8,
+          "rank": 5,
           "title": "Folded",
           "artist": "Kehlani"
+        },
+        {
+          "rank": 6,
+          "title": "Stargazing",
+          "artist": "Myles Smith"
+        },
+        {
+          "rank": 7,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
+          "rank": 8,
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 9,
@@ -286,8 +286,8 @@
         },
         {
           "rank": 10,
-          "title": "American Girls",
-          "artist": "Harry Styles"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         }
       ]
     }
