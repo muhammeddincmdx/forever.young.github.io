@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T23:33:44.691331+00:00",
+  "generatedAt": "2026-04-06T01:52:29.560775+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "FDO",
-          "artist": "Pooh Shiesty"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "FDO",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 4,
@@ -145,33 +145,33 @@
         },
         {
           "rank": 5,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
-        },
-        {
-          "rank": 6,
-          "title": "FATHER",
-          "artist": "Kanye West & Travis Scott"
-        },
-        {
-          "rank": 7,
-          "title": "Motion Party",
-          "artist": "Bossman Dlow"
-        },
-        {
-          "rank": 8,
           "title": "Be By You",
           "artist": "Luke Combs"
         },
         {
+          "rank": 6,
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
+        },
+        {
+          "rank": 7,
+          "title": "FATHER",
+          "artist": "Kanye West & Travis Scott"
+        },
+        {
+          "rank": 8,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
           "rank": 9,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "Motion Party",
+          "artist": "Bossman Dlow"
         },
         {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Freestyle",
+          "artist": "Lil Baby"
         }
       ]
     },
@@ -188,23 +188,23 @@
         },
         {
           "rank": 2,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
-        },
-        {
-          "rank": 3,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
+          "rank": 3,
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
+        },
+        {
           "rank": 4,
-          "title": "Ömrüm",
-          "artist": "Eypio"
+          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
+          "artist": "Hadise & Motive"
         },
         {
           "rank": 5,
-          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
-          "artist": "Hadise & Motive"
+          "title": "Ömrüm",
+          "artist": "Eypio"
         },
         {
           "rank": 6,
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 9,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Amatör",
+          "artist": "manifest"
         },
         {
           "rank": 10,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     },
