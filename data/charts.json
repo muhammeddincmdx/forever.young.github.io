@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T04:44:14.981444+00:00",
+  "generatedAt": "2026-04-07T06:15:45.770835+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Good Days",
-          "artist": "SZA"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Good Days",
+          "artist": "SZA"
         }
       ]
     },
@@ -256,38 +256,38 @@
         },
         {
           "rank": 4,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
-        },
-        {
-          "rank": 5,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 6,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 7,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
-        },
-        {
-          "rank": 8,
-          "title": "American Girls",
-          "artist": "Harry Styles"
-        },
-        {
-          "rank": 9,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
-          "rank": 10,
+          "rank": 5,
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 6,
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
+        },
+        {
+          "rank": 7,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 8,
+          "title": "Stargazing",
+          "artist": "Myles Smith"
+        },
+        {
+          "rank": 9,
           "title": "SWIM",
           "artist": "BTS"
+        },
+        {
+          "rank": 10,
+          "title": "DtMF",
+          "artist": "Bad Bunny"
         }
       ]
     }
