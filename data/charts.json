@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T17:53:07.113340+00:00",
+  "generatedAt": "2026-04-07T18:54:05.758773+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,23 +130,23 @@
         },
         {
           "rank": 2,
-          "title": "FDO",
-          "artist": "Pooh Shiesty"
-        },
-        {
-          "rank": 3,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
+          "rank": 3,
+          "title": "FDO",
+          "artist": "Pooh Shiesty"
+        },
+        {
           "rank": 4,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         },
         {
           "rank": 5,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 6,
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "Good Days",
-          "artist": "SZA"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Good Days",
+          "artist": "SZA"
         },
         {
           "rank": 10,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 10,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     },
