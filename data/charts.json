@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T16:49:06.673075+00:00",
+  "generatedAt": "2026-04-07T17:53:07.113340+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -39,7 +39,7 @@
         },
         {
           "rank": 7,
-          "title": "So Easy (To Fall In Love)",
+          "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "Man I Need",
+          "title": "So Easy (To Fall In Love)",
           "artist": "Olivia Dean"
         },
         {
           "rank": 10,
-          "title": "DtMF",
-          "artist": "Bad Bunny"
+          "title": "2.0",
+          "artist": "BTS"
         }
       ]
     },
