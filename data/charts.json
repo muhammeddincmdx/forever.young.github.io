@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T07:54:34.823536+00:00",
+  "generatedAt": "2026-04-07T08:55:45.341318+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "FDO",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 3,
-          "title": "FDO",
-          "artist": "Pooh Shiesty"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 4,
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         },
         {
           "rank": 6,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 7,
@@ -165,71 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 10,
           "title": "Good Days",
           "artist": "SZA"
-        }
-      ]
-    },
-    {
-      "id": "apple-tr-most-played",
-      "name": "TR Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 2,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
-        },
-        {
-          "rank": 3,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 4,
-          "title": "Ömrüm",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 5,
-          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
-          "artist": "Hadise & Motive"
-        },
-        {
-          "rank": 6,
-          "title": "Yeraltı",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 7,
-          "title": "YIN YANG",
-          "artist": "Motive"
-        },
-        {
-          "rank": 8,
-          "title": "Maraton",
-          "artist": "Ati242"
-        },
-        {
-          "rank": 9,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
         },
         {
           "rank": 10,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Freestyle",
+          "artist": "Lil Baby"
         }
       ]
     },
