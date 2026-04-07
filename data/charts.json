@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T08:55:45.341318+00:00",
+  "generatedAt": "2026-04-07T10:02:30.411113+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -172,6 +172,64 @@
           "rank": 10,
           "title": "Freestyle",
           "artist": "Lil Baby"
+        }
+      ]
+    },
+    {
+      "id": "apple-tr-most-played",
+      "name": "TR Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Daha İyi",
+          "artist": "manifest"
+        },
+        {
+          "rank": 2,
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
+        },
+        {
+          "rank": 3,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 4,
+          "title": "Ömrüm",
+          "artist": "Eypio"
+        },
+        {
+          "rank": 5,
+          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
+          "artist": "Hadise & Motive"
+        },
+        {
+          "rank": 6,
+          "title": "Yeraltı",
+          "artist": "Eypio"
+        },
+        {
+          "rank": 7,
+          "title": "YIN YANG",
+          "artist": "Motive"
+        },
+        {
+          "rank": 8,
+          "title": "Maraton",
+          "artist": "Ati242"
+        },
+        {
+          "rank": 9,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 10,
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         }
       ]
     },
