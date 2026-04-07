@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T22:31:48.265806+00:00",
+  "generatedAt": "2026-04-07T23:31:34.418807+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 5,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         },
         {
           "rank": 6,
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "FATHER",
-          "artist": "Kanye West & Travis Scott"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "FATHER",
+          "artist": "Kanye West & Travis Scott"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         }
       ]
     },
