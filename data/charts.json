@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T23:06:05.237014+00:00",
+  "generatedAt": "2026-04-08T23:57:44.165230+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Maraton",
-          "artist": "Ati242"
-        },
-        {
-          "rank": 9,
           "title": "Eller Üzer",
           "artist": "Serkan Nişancı"
         },
         {
+          "rank": 9,
+          "title": "Maraton",
+          "artist": "Ati242"
+        },
+        {
           "rank": 10,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "HANİ",
+          "artist": "Derya Uluğ"
         }
       ]
     },
