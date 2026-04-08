@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T13:06:15.031388+00:00",
+  "generatedAt": "2026-04-08T14:51:25.160308+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,18 +155,18 @@
         },
         {
           "rank": 7,
+          "title": "Good Days",
+          "artist": "SZA"
+        },
+        {
+          "rank": 8,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "FATHER",
           "artist": "Kanye West & Travis Scott"
-        },
-        {
-          "rank": 9,
-          "title": "Good Days",
-          "artist": "SZA"
         },
         {
           "rank": 10,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 10,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     },
