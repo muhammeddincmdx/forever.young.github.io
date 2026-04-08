@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T04:32:01.926775+00:00",
+  "generatedAt": "2026-04-08T06:17:46.086156+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -256,38 +256,38 @@
         },
         {
           "rank": 4,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
-          "rank": 5,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 6,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
-        },
-        {
-          "rank": 7,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 8,
           "title": "Stargazing",
           "artist": "Myles Smith"
         },
         {
+          "rank": 5,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
+          "rank": 6,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 7,
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
+        },
+        {
+          "rank": 8,
+          "title": "American Girls",
+          "artist": "Harry Styles"
+        },
+        {
           "rank": 9,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 10,
-          "title": "DtMF",
-          "artist": "Bad Bunny"
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     }
