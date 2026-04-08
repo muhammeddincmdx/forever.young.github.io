@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T09:01:07.546060+00:00",
+  "generatedAt": "2026-04-08T10:34:42.609777+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,6 +118,64 @@
       ]
     },
     {
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 2,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 3,
+          "title": "FDO",
+          "artist": "Pooh Shiesty"
+        },
+        {
+          "rank": 4,
+          "title": "E85",
+          "artist": "Don Toliver"
+        },
+        {
+          "rank": 5,
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
+        },
+        {
+          "rank": 6,
+          "title": "Be By You",
+          "artist": "Luke Combs"
+        },
+        {
+          "rank": 7,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
+          "rank": 8,
+          "title": "FATHER",
+          "artist": "Kanye West & Travis Scott"
+        },
+        {
+          "rank": 9,
+          "title": "Good Days",
+          "artist": "SZA"
+        },
+        {
+          "rank": 10,
+          "title": "Freestyle",
+          "artist": "Lil Baby"
+        }
+      ]
+    },
+    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -165,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 10,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         }
       ]
     },
