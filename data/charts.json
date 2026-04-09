@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T15:03:44.472756+00:00",
+  "generatedAt": "2026-04-09T16:45:53.162086+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -34,18 +34,18 @@
         },
         {
           "rank": 6,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
+          "rank": 7,
           "title": "End of Beginning",
           "artist": "Djo"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Body to Body",
           "artist": "BTS"
-        },
-        {
-          "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
         },
         {
           "rank": 9,
