@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T02:22:41.112632+00:00",
+  "generatedAt": "2026-04-09T04:43:54.376995+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
-        },
-        {
-          "rank": 9,
           "title": "Maraton",
           "artist": "Ati242"
         },
         {
+          "rank": 9,
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
+        },
+        {
           "rank": 10,
-          "title": "HANİ",
-          "artist": "Derya Uluğ"
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     },
