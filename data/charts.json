@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T16:45:53.162086+00:00",
+  "generatedAt": "2026-04-09T17:54:49.614455+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "FATHER",
-          "artist": "Kanye West & Travis Scott"
+          "title": "In A Minute",
+          "artist": "Lil Baby"
         }
       ]
     },
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Maraton",
-          "artist": "Ati242"
-        },
-        {
-          "rank": 9,
           "title": "Eller Üzer",
           "artist": "Serkan Nişancı"
         },
         {
+          "rank": 9,
+          "title": "Maraton",
+          "artist": "Ati242"
+        },
+        {
           "rank": 10,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "HANİ",
+          "artist": "Derya Uluğ"
         }
       ]
     },
