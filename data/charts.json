@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T04:43:54.376995+00:00",
+  "generatedAt": "2026-04-09T06:16:39.184339+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "FATHER",
-          "artist": "Kanye West & Travis Scott"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "FATHER",
+          "artist": "Kanye West & Travis Scott"
         }
       ]
     },
