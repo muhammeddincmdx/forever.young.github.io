@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T04:42:27.186032+00:00",
+  "generatedAt": "2026-04-10T06:28:48.634137+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -246,18 +246,18 @@
         },
         {
           "rank": 2,
-          "title": "Golden",
-          "artist": "HUNTR/X"
-        },
-        {
-          "rank": 3,
           "title": "12 to 12",
           "artist": "sombr"
         },
         {
+          "rank": 3,
+          "title": "Golden",
+          "artist": "HUNTR/X"
+        },
+        {
           "rank": 4,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 5,
@@ -266,8 +266,8 @@
         },
         {
           "rank": 6,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 7,
@@ -276,8 +276,8 @@
         },
         {
           "rank": 8,
-          "title": "DtMF",
-          "artist": "Bad Bunny"
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 9,
@@ -286,7 +286,7 @@
         },
         {
           "rank": 10,
-          "title": "The Fate of Ophelia",
+          "title": "Opalite",
           "artist": "Taylor Swift"
         }
       ]
