@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T15:12:13.003953+00:00",
+  "generatedAt": "2026-04-10T16:13:11.329975+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,18 +155,18 @@
         },
         {
           "rank": 7,
+          "title": "Dandelion",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 8,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Good Days",
           "artist": "SZA"
-        },
-        {
-          "rank": 9,
-          "title": "Dandelion",
-          "artist": "Ella Langley"
         },
         {
           "rank": 10,
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 8,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "YIN YANG",
+          "artist": "Motive"
         },
         {
           "rank": 9,
