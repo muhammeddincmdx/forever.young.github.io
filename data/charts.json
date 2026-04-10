@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T16:13:11.329975+00:00",
+  "generatedAt": "2026-04-10T17:12:15.043904+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -34,28 +34,28 @@
         },
         {
           "rank": 6,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 7,
           "title": "End of Beginning",
           "artist": "Djo"
         },
         {
+          "rank": 7,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
           "rank": 8,
-          "title": "Body to Body",
-          "artist": "BTS"
+          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
+          "artist": "Tame Impala"
         },
         {
           "rank": 9,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 10,
-          "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
+          "title": "DtMF",
+          "artist": "Bad Bunny"
         }
       ]
     },
@@ -77,8 +77,8 @@
         },
         {
           "rank": 3,
-          "title": "Body to Body",
-          "artist": "BTS"
+          "title": "Risk It All",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 4,
@@ -87,33 +87,33 @@
         },
         {
           "rank": 5,
-          "title": "Risk It All",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 6,
-          "title": "Hooligan",
-          "artist": "BTS"
-        },
-        {
-          "rank": 7,
-          "title": "Raindance (w/ Tems )",
-          "artist": "Dave"
-        },
-        {
-          "rank": 8,
           "title": "End of Beginning",
           "artist": "Djo"
         },
         {
-          "rank": 9,
+          "rank": 6,
+          "title": "Raindance (w/ Tems )",
+          "artist": "Dave"
+        },
+        {
+          "rank": 7,
+          "title": "Body to Body",
+          "artist": "BTS"
+        },
+        {
+          "rank": 8,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "So Easy (To Fall In Love)",
           "artist": "Olivia Dean"
+        },
+        {
+          "rank": 10,
+          "title": "back to friends",
+          "artist": "sombr"
         }
       ]
     },
