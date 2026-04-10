@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T01:52:36.097801+00:00",
+  "generatedAt": "2026-04-10T04:42:27.186032+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Good Days",
-          "artist": "SZA"
-        },
-        {
-          "rank": 9,
           "title": "20 Cigarettes",
           "artist": "Morgan Wallen"
         },
         {
+          "rank": 9,
+          "title": "Good Days",
+          "artist": "SZA"
+        },
+        {
           "rank": 10,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "Dandelion",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 9,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 10,
