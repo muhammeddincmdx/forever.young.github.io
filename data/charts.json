@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T21:01:27.957230+00:00",
+  "generatedAt": "2026-04-10T22:01:36.562945+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,64 +118,6 @@
       ]
     },
     {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 2,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 3,
-          "title": "FDO",
-          "artist": "Pooh Shiesty"
-        },
-        {
-          "rank": 4,
-          "title": "Dandelion",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 5,
-          "title": "E85",
-          "artist": "Don Toliver"
-        },
-        {
-          "rank": 6,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
-        },
-        {
-          "rank": 7,
-          "title": "Be By You",
-          "artist": "Luke Combs"
-        },
-        {
-          "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 9,
-          "title": "Loving Life Again",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 10,
-          "title": "Good Days",
-          "artist": "SZA"
-        }
-      ]
-    },
-    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -218,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "Labirent",
+          "artist": "Hadise & Motive"
+        },
+        {
+          "rank": 9,
           "title": "YIN YANG",
           "artist": "Motive"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Maraton",
           "artist": "Ati242"
-        },
-        {
-          "rank": 10,
-          "title": "Labirent",
-          "artist": "Hadise & Motive"
         }
       ]
     },
