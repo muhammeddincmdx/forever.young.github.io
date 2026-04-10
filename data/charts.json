@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T23:32:55.368359+00:00",
+  "generatedAt": "2026-04-10T01:52:36.097801+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 5,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         },
         {
           "rank": 6,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Freestyle",
+          "artist": "Lil Baby"
         }
       ]
     },
