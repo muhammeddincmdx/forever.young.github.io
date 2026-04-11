@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T18:34:30.128436+00:00",
+  "generatedAt": "2026-04-11T19:30:13.683351+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,13 +19,13 @@
         },
         {
           "rank": 3,
-          "title": "Risk It All",
-          "artist": "Bruno Mars"
+          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 4,
-          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
-          "artist": "PinkPantheress"
+          "title": "Risk It All",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 5,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
+          "title": "back to friends",
+          "artist": "sombr"
         },
         {
           "rank": 10,
-          "title": "DtMF",
-          "artist": "Bad Bunny"
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
         }
       ]
     },
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "FDO",
-          "artist": "Pooh Shiesty"
+          "title": "Bottom Of Your Boots",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
-          "title": "Bottom Of Your Boots",
-          "artist": "Ella Langley"
+          "title": "FDO",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 6,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "YIN YANG",
+          "artist": "Motive"
         },
         {
           "rank": 10,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "Maraton",
+          "artist": "Ati242"
         }
       ]
     },
