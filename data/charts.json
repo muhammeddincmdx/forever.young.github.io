@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T09:34:35.686011+00:00",
+  "generatedAt": "2026-04-11T10:27:36.116993+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,17 +140,17 @@
         },
         {
           "rank": 4,
-          "title": "Loving Life Again",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 5,
           "title": "FDO",
           "artist": "Pooh Shiesty"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Bottom Of Your Boots",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 6,
+          "title": "Loving Life Again",
           "artist": "Ella Langley"
         },
         {
@@ -160,8 +160,8 @@
         },
         {
           "rank": 8,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "Motion Party",
+          "artist": "Bossman Dlow"
         },
         {
           "rank": 9,
@@ -170,8 +170,66 @@
         },
         {
           "rank": 10,
-          "title": "Motion Party",
-          "artist": "Bossman Dlow"
+          "title": "Be By You",
+          "artist": "Luke Combs"
+        }
+      ]
+    },
+    {
+      "id": "apple-tr-most-played",
+      "name": "TR Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Daha İyi",
+          "artist": "manifest"
+        },
+        {
+          "rank": 2,
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
+        },
+        {
+          "rank": 3,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 4,
+          "title": "Ömrüm",
+          "artist": "Eypio"
+        },
+        {
+          "rank": 5,
+          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
+          "artist": "Hadise & Motive"
+        },
+        {
+          "rank": 6,
+          "title": "Yeraltı",
+          "artist": "Eypio"
+        },
+        {
+          "rank": 7,
+          "title": "Labirent",
+          "artist": "Hadise & Motive"
+        },
+        {
+          "rank": 8,
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
+        },
+        {
+          "rank": 9,
+          "title": "Maraton",
+          "artist": "Ati242"
+        },
+        {
+          "rank": 10,
+          "title": "YIN YANG",
+          "artist": "Motive"
         }
       ]
     },
