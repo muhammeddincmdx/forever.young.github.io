@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T08:39:53.509597+00:00",
+  "generatedAt": "2026-04-12T09:40:20.862912+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 5,
-          "title": "Loving Life Again",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 6,
           "title": "FDO",
           "artist": "Pooh Shiesty"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Motion Party",
           "artist": "Bossman Dlow"
+        },
+        {
+          "rank": 7,
+          "title": "Loving Life Again",
+          "artist": "Ella Langley"
         },
         {
           "rank": 8,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         }
       ]
     },
