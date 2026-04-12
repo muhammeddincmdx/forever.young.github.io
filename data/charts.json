@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T23:41:19.449178+00:00",
+  "generatedAt": "2026-04-12T01:56:12.872317+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,64 +118,6 @@
       ]
     },
     {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 2,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 3,
-          "title": "Dandelion",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 4,
-          "title": "Bottom Of Your Boots",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 5,
-          "title": "Loving Life Again",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 6,
-          "title": "FDO",
-          "artist": "Pooh Shiesty"
-        },
-        {
-          "rank": 7,
-          "title": "E85",
-          "artist": "Don Toliver"
-        },
-        {
-          "rank": 8,
-          "title": "Be By You",
-          "artist": "Luke Combs"
-        },
-        {
-          "rank": 9,
-          "title": "Motion Party",
-          "artist": "Bossman Dlow"
-        },
-        {
-          "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        }
-      ]
-    },
-    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -203,12 +145,12 @@
         },
         {
           "rank": 5,
-          "title": "Labirent",
+          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
           "artist": "Hadise & Motive"
         },
         {
           "rank": 6,
-          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
+          "title": "Labirent",
           "artist": "Hadise & Motive"
         },
         {
