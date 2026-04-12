@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T20:35:13.524726+00:00",
+  "generatedAt": "2026-04-12T21:27:14.521198+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,18 +150,18 @@
         },
         {
           "rank": 6,
+          "title": "Loving Life Again",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 7,
           "title": "Motion Party",
           "artist": "Bossman Dlow"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "E85",
           "artist": "Don Toliver"
-        },
-        {
-          "rank": 8,
-          "title": "Loving Life Again",
-          "artist": "Ella Langley"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         }
       ]
     },
