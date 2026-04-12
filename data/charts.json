@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T17:29:09.724985+00:00",
+  "generatedAt": "2026-04-12T18:02:18.290169+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 10,
-          "title": "POP DAT THANG",
-          "artist": "DaBaby"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         }
       ]
     },
