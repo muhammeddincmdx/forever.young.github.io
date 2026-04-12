@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T04:43:57.396355+00:00",
+  "generatedAt": "2026-04-12T06:21:10.361277+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,12 +135,12 @@
         },
         {
           "rank": 3,
-          "title": "Dandelion",
+          "title": "Bottom Of Your Boots",
           "artist": "Ella Langley"
         },
         {
           "rank": 4,
-          "title": "Bottom Of Your Boots",
+          "title": "Dandelion",
           "artist": "Ella Langley"
         },
         {
@@ -155,8 +155,8 @@
         },
         {
           "rank": 7,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "Motion Party",
+          "artist": "Bossman Dlow"
         },
         {
           "rank": 8,
@@ -165,8 +165,8 @@
         },
         {
           "rank": 9,
-          "title": "Motion Party",
-          "artist": "Bossman Dlow"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 10,
@@ -246,28 +246,28 @@
         },
         {
           "rank": 2,
-          "title": "Golden",
-          "artist": "HUNTR/X"
-        },
-        {
-          "rank": 3,
           "title": "12 to 12",
           "artist": "sombr"
         },
         {
+          "rank": 3,
+          "title": "Golden",
+          "artist": "HUNTR/X"
+        },
+        {
           "rank": 4,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 5,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 6,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 7,
@@ -276,18 +276,18 @@
         },
         {
           "rank": 8,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "Better Me For You (Brown Eyes)",
+          "artist": "Max McNown"
         },
         {
           "rank": 9,
-          "title": "American Girls",
-          "artist": "Harry Styles"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 10,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         }
       ]
     }
