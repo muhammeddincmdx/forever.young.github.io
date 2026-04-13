@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T17:36:48.035988+00:00",
+  "generatedAt": "2026-04-13T19:05:38.772109+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,28 +145,28 @@
         },
         {
           "rank": 5,
-          "title": "FDO",
-          "artist": "Pooh Shiesty"
-        },
-        {
-          "rank": 6,
-          "title": "E85",
-          "artist": "Don Toliver"
-        },
-        {
-          "rank": 7,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 8,
           "title": "Loving Life Again",
           "artist": "Ella Langley"
         },
         {
+          "rank": 6,
+          "title": "YUKON",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 7,
+          "title": "FDO",
+          "artist": "Pooh Shiesty"
+        },
+        {
+          "rank": 8,
+          "title": "E85",
+          "artist": "Don Toliver"
+        },
+        {
           "rank": 9,
-          "title": "Motion Party",
-          "artist": "Bossman Dlow"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 10,
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
+          "artist": "Hadise & Motive"
         },
         {
           "rank": 7,
-          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
-          "artist": "Hadise & Motive"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 8,
