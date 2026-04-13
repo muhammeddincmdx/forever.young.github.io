@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T06:12:53.845742+00:00",
+  "generatedAt": "2026-04-13T08:26:28.770665+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,33 +145,33 @@
         },
         {
           "rank": 5,
-          "title": "Loving Life Again",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 6,
           "title": "FDO",
           "artist": "Pooh Shiesty"
         },
         {
+          "rank": 6,
+          "title": "Loving Life Again",
+          "artist": "Ella Langley"
+        },
+        {
           "rank": 7,
-          "title": "Motion Party",
-          "artist": "Bossman Dlow"
-        },
-        {
-          "rank": 8,
-          "title": "Be By You",
-          "artist": "Luke Combs"
-        },
-        {
-          "rank": 9,
           "title": "E85",
           "artist": "Don Toliver"
         },
         {
+          "rank": 8,
+          "title": "Motion Party",
+          "artist": "Bossman Dlow"
+        },
+        {
+          "rank": 9,
+          "title": "YUKON",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 10,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         }
       ]
     },
