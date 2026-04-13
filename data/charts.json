@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T00:00:40.345791+00:00",
+  "generatedAt": "2026-04-13T03:56:51.571839+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "FDO",
-          "artist": "Pooh Shiesty"
+          "title": "Loving Life Again",
+          "artist": "Ella Langley"
         },
         {
           "rank": 6,
-          "title": "Loving Life Again",
-          "artist": "Ella Langley"
+          "title": "FDO",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 7,
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 9,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 10,
@@ -203,23 +203,23 @@
         },
         {
           "rank": 5,
-          "title": "Labirent",
-          "artist": "Hadise & Motive"
-        },
-        {
-          "rank": 6,
           "title": "Küçük Bir Yol (Red Bull Track Takeover)",
           "artist": "Hadise & Motive"
         },
         {
+          "rank": 6,
+          "title": "Labirent",
+          "artist": "Hadise & Motive"
+        },
+        {
           "rank": 7,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 8,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 9,
