@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T13:08:55.287956+00:00",
+  "generatedAt": "2026-04-13T14:59:10.025066+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -114,6 +114,64 @@
           "rank": 10,
           "title": "back to friends",
           "artist": "sombr"
+        }
+      ]
+    },
+    {
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 2,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 3,
+          "title": "Bottom Of Your Boots",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 4,
+          "title": "Dandelion",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 5,
+          "title": "FDO",
+          "artist": "Pooh Shiesty"
+        },
+        {
+          "rank": 6,
+          "title": "E85",
+          "artist": "Don Toliver"
+        },
+        {
+          "rank": 7,
+          "title": "Loving Life Again",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 8,
+          "title": "YUKON",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 9,
+          "title": "Motion Party",
+          "artist": "Bossman Dlow"
+        },
+        {
+          "rank": 10,
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         }
       ]
     },
