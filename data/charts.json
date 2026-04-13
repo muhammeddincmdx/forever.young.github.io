@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T10:12:08.332350+00:00",
+  "generatedAt": "2026-04-13T11:48:40.630784+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,23 +150,23 @@
         },
         {
           "rank": 6,
-          "title": "Loving Life Again",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 7,
           "title": "E85",
           "artist": "Don Toliver"
         },
         {
+          "rank": 7,
+          "title": "Loving Life Again",
+          "artist": "Ella Langley"
+        },
+        {
           "rank": 8,
-          "title": "Motion Party",
-          "artist": "Bossman Dlow"
+          "title": "YUKON",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 9,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
+          "title": "Motion Party",
+          "artist": "Bossman Dlow"
         },
         {
           "rank": 10,
@@ -203,12 +203,12 @@
         },
         {
           "rank": 5,
-          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
+          "title": "Labirent",
           "artist": "Hadise & Motive"
         },
         {
           "rank": 6,
-          "title": "Labirent",
+          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
           "artist": "Hadise & Motive"
         },
         {
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "YIN YANG",
+          "artist": "Motive"
         },
         {
           "rank": 10,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "Maraton",
+          "artist": "Ati242"
         }
       ]
     },
