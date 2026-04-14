@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T09:00:30.193875+00:00",
+  "generatedAt": "2026-04-14T10:43:34.249550+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "Loving Life Again",
-          "artist": "Ella Langley"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 8,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Loving Life Again",
+          "artist": "Ella Langley"
         },
         {
           "rank": 9,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "YIN YANG",
+          "artist": "Motive"
         },
         {
           "rank": 10,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "Maraton",
+          "artist": "Ati242"
         }
       ]
     },
