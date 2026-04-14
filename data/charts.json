@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T14:59:29.433453+00:00",
+  "generatedAt": "2026-04-14T16:11:42.173357+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,33 +19,33 @@
         },
         {
           "rank": 3,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 4,
           "title": "Risk It All",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
           "artist": "PinkPantheress"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "End of Beginning",
           "artist": "Djo"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Raindance (w/ Tems )",
           "artist": "Dave"
         },
         {
-          "rank": 7,
-          "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
-        },
-        {
           "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "back to friends",
+          "artist": "sombr"
         },
         {
           "rank": 9,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 10,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     },
