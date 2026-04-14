@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T19:03:02.804367+00:00",
+  "generatedAt": "2026-04-14T20:29:07.063462+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,8 +150,8 @@
         },
         {
           "rank": 6,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "Loving Life Again",
+          "artist": "Ella Langley"
         },
         {
           "rank": 7,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 9,
-          "title": "Loving Life Again",
-          "artist": "Ella Langley"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 10,
-          "title": "FDO",
-          "artist": "Pooh Shiesty"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         }
       ]
     },
