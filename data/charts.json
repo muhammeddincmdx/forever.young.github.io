@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T14:52:07.167370+00:00",
+  "generatedAt": "2026-04-15T16:00:42.933733+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,18 +9,18 @@
       "entries": [
         {
           "rank": 1,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 2,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Babydoll",
           "artist": "Dominic Fike"
-        },
-        {
-          "rank": 3,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
         },
         {
           "rank": 4,
@@ -34,28 +34,28 @@
         },
         {
           "rank": 6,
-          "title": "End of Beginning",
-          "artist": "Djo"
+          "title": "Confident - Single Version (w/ Chance the Rapper )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 7,
-          "title": "Raindance (w/ Tems )",
-          "artist": "Dave"
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 8,
+          "title": "Baby (w/ Ludacris )",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 9,
           "title": "back to friends",
           "artist": "sombr"
         },
         {
-          "rank": 9,
-          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
-          "artist": "Tame Impala"
-        },
-        {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Eenie Meenie (w/ Justin Bieber )",
+          "artist": "Sean Kingston"
         }
       ]
     },
