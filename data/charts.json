@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T03:45:48.751268+00:00",
+  "generatedAt": "2026-04-15T05:56:15.490592+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,28 +145,28 @@
         },
         {
           "rank": 5,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 6,
           "title": "Beauty and a Beat (feat. Nicki Minaj)",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 7,
-          "title": "Loving Life Again",
-          "artist": "Ella Langley"
+          "rank": 6,
+          "title": "YUKON",
+          "artist": "Justin Bieber"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "E85",
           "artist": "Don Toliver"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "DAISIES",
           "artist": "Justin Bieber"
+        },
+        {
+          "rank": 9,
+          "title": "Loving Life Again",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
@@ -256,8 +256,8 @@
         },
         {
           "rank": 4,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 5,
@@ -266,28 +266,28 @@
         },
         {
           "rank": 6,
-          "title": "American Girls",
-          "artist": "Harry Styles"
-        },
-        {
-          "rank": 7,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
-        },
-        {
-          "rank": 8,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 9,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
+          "rank": 7,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 8,
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
+        },
+        {
+          "rank": 9,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
           "rank": 10,
-          "title": "Opalite",
-          "artist": "Taylor Swift"
+          "title": "American Girls",
+          "artist": "Harry Styles"
         }
       ]
     }
