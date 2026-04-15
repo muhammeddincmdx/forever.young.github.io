@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T11:33:16.802628+00:00",
+  "generatedAt": "2026-04-15T13:08:42.175215+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,18 +140,18 @@
         },
         {
           "rank": 4,
-          "title": "Dandelion",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 5,
           "title": "Beauty and a Beat (feat. Nicki Minaj)",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "YUKON",
           "artist": "Justin Bieber"
+        },
+        {
+          "rank": 6,
+          "title": "Dandelion",
+          "artist": "Ella Langley"
         },
         {
           "rank": 7,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Loving Life Again",
-          "artist": "Ella Langley"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         },
         {
           "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "Loving Life Again",
+          "artist": "Ella Langley"
         }
       ]
     },
