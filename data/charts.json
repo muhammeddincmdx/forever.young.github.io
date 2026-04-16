@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T05:57:38.947795+00:00",
+  "generatedAt": "2026-04-16T07:46:23.283613+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,23 +135,23 @@
         },
         {
           "rank": 3,
-          "title": "Bottom Of Your Boots",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 4,
           "title": "Beauty and a Beat (feat. Nicki Minaj)",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 5,
-          "title": "Dandelion",
+          "rank": 4,
+          "title": "Bottom Of Your Boots",
           "artist": "Ella Langley"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "YUKON",
           "artist": "Justin Bieber"
+        },
+        {
+          "rank": 6,
+          "title": "Dandelion",
+          "artist": "Ella Langley"
         },
         {
           "rank": 7,
@@ -165,8 +165,8 @@
         },
         {
           "rank": 9,
-          "title": "Loving Life Again",
-          "artist": "Ella Langley"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         },
         {
           "rank": 10,
@@ -198,22 +198,22 @@
         },
         {
           "rank": 4,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
-        },
-        {
-          "rank": 5,
           "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
+          "rank": 5,
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
+        },
+        {
           "rank": 6,
-          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
-          "artist": "Hadise & Motive"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 7,
-          "title": "Labirent",
+          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
           "artist": "Hadise & Motive"
         },
         {
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Labirent",
+          "artist": "Hadise & Motive"
         },
         {
           "rank": 10,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "Maraton",
+          "artist": "Ati242"
         }
       ]
     },
