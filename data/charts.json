@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T16:53:10.674716+00:00",
+  "generatedAt": "2026-04-16T18:03:54.577015+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
+          "title": "Dandelion",
+          "artist": "Ella Langley"
         },
         {
           "rank": 7,
-          "title": "Dandelion",
-          "artist": "Ella Langley"
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "iloveitiloveitiloveit",
+          "artist": "Bella Kay"
         }
       ]
     },
@@ -188,28 +188,28 @@
         },
         {
           "rank": 2,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
-        },
-        {
-          "rank": 3,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
+          "rank": 3,
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
+        },
+        {
           "rank": 4,
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 5,
           "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Eller Üzer",
           "artist": "Serkan Nişancı"
-        },
-        {
-          "rank": 6,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
         },
         {
           "rank": 7,
@@ -218,12 +218,12 @@
         },
         {
           "rank": 8,
-          "title": "Labirent",
+          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
           "artist": "Hadise & Motive"
         },
         {
           "rank": 9,
-          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
+          "title": "Labirent",
           "artist": "Hadise & Motive"
         },
         {
