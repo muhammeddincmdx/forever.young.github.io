@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T15:11:08.919241+00:00",
+  "generatedAt": "2026-04-16T16:53:10.674716+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -24,33 +24,33 @@
         },
         {
           "rank": 4,
-          "title": "Risk It All",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 5,
-          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
-          "artist": "PinkPantheress"
-        },
-        {
-          "rank": 6,
-          "title": "Confident - Single Version (w/ Chance the Rapper )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 7,
           "title": "DAISIES",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 8,
+          "rank": 5,
           "title": "Baby (w/ Ludacris )",
           "artist": "Justin Bieber"
         },
         {
+          "rank": 6,
+          "title": "Risk It All",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 7,
+          "title": "Sorry",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 8,
+          "title": "Confident - Single Version (w/ Chance the Rapper )",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 9,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 10,
