@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T20:41:05.398903+00:00",
+  "generatedAt": "2026-04-16T21:36:41.058407+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "E85",
-          "artist": "Don Toliver"
-        },
-        {
-          "rank": 9,
           "title": "Be By You",
           "artist": "Luke Combs"
         },
         {
+          "rank": 9,
+          "title": "E85",
+          "artist": "Don Toliver"
+        },
+        {
           "rank": 10,
-          "title": "iloveitiloveitiloveit",
-          "artist": "Bella Kay"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     },
@@ -188,28 +188,28 @@
         },
         {
           "rank": 2,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 3,
           "title": "Beni Al",
           "artist": "Ankara Echoes"
         },
         {
-          "rank": 4,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "rank": 3,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Eller Üzer",
           "artist": "Serkan Nişancı"
+        },
+        {
+          "rank": 6,
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 7,
