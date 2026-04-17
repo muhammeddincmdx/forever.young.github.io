@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T14:38:53.766202+00:00",
+  "generatedAt": "2026-04-17T15:53:36.205602+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -39,23 +39,23 @@
         },
         {
           "rank": 7,
-          "title": "Sorry",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 8,
           "title": "Confident - Single Version (w/ Chance the Rapper )",
           "artist": "Justin Bieber"
         },
         {
+          "rank": 8,
+          "title": "Sorry",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 9,
-          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
-          "artist": "PinkPantheress"
+          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
+          "artist": "Tame Impala"
         },
         {
           "rank": 10,
-          "title": "Eenie Meenie (w/ Justin Bieber )",
-          "artist": "Sean Kingston"
+          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
+          "artist": "PinkPantheress"
         }
       ]
     },
@@ -77,43 +77,43 @@
         },
         {
           "rank": 3,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 4,
           "title": "Risk It All",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
           "artist": "PinkPantheress"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "End of Beginning",
           "artist": "Djo"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Raindance (w/ Tems )",
           "artist": "Dave"
         },
         {
-          "rank": 7,
-          "title": "Body to Body",
-          "artist": "BTS"
-        },
-        {
           "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "back to friends",
+          "artist": "sombr"
         },
         {
           "rank": 9,
-          "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
+          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
+          "artist": "Tame Impala"
         },
         {
           "rank": 10,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     },
