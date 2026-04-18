@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T18:37:31.613058+00:00",
+  "generatedAt": "2026-04-18T19:36:33.874605+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "E85",
-          "artist": "Don Toliver"
-        },
-        {
-          "rank": 9,
           "title": "Dandelion",
           "artist": "Ella Langley"
         },
         {
+          "rank": 9,
+          "title": "E85",
+          "artist": "Don Toliver"
+        },
+        {
           "rank": 10,
-          "title": "FDO",
-          "artist": "Pooh Shiesty"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         }
       ]
     },
