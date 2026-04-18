@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T17:31:18.795374+00:00",
+  "generatedAt": "2026-04-18T18:37:31.613058+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -208,18 +208,18 @@
         },
         {
           "rank": 6,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 7,
           "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Yeraltı",
           "artist": "Eypio"
+        },
+        {
+          "rank": 8,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Labirent",
+          "artist": "Hadise & Motive"
         }
       ]
     },
