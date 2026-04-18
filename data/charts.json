@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T21:02:27.452420+00:00",
+  "generatedAt": "2026-04-18T21:56:05.706584+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
+          "title": "Bottom Of Your Boots",
+          "artist": "Ella Langley"
         },
         {
           "rank": 6,
-          "title": "Bottom Of Your Boots",
-          "artist": "Ella Langley"
+          "title": "YUKON",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 7,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         }
       ]
     },
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 5,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 6,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Labirent",
-          "artist": "Hadise & Motive"
+          "title": "Maraton",
+          "artist": "Ati242"
         }
       ]
     },
