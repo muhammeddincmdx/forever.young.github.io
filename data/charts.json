@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T15:31:40.627179+00:00",
+  "generatedAt": "2026-04-18T16:31:09.995876+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,23 +9,23 @@
       "entries": [
         {
           "rank": 1,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 2,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Babydoll",
           "artist": "Dominic Fike"
-        },
-        {
-          "rank": 4,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
         },
         {
           "rank": 5,
@@ -34,28 +34,28 @@
         },
         {
           "rank": 6,
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 7,
           "title": "Risk It All",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
+          "artist": "PinkPantheress"
+        },
+        {
+          "rank": 9,
           "title": "Confident - Single Version (w/ Chance the Rapper )",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Sorry",
           "artist": "Justin Bieber"
-        },
-        {
-          "rank": 9,
-          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 10,
-          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
-          "artist": "PinkPantheress"
         }
       ]
     },
