@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T08:07:19.585708+00:00",
+  "generatedAt": "2026-04-18T09:09:50.302253+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -188,23 +188,23 @@
         },
         {
           "rank": 2,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 3,
           "title": "Beni Al",
           "artist": "Ankara Echoes"
         },
         {
+          "rank": 3,
+          "title": "Daha İyi",
+          "artist": "manifest"
+        },
+        {
           "rank": 4,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 5,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 6,
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 8,
           "title": "Yeraltı",
           "artist": "Eypio"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Maraton",
           "artist": "Ati242"
-        },
-        {
-          "rank": 9,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
