@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T04:27:13.915128+00:00",
+  "generatedAt": "2026-04-18T05:56:17.583793+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 3,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 4,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 10,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         }
       ]
     },
@@ -183,13 +183,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 2,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 3,
@@ -223,12 +223,12 @@
         },
         {
           "rank": 9,
-          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
-          "artist": "Hadise & Motive"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "Labirent",
+          "title": "Küçük Bir Yol (Red Bull Track Takeover)",
           "artist": "Hadise & Motive"
         }
       ]
@@ -256,8 +256,8 @@
         },
         {
           "rank": 4,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 5,
@@ -266,13 +266,13 @@
         },
         {
           "rank": 6,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 7,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 8,
@@ -286,8 +286,8 @@
         },
         {
           "rank": 10,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "DtMF",
+          "artist": "Bad Bunny"
         }
       ]
     }
