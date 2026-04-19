@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T02:53:40.432743+00:00",
+  "generatedAt": "2026-04-19T05:22:25.366809+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 10,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
