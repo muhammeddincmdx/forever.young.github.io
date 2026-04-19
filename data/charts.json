@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T16:31:39.452391+00:00",
+  "generatedAt": "2026-04-19T17:30:05.822637+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,13 +9,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 2,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 3,
@@ -44,17 +44,17 @@
         },
         {
           "rank": 8,
+          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
+          "artist": "Tame Impala"
+        },
+        {
+          "rank": 9,
           "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
           "artist": "PinkPantheress"
         },
         {
-          "rank": 9,
-          "title": "Confident - Single Version (w/ Chance the Rapper )",
-          "artist": "Justin Bieber"
-        },
-        {
           "rank": 10,
-          "title": "Sorry",
+          "title": "Confident - Single Version (w/ Chance the Rapper )",
           "artist": "Justin Bieber"
         }
       ]
@@ -246,28 +246,28 @@
         },
         {
           "rank": 2,
-          "title": "Golden",
-          "artist": "HUNTR/X"
-        },
-        {
-          "rank": 3,
           "title": "12 to 12",
           "artist": "sombr"
         },
         {
+          "rank": 3,
+          "title": "Golden",
+          "artist": "HUNTR/X"
+        },
+        {
           "rank": 4,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 5,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 6,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 7,
@@ -276,8 +276,8 @@
         },
         {
           "rank": 8,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 9,
@@ -286,8 +286,8 @@
         },
         {
           "rank": 10,
-          "title": "DtMF",
-          "artist": "Bad Bunny"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         }
       ]
     }
