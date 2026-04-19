@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T18:04:29.747001+00:00",
+  "generatedAt": "2026-04-19T19:12:15.187353+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "FDO",
-          "artist": "Pooh Shiesty"
+          "title": "Dandelion",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -183,13 +183,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 2,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 3,
@@ -198,23 +198,23 @@
         },
         {
           "rank": 4,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 5,
           "title": "Daha İyi",
           "artist": "manifest"
         },
         {
+          "rank": 5,
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 6,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         },
         {
           "rank": 7,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 8,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "Dağılıyorum Olaysız",
+          "artist": "Mabel Matiz"
         },
         {
           "rank": 10,
-          "title": "Dağılıyorum Olaysız",
-          "artist": "Mabel Matiz"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         }
       ]
     },
