@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T23:58:36.451175+00:00",
+  "generatedAt": "2026-04-19T02:53:40.432743+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "Dandelion",
-          "artist": "Ella Langley"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 9,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Dandelion",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
+        },
+        {
+          "rank": 8,
           "title": "Yeraltı",
           "artist": "Eypio"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 9,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
         },
         {
           "rank": 10,
