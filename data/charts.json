@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T06:56:30.697157+00:00",
+  "generatedAt": "2026-04-19T08:04:44.962932+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Bottom Of Your Boots",
-          "artist": "Ella Langley"
+          "title": "YUKON",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 6,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
+          "title": "Bottom Of Your Boots",
+          "artist": "Ella Langley"
         },
         {
           "rank": 7,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "E85",
+          "artist": "Don Toliver"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 4,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 5,
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 9,
           "title": "Yeraltı",
           "artist": "Eypio"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Maraton",
           "artist": "Ati242"
-        },
-        {
-          "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
         }
       ]
     },
