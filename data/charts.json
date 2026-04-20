@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T10:29:23.821779+00:00",
+  "generatedAt": "2026-04-20T11:52:29.909609+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Dandelion",
-          "artist": "Ella Langley"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 10,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "Dandelion",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -188,13 +188,13 @@
         },
         {
           "rank": 2,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 3,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 4,
@@ -213,8 +213,8 @@
         },
         {
           "rank": 7,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Dağılıyorum Olaysız",
+          "artist": "Mabel Matiz"
         },
         {
           "rank": 8,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "Dağılıyorum Olaysız",
-          "artist": "Mabel Matiz"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         }
       ]
     },
