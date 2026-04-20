@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T06:10:07.946009+00:00",
+  "generatedAt": "2026-04-20T08:31:48.236277+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "E85",
+          "artist": "Don Toliver"
         }
       ]
     },
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 5,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 6,
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 8,
           "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Yeraltı",
           "artist": "Eypio"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Dağılıyorum Olaysız",
           "artist": "Mabel Matiz"
-        },
-        {
-          "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
         }
       ]
     },
