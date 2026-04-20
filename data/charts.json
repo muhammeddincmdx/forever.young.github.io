@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T16:38:44.831491+00:00",
+  "generatedAt": "2026-04-20T17:52:28.918609+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,27 +14,27 @@
         },
         {
           "rank": 2,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 3,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
+          "rank": 4,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
           "rank": 5,
-          "title": "Baby (w/ Ludacris )",
+          "title": "DAISIES",
           "artist": "Justin Bieber"
         },
         {
           "rank": 6,
-          "title": "DAISIES",
+          "title": "Baby (w/ Ludacris )",
           "artist": "Justin Bieber"
         },
         {
@@ -49,8 +49,8 @@
         },
         {
           "rank": 9,
-          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
-          "artist": "PinkPantheress"
+          "title": "back to friends",
+          "artist": "sombr"
         },
         {
           "rank": 10,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "Dandelion",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "Dandelion",
-          "artist": "Ella Langley"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 4,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 5,
