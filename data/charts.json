@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T20:49:52.844193+00:00",
+  "generatedAt": "2026-04-20T21:40:08.027347+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Bottom Of Your Boots",
+          "artist": "Ella Langley"
         },
         {
           "rank": 8,
-          "title": "Bottom Of Your Boots",
-          "artist": "Ella Langley"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 9,
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 4,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 5,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 10,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
