@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T03:32:29.122471+00:00",
+  "generatedAt": "2026-04-20T06:10:07.946009+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -251,18 +251,18 @@
         },
         {
           "rank": 3,
-          "title": "Golden",
-          "artist": "HUNTR/X"
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
         },
         {
           "rank": 4,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "Opalite",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 5,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
+          "title": "YUKON",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 6,
@@ -271,23 +271,23 @@
         },
         {
           "rank": 7,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
+          "rank": 8,
           "title": "Stargazing",
           "artist": "Myles Smith"
         },
         {
-          "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
           "rank": 9,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 10,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     }
