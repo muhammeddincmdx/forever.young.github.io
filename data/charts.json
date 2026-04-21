@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T17:32:31.225778+00:00",
+  "generatedAt": "2026-04-21T19:02:17.360864+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,12 +140,12 @@
         },
         {
           "rank": 4,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "title": "DAISIES",
           "artist": "Justin Bieber"
         },
         {
           "rank": 5,
-          "title": "DAISIES",
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
           "artist": "Justin Bieber"
         },
         {
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "Dandelion",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "Dandelion",
-          "artist": "Ella Langley"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Canım Olmaz ki",
+          "artist": "Sezen Aksu"
         }
       ]
     },
