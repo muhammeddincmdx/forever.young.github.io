@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T08:29:44.972653+00:00",
+  "generatedAt": "2026-04-21T10:02:24.165931+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Dandelion",
-          "artist": "Ella Langley"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 10,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "Dandelion",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 4,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 5,
@@ -213,8 +213,8 @@
         },
         {
           "rank": 7,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Dağılıyorum Olaysız",
+          "artist": "Mabel Matiz"
         },
         {
           "rank": 8,
@@ -223,8 +223,8 @@
         },
         {
           "rank": 9,
-          "title": "Dağılıyorum Olaysız",
-          "artist": "Mabel Matiz"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
