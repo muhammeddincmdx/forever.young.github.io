@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T14:56:34.555383+00:00",
+  "generatedAt": "2026-04-21T16:08:44.211732+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 10,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
