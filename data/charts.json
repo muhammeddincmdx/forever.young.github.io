@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T16:06:41.416616+00:00",
+  "generatedAt": "2026-04-22T17:30:53.084617+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "Dandelion",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "Dandelion",
-          "artist": "Ella Langley"
+          "title": "E85",
+          "artist": "Don Toliver"
         }
       ]
     },
