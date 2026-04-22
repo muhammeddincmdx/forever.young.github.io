@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T02:48:50.450984+00:00",
+  "generatedAt": "2026-04-22T05:19:06.312755+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Dağılıyorum Olaysız",
-          "artist": "Mabel Matiz"
+          "title": "Ömrüm",
+          "artist": "Eypio"
         },
         {
           "rank": 8,
-          "title": "Ömrüm",
-          "artist": "Eypio"
+          "title": "Dağılıyorum Olaysız",
+          "artist": "Mabel Matiz"
         },
         {
           "rank": 9,
@@ -251,13 +251,13 @@
         },
         {
           "rank": 3,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
         },
         {
           "rank": 4,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 5,
@@ -266,28 +266,28 @@
         },
         {
           "rank": 6,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
+          "rank": 7,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 7,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
-        },
-        {
           "rank": 8,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 9,
-          "title": "Man I Need",
+          "title": "So Easy (To Fall In Love)",
           "artist": "Olivia Dean"
         },
         {
           "rank": 10,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     }
