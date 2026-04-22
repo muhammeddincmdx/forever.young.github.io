@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T19:03:40.982796+00:00",
+  "generatedAt": "2026-04-22T20:28:34.999610+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 3,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 4,
@@ -44,18 +44,18 @@
         },
         {
           "rank": 8,
-          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 9,
           "title": "Confident - Single Version (w/ Chance the Rapper )",
           "artist": "Justin Bieber"
         },
         {
+          "rank": 9,
+          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
+          "artist": "Tame Impala"
+        },
+        {
           "rank": 10,
-          "title": "Sorry",
-          "artist": "Justin Bieber"
+          "title": "back to friends",
+          "artist": "sombr"
         }
       ]
     },
