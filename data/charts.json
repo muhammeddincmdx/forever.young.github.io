@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T03:51:39.159644+00:00",
+  "generatedAt": "2026-04-23T06:01:13.891376+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -251,43 +251,43 @@
         },
         {
           "rank": 3,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 4,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
-        },
-        {
-          "rank": 5,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 6,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
+          "rank": 5,
+          "title": "Burning Blue",
+          "artist": "Mariah The Scientist"
+        },
+        {
+          "rank": 6,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
           "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 8,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 9,
-          "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
         },
         {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     }
