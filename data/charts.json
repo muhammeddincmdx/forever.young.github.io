@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T08:16:31.980303+00:00",
+  "generatedAt": "2026-04-23T10:02:40.259006+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Dandelion",
-          "artist": "Ella Langley"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 10,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "Dandelion",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 5,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 6,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 10,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         }
       ]
     },
