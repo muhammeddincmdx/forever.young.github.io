@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T23:11:32.271408+00:00",
+  "generatedAt": "2026-04-23T00:07:19.471253+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 4,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         }
       ]
     },
