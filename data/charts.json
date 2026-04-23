@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T11:37:03.077512+00:00",
+  "generatedAt": "2026-04-23T13:09:23.813178+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 10,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "Maraton",
+          "artist": "Ati242"
         }
       ]
     },
