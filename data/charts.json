@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T19:26:05.165409+00:00",
+  "generatedAt": "2026-04-24T20:06:02.499822+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,33 +145,33 @@
         },
         {
           "rank": 5,
+          "title": "Doors",
+          "artist": "Noah Kahan"
+        },
+        {
+          "rank": 6,
+          "title": "End of August",
+          "artist": "Noah Kahan"
+        },
+        {
+          "rank": 7,
+          "title": "The Great Divide",
+          "artist": "Noah Kahan"
+        },
+        {
+          "rank": 8,
           "title": "Beauty and a Beat (feat. Nicki Minaj)",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 6,
+          "rank": 9,
           "title": "20 Cigarettes",
           "artist": "Morgan Wallen"
         },
         {
-          "rank": 7,
+          "rank": 10,
           "title": "YUKON",
           "artist": "Justin Bieber"
-        },
-        {
-          "rank": 8,
-          "title": "Bottom Of Your Boots",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 9,
-          "title": "E85",
-          "artist": "Don Toliver"
-        },
-        {
-          "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 9,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         },
         {
           "rank": 10,
