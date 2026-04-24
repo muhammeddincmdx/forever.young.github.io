@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T18:05:21.484718+00:00",
+  "generatedAt": "2026-04-24T19:26:05.165409+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -34,8 +34,8 @@
         },
         {
           "rank": 6,
-          "title": "Baby (w/ Ludacris )",
-          "artist": "Justin Bieber"
+          "title": "Risk It All",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 7,
@@ -44,18 +44,18 @@
         },
         {
           "rank": 8,
-          "title": "Risk It All",
-          "artist": "Bruno Mars"
+          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
+          "artist": "Tame Impala"
         },
         {
           "rank": 9,
-          "title": "Confident - Single Version (w/ Chance the Rapper )",
+          "title": "Baby (w/ Ludacris )",
           "artist": "Justin Bieber"
         },
         {
           "rank": 10,
-          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
-          "artist": "Tame Impala"
+          "title": "End of Beginning",
+          "artist": "Djo"
         }
       ]
     },
@@ -67,53 +67,53 @@
       "entries": [
         {
           "rank": 1,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 2,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
-        },
-        {
-          "rank": 3,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
+          "rank": 2,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 3,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
           "rank": 4,
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
+        },
+        {
+          "rank": 5,
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 6,
+          "title": "Baby (w/ Ludacris )",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 7,
           "title": "Risk It All",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 5,
-          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
-          "artist": "PinkPantheress"
-        },
-        {
-          "rank": 6,
-          "title": "End of Beginning",
-          "artist": "Djo"
-        },
-        {
-          "rank": 7,
-          "title": "Raindance (w/ Tems )",
-          "artist": "Dave"
-        },
-        {
           "rank": 8,
-          "title": "back to friends",
-          "artist": "sombr"
-        },
-        {
-          "rank": 9,
           "title": "Dracula - JENNIE Remix (w/ JENNIE )",
           "artist": "Tame Impala"
         },
         {
+          "rank": 9,
+          "title": "Confident - Single Version (w/ Chance the Rapper )",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "back to friends",
+          "artist": "sombr"
         }
       ]
     },
