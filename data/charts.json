@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T01:59:26.097276+00:00",
+  "generatedAt": "2026-04-24T04:57:50.932172+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 6,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 7,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Dağılıyorum Olaysız",
-          "artist": "Mabel Matiz"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 10,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Dağılıyorum Olaysız",
+          "artist": "Mabel Matiz"
         }
       ]
     },
