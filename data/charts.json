@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T13:06:19.459597+00:00",
+  "generatedAt": "2026-04-24T14:51:39.018219+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,6 +118,64 @@
       ]
     },
     {
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 2,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 3,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 4,
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 5,
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 6,
+          "title": "YUKON",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 7,
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 8,
+          "title": "Bottom Of Your Boots",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 9,
+          "title": "E85",
+          "artist": "Don Toliver"
+        },
+        {
+          "rank": 10,
+          "title": "Be By You",
+          "artist": "Luke Combs"
+        }
+      ]
+    },
+    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -150,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "Ömrüm",
+          "artist": "Eypio"
         },
         {
           "rank": 7,
-          "title": "Ömrüm",
-          "artist": "Eypio"
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         },
         {
           "rank": 8,
