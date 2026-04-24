@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T04:57:50.932172+00:00",
+  "generatedAt": "2026-04-24T07:04:44.860404+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 6,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 7,
@@ -176,64 +176,6 @@
       ]
     },
     {
-      "id": "apple-tr-most-played",
-      "name": "TR Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
-        },
-        {
-          "rank": 2,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 3,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
-        },
-        {
-          "rank": 4,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 5,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 6,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
-        },
-        {
-          "rank": 7,
-          "title": "Ömrüm",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 8,
-          "title": "Yeraltı",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 9,
-          "title": "Maraton",
-          "artist": "Ati242"
-        },
-        {
-          "rank": 10,
-          "title": "Dağılıyorum Olaysız",
-          "artist": "Mabel Matiz"
-        }
-      ]
-    },
-    {
       "id": "deezer-global-top",
       "name": "Global Top Tracks",
       "platform": "Deezer",
@@ -251,8 +193,8 @@
         },
         {
           "rank": 3,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
         },
         {
           "rank": 4,
@@ -261,33 +203,33 @@
         },
         {
           "rank": 5,
-          "title": "Burning Blue",
-          "artist": "Mariah The Scientist"
-        },
-        {
-          "rank": 6,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 7,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 8,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
+          "rank": 6,
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
+        },
+        {
+          "rank": 7,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 8,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
           "rank": 9,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 10,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
         }
       ]
     }
