@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T09:15:09.865939+00:00",
+  "generatedAt": "2026-04-24T10:49:07.716921+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "YUKON",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 7,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Dandelion",
-          "artist": "Ella Langley"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "Dandelion",
+          "artist": "Ella Langley"
         }
       ]
     },
