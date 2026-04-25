@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T00:01:12.778020+00:00",
+  "generatedAt": "2026-04-25T03:37:47.183113+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,42 +135,42 @@
         },
         {
           "rank": 3,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 4,
           "title": "Doors",
           "artist": "Noah Kahan"
         },
         {
-          "rank": 5,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
+          "rank": 4,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "End of August",
           "artist": "Noah Kahan"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "The Great Divide",
           "artist": "Noah Kahan"
         },
         {
+          "rank": 7,
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 8,
+          "title": "American Cars",
+          "artist": "Noah Kahan"
+        },
+        {
+          "rank": 9,
           "title": "20 Cigarettes",
           "artist": "Morgan Wallen"
         },
         {
-          "rank": 9,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
-        },
-        {
           "rank": 10,
-          "title": "YUKON",
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
           "artist": "Justin Bieber"
         }
       ]
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Dağılıyorum Olaysız",
-          "artist": "Mabel Matiz"
+          "title": "YIN YANG",
+          "artist": "Motive"
         }
       ]
     },
