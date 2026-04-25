@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T03:37:47.183113+00:00",
+  "generatedAt": "2026-04-25T05:44:23.056693+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,18 +140,18 @@
         },
         {
           "rank": 4,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 5,
           "title": "End of August",
           "artist": "Noah Kahan"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The Great Divide",
           "artist": "Noah Kahan"
+        },
+        {
+          "rank": 6,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 7,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -251,28 +251,28 @@
         },
         {
           "rank": 3,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
-        },
-        {
-          "rank": 4,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
+          "rank": 4,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
           "rank": 5,
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 6,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 6,
-          "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
-        },
-        {
           "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 8,
@@ -281,13 +281,13 @@
         },
         {
           "rank": 9,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 10,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
         }
       ]
     }
