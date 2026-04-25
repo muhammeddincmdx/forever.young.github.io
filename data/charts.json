@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T08:14:16.446294+00:00",
+  "generatedAt": "2026-04-25T09:26:59.197849+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Doors",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 3,
-          "title": "Doors",
-          "artist": "Noah Kahan"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 4,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         }
       ]
     },
