@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T16:01:51.631747+00:00",
+  "generatedAt": "2026-04-25T17:06:11.627523+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,13 +19,13 @@
         },
         {
           "rank": 3,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 4,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 5,
@@ -34,13 +34,13 @@
         },
         {
           "rank": 6,
-          "title": "Risk It All",
-          "artist": "Bruno Mars"
+          "title": "Doors",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 7,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "Risk It All",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 8,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "Baby (w/ Ludacris )",
-          "artist": "Justin Bieber"
+          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 10,
-          "title": "End of Beginning",
-          "artist": "Djo"
+          "title": "back to friends",
+          "artist": "sombr"
         }
       ]
     },
