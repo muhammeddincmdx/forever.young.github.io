@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T17:06:11.627523+00:00",
+  "generatedAt": "2026-04-25T18:01:55.460973+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,23 +150,23 @@
         },
         {
           "rank": 6,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 7,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 8,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 8,
           "title": "American Cars",
           "artist": "Noah Kahan"
+        },
+        {
+          "rank": 9,
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 10,
