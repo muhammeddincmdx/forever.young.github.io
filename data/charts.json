@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T04:00:33.557641+00:00",
+  "generatedAt": "2026-04-26T06:22:30.550626+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,18 +130,18 @@
         },
         {
           "rank": 2,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
+          "rank": 3,
           "title": "Doors",
           "artist": "Noah Kahan"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Be Her",
           "artist": "Ella Langley"
-        },
-        {
-          "rank": 4,
-          "title": "End of August",
-          "artist": "Noah Kahan"
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
         },
         {
           "rank": 6,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "End of August",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 7,
@@ -170,7 +170,7 @@
         },
         {
           "rank": 10,
-          "title": "Downfall",
+          "title": "Porch Light",
           "artist": "Noah Kahan"
         }
       ]
@@ -251,13 +251,13 @@
         },
         {
           "rank": 3,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
         },
         {
           "rank": 4,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 5,
@@ -266,18 +266,18 @@
         },
         {
           "rank": 6,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 7,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 9,
@@ -286,8 +286,8 @@
         },
         {
           "rank": 10,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         }
       ]
     }
