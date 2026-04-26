@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T17:33:23.641172+00:00",
+  "generatedAt": "2026-04-26T18:40:42.368331+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,8 +160,8 @@
         },
         {
           "rank": 8,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "American Cars",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "American Cars",
-          "artist": "Noah Kahan"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         }
       ]
     },
