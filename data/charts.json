@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T06:22:30.550626+00:00",
+  "generatedAt": "2026-04-26T07:58:47.224111+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,33 +135,33 @@
         },
         {
           "rank": 3,
-          "title": "Doors",
-          "artist": "Noah Kahan"
-        },
-        {
-          "rank": 4,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 5,
-          "title": "The Great Divide",
+          "rank": 4,
+          "title": "Doors",
           "artist": "Noah Kahan"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "End of August",
           "artist": "Noah Kahan"
         },
         {
-          "rank": 7,
-          "title": "American Cars",
+          "rank": 6,
+          "title": "The Great Divide",
           "artist": "Noah Kahan"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "DAISIES",
           "artist": "Justin Bieber"
+        },
+        {
+          "rank": 8,
+          "title": "American Cars",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Porch Light",
-          "artist": "Noah Kahan"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 9,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 10,
