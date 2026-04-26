@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T16:34:51.650796+00:00",
+  "generatedAt": "2026-04-26T17:33:23.641172+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -34,28 +34,28 @@
         },
         {
           "rank": 6,
-          "title": "Doors",
-          "artist": "Noah Kahan"
-        },
-        {
-          "rank": 7,
           "title": "Risk It All",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Dracula - JENNIE Remix (w/ JENNIE )",
           "artist": "Tame Impala"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
           "artist": "PinkPantheress"
         },
         {
+          "rank": 9,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
+        },
+        {
           "rank": 10,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "Baby (w/ Ludacris )",
+          "artist": "Justin Bieber"
         }
       ]
     },
