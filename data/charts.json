@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T20:31:27.022198+00:00",
+  "generatedAt": "2026-04-26T21:31:40.203769+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 8,
           "title": "American Cars",
           "artist": "Noah Kahan"
         },
         {
+          "rank": 8,
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 9,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Porch Light",
+          "artist": "Noah Kahan"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "Ara Beni Lütfen",
+          "artist": "Kenan Doğulu"
         }
       ]
     },
