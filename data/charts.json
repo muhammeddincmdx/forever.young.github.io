@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T23:32:46.800111+00:00",
+  "generatedAt": "2026-04-27T02:05:17.900597+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,12 +145,12 @@
         },
         {
           "rank": 5,
-          "title": "End of August",
+          "title": "The Great Divide",
           "artist": "Noah Kahan"
         },
         {
           "rank": 6,
-          "title": "The Great Divide",
+          "title": "End of August",
           "artist": "Noah Kahan"
         },
         {
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Porch Light",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 10,
-          "title": "Porch Light",
-          "artist": "Noah Kahan"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         }
       ]
     },
