@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T02:05:17.900597+00:00",
+  "generatedAt": "2026-04-27T05:37:42.833826+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Porch Light",
-          "artist": "Noah Kahan"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Porch Light",
+          "artist": "Noah Kahan"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Ara Beni Lütfen",
-          "artist": "Kenan Doğulu"
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         }
       ]
     },
@@ -251,18 +251,18 @@
         },
         {
           "rank": 3,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 4,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
         },
         {
           "rank": 5,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 6,
@@ -271,23 +271,23 @@
         },
         {
           "rank": 7,
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 8,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 8,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
           "rank": 9,
-          "title": "Stateside + Zara Larsson",
-          "artist": "PinkPantheress"
+          "title": "YUKON",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 10,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Folded",
+          "artist": "Kehlani"
         }
       ]
     }
