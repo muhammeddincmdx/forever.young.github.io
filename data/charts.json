@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T14:32:22.566646+00:00",
+  "generatedAt": "2026-04-27T16:21:34.309450+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
+          "title": "Porch Light",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 10,
-          "title": "Porch Light",
-          "artist": "Noah Kahan"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -230,6 +230,64 @@
           "rank": 10,
           "title": "UYUYAMADIN DİMİ?",
           "artist": "Poizi"
+        }
+      ]
+    },
+    {
+      "id": "deezer-global-top",
+      "name": "Global Top Tracks",
+      "platform": "Deezer",
+      "source": "https://api.deezer.com/chart/0/tracks?limit=50",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 2,
+          "title": "12 to 12",
+          "artist": "sombr"
+        },
+        {
+          "rank": 3,
+          "title": "Stargazing",
+          "artist": "Myles Smith"
+        },
+        {
+          "rank": 4,
+          "title": "Stateside + Zara Larsson",
+          "artist": "PinkPantheress"
+        },
+        {
+          "rank": 5,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 6,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
+          "rank": 7,
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 8,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 9,
+          "title": "YUKON",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 10,
+          "title": "Folded",
+          "artist": "Kehlani"
         }
       ]
     }
