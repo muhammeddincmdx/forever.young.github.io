@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T08:09:53.575583+00:00",
+  "generatedAt": "2026-04-27T10:29:37.512657+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,12 +145,12 @@
         },
         {
           "rank": 5,
-          "title": "The Great Divide",
+          "title": "End of August",
           "artist": "Noah Kahan"
         },
         {
           "rank": 6,
-          "title": "End of August",
+          "title": "The Great Divide",
           "artist": "Noah Kahan"
         },
         {
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 9,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 9,
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 10,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Porch Light",
+          "artist": "Noah Kahan"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Ara Beni Lütfen",
-          "artist": "Kenan Doğulu"
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         }
       ]
     },
