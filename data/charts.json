@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T19:01:20.613206+00:00",
+  "generatedAt": "2026-04-28T20:45:44.849937+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -29,13 +29,13 @@
         },
         {
           "rank": 5,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 6,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 7,
