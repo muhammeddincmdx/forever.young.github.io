@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T17:09:25.185410+00:00",
+  "generatedAt": "2026-04-28T19:01:20.613206+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "American Cars",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 8,
-          "title": "American Cars",
-          "artist": "Noah Kahan"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 9,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 10,
