@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T20:45:44.849937+00:00",
+  "generatedAt": "2026-04-28T21:51:28.103078+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Porch Light",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 9,
-          "title": "Porch Light",
-          "artist": "Noah Kahan"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "YIN YANG",
+          "artist": "Motive"
         }
       ]
     },
