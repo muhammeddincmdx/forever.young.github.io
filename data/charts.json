@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T23:44:50.588466+00:00",
+  "generatedAt": "2026-04-28T02:11:30.080313+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,12 +145,12 @@
         },
         {
           "rank": 5,
-          "title": "End of August",
+          "title": "The Great Divide",
           "artist": "Noah Kahan"
         },
         {
           "rank": 6,
-          "title": "The Great Divide",
+          "title": "End of August",
           "artist": "Noah Kahan"
         },
         {
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Dashboard",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 10,
-          "title": "Dashboard",
-          "artist": "Noah Kahan"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Yeraltı",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 9,
           "title": "Maraton",
           "artist": "Ati242"
         },
         {
+          "rank": 9,
+          "title": "Yeraltı",
+          "artist": "Eypio"
+        },
+        {
           "rank": 10,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "YIN YANG",
+          "artist": "Motive"
         }
       ]
     },
