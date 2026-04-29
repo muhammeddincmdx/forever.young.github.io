@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T13:57:20.119996+00:00",
+  "generatedAt": "2026-04-29T15:55:24.794825+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "American Cars",
-          "artist": "Noah Kahan"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -208,23 +208,23 @@
         },
         {
           "rank": 6,
-          "title": "Ömrüm",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 7,
           "title": "Beauty and a Beat (feat. Nicki Minaj)",
           "artist": "Justin Bieber"
         },
         {
+          "rank": 7,
+          "title": "Ömrüm",
+          "artist": "Eypio"
+        },
+        {
           "rank": 8,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 9,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 10,
