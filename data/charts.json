@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T17:21:11.849986+00:00",
+  "generatedAt": "2026-04-29T18:54:18.204020+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 8,
-          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 9,
           "title": "back to friends",
           "artist": "sombr"
         },
         {
+          "rank": 9,
+          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
+          "artist": "Tame Impala"
+        },
+        {
           "rank": 10,
-          "title": "End of Beginning",
-          "artist": "Djo"
+          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
+          "artist": "PinkPantheress"
         }
       ]
     },
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 9,
           "title": "Porch Light",
           "artist": "Noah Kahan"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "20 Cigarettes",
           "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 10,
+          "title": "American Cars",
+          "artist": "Noah Kahan"
         }
       ]
     },
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Yeraltı",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 9,
           "title": "Maraton",
           "artist": "Ati242"
         },
         {
+          "rank": 9,
+          "title": "Yeraltı",
+          "artist": "Eypio"
+        },
+        {
           "rank": 10,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "YIN YANG",
+          "artist": "Motive"
         }
       ]
     },
