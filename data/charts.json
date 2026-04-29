@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T20:07:37.817907+00:00",
+  "generatedAt": "2026-04-29T21:38:01.766119+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -203,33 +203,33 @@
         },
         {
           "rank": 5,
-          "title": "Kutupta Yaz Gibi",
-          "artist": "Semicenk & Büken"
-        },
-        {
-          "rank": 6,
           "title": "Beauty and a Beat (feat. Nicki Minaj)",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Maraton",
           "artist": "Ati242"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Yeraltı",
           "artist": "Eypio"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "YIN YANG",
           "artist": "Motive"
+        },
+        {
+          "rank": 10,
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         }
       ]
     },
