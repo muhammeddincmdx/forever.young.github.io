@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T11:57:49.377026+00:00",
+  "generatedAt": "2026-04-29T13:57:20.119996+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
+        },
+        {
+          "rank": 9,
           "title": "Porch Light",
           "artist": "Noah Kahan"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "American Cars",
           "artist": "Noah Kahan"
-        },
-        {
-          "rank": 10,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
         }
       ]
     },
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Ömrüm",
+          "artist": "Eypio"
         },
         {
           "rank": 7,
-          "title": "Ömrüm",
-          "artist": "Eypio"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 8,
