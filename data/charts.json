@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T02:12:54.023066+00:00",
+  "generatedAt": "2026-04-29T05:38:31.087895+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "American Cars",
-          "artist": "Noah Kahan"
-        },
-        {
-          "rank": 8,
           "title": "Porch Light",
           "artist": "Noah Kahan"
         },
         {
-          "rank": 9,
-          "title": "Dashboard",
+          "rank": 8,
+          "title": "American Cars",
           "artist": "Noah Kahan"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 10,
+          "title": "Dashboard",
+          "artist": "Noah Kahan"
         }
       ]
     },
