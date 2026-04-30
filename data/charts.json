@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T08:08:56.326315+00:00",
+  "generatedAt": "2026-04-30T10:22:47.498896+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,18 +150,18 @@
         },
         {
           "rank": 6,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
+        },
+        {
+          "rank": 7,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "End of August",
           "artist": "Noah Kahan"
-        },
-        {
-          "rank": 8,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Porch Light",
-          "artist": "Noah Kahan"
+          "title": "Human Nature",
+          "artist": "Michael Jackson"
         }
       ]
     },
@@ -203,13 +203,13 @@
         },
         {
           "rank": 5,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Ömrüm",
+          "artist": "Eypio"
         },
         {
           "rank": 6,
-          "title": "Ömrüm",
-          "artist": "Eypio"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 7,
