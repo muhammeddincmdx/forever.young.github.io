@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T20:06:00.866802+00:00",
+  "generatedAt": "2026-04-30T21:31:30.130650+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,18 +150,18 @@
         },
         {
           "rank": 6,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 7,
           "title": "20 Cigarettes",
           "artist": "Morgan Wallen"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 8,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
+          "title": "Porch Light",
+          "artist": "Noah Kahan"
         }
       ]
     },
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Yeraltı",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 8,
           "title": "Maraton",
           "artist": "Ati242"
         },
         {
+          "rank": 8,
+          "title": "Yeraltı",
+          "artist": "Eypio"
+        },
+        {
           "rank": 9,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "YIN YANG",
+          "artist": "Motive"
         },
         {
           "rank": 10,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         }
       ]
     },
