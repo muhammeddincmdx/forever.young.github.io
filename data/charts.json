@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T21:11:58.426947+00:00",
+  "generatedAt": "2026-05-01T22:10:06.609866+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,23 +145,23 @@
         },
         {
           "rank": 5,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 6,
           "title": "20 Cigarettes",
           "artist": "Morgan Wallen"
         },
         {
+          "rank": 6,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
+        },
+        {
           "rank": 7,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "The Great Divide",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 8,
-          "title": "The Great Divide",
-          "artist": "Noah Kahan"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
@@ -203,13 +203,13 @@
         },
         {
           "rank": 5,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Ömrüm",
+          "artist": "Eypio"
         },
         {
           "rank": 6,
-          "title": "Ömrüm",
-          "artist": "Eypio"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 7,
