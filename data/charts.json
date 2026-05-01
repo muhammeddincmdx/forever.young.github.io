@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T14:35:15.581948+00:00",
+  "generatedAt": "2026-05-01T15:50:05.914382+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,18 +150,18 @@
         },
         {
           "rank": 6,
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 7,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Human Nature",
           "artist": "Michael Jackson"
-        },
-        {
-          "rank": 8,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
         },
         {
           "rank": 9,
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 8,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 9,
