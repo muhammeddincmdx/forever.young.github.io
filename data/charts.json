@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T11:36:28.433872+00:00",
+  "generatedAt": "2026-05-01T13:03:01.823767+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,8 +155,8 @@
         },
         {
           "rank": 7,
-          "title": "The Great Divide",
-          "artist": "Noah Kahan"
+          "title": "Human Nature",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 8,
@@ -165,8 +165,8 @@
         },
         {
           "rank": 9,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
+          "title": "The Great Divide",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 10,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         },
         {
           "rank": 10,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "YIN YANG",
+          "artist": "Motive"
         }
       ]
     },
