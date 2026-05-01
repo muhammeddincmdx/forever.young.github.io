@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T08:04:26.372575+00:00",
+  "generatedAt": "2026-05-01T10:02:31.338264+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,33 +145,33 @@
         },
         {
           "rank": 5,
-          "title": "The Great Divide",
-          "artist": "Noah Kahan"
-        },
-        {
-          "rank": 6,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 7,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 8,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
+          "rank": 6,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 7,
+          "title": "The Great Divide",
+          "artist": "Noah Kahan"
+        },
+        {
+          "rank": 8,
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
+        },
+        {
           "rank": 9,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
+          "title": "Human Nature",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 10,
-          "title": "End of August",
-          "artist": "Noah Kahan"
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
         }
       ]
     },
@@ -203,18 +203,18 @@
         },
         {
           "rank": 5,
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 6,
           "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Maraton",
           "artist": "Ati242"
-        },
-        {
-          "rank": 7,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
         },
         {
           "rank": 8,
