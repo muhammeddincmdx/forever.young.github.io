@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T15:50:05.914382+00:00",
+  "generatedAt": "2026-05-01T16:48:40.021116+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -39,23 +39,23 @@
         },
         {
           "rank": 7,
-          "title": "Risk It All",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 8,
-          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 9,
           "title": "Beat It",
           "artist": "Michael Jackson"
         },
         {
+          "rank": 8,
+          "title": "Risk It All",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 9,
+          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
+          "artist": "Tame Impala"
+        },
+        {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "back to friends",
+          "artist": "sombr"
         }
       ]
     },
@@ -72,27 +72,27 @@
         },
         {
           "rank": 2,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 3,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
+          "rank": 4,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
           "rank": 5,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 6,
-          "title": "Baby (w/ Ludacris )",
+          "title": "DAISIES",
           "artist": "Justin Bieber"
         },
         {
@@ -107,13 +107,13 @@
         },
         {
           "rank": 9,
-          "title": "Confident - Single Version (w/ Chance the Rapper )",
-          "artist": "Justin Bieber"
+          "title": "back to friends",
+          "artist": "sombr"
         },
         {
           "rank": 10,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
+          "artist": "PinkPantheress"
         }
       ]
     },
