@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T03:57:25.009311+00:00",
+  "generatedAt": "2026-05-02T06:05:54.752494+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -251,43 +251,43 @@
         },
         {
           "rank": 3,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 4,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 5,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 6,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
-          "rank": 7,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 8,
           "title": "Stargazing",
           "artist": "Myles Smith"
         },
         {
-          "rank": 9,
+          "rank": 5,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 6,
           "title": "The Fate of Ophelia",
           "artist": "Taylor Swift"
         },
         {
+          "rank": 7,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
+          "rank": 8,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 9,
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
+        },
+        {
           "rank": 10,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
         }
       ]
     }
