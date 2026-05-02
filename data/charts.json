@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T17:11:44.069877+00:00",
+  "generatedAt": "2026-05-02T18:06:56.033154+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -34,28 +34,28 @@
         },
         {
           "rank": 6,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 7,
           "title": "Beat It",
           "artist": "Michael Jackson"
         },
         {
+          "rank": 7,
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 8,
-          "title": "Risk It All",
-          "artist": "Bruno Mars"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 9,
-          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
-          "artist": "Tame Impala"
+          "title": "back to friends",
+          "artist": "sombr"
         },
         {
           "rank": 10,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
+          "artist": "PinkPantheress"
         }
       ]
     },
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 6,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Human Nature",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 7,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "The Great Divide",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 10,
-          "title": "The Great Divide",
-          "artist": "Noah Kahan"
+          "title": "E85",
+          "artist": "Don Toliver"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "YIN YANG",
+          "artist": "Motive"
         },
         {
           "rank": 10,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         }
       ]
     },
