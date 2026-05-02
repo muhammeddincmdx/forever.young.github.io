@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T06:05:54.752494+00:00",
+  "generatedAt": "2026-05-02T08:04:04.076067+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,8 +140,8 @@
         },
         {
           "rank": 4,
-          "title": "Doors",
-          "artist": "Noah Kahan"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 5,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Doors",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 7,
-          "title": "The Great Divide",
-          "artist": "Noah Kahan"
+          "title": "Human Nature",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
+          "title": "The Great Divide",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 10,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
+          "title": "E85",
+          "artist": "Don Toliver"
         }
       ]
     },
@@ -203,23 +203,23 @@
         },
         {
           "rank": 5,
-          "title": "Ömrüm",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 6,
           "title": "Maraton",
           "artist": "Ati242"
         },
         {
-          "rank": 7,
-          "title": "Yeraltı",
+          "rank": 6,
+          "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Beauty and a Beat (feat. Nicki Minaj)",
           "artist": "Justin Bieber"
+        },
+        {
+          "rank": 8,
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 9,
