@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T09:16:13.213411+00:00",
+  "generatedAt": "2026-05-03T10:29:46.981075+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Human Nature",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 6,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 7,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Dirty Diana",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 9,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 10,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         },
         {
           "rank": 10,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "YIN YANG",
+          "artist": "Motive"
         }
       ]
     },
