@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T05:41:34.947334+00:00",
+  "generatedAt": "2026-05-03T07:51:16.197113+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "Doors",
-          "artist": "Noah Kahan"
+          "title": "Human Nature",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 7,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
+          "title": "Doors",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "The Great Divide",
-          "artist": "Noah Kahan"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "E85",
+          "artist": "Don Toliver"
         }
       ]
     },
