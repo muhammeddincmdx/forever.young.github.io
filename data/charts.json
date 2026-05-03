@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T14:42:41.172231+00:00",
+  "generatedAt": "2026-05-03T15:40:06.478681+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Doors",
-          "artist": "Noah Kahan"
+          "title": "Freestyle",
+          "artist": "Lil Baby"
         },
         {
           "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Doors",
+          "artist": "Noah Kahan"
         }
       ]
     },
