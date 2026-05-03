@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T12:03:40.810371+00:00",
+  "generatedAt": "2026-05-03T13:53:05.703959+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,18 +155,18 @@
         },
         {
           "rank": 7,
-          "title": "Doors",
-          "artist": "Noah Kahan"
-        },
-        {
-          "rank": 8,
           "title": "Dirty Diana",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "E85",
           "artist": "Don Toliver"
+        },
+        {
+          "rank": 9,
+          "title": "Doors",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 10,
