@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T21:34:53.406349+00:00",
+  "generatedAt": "2026-05-03T22:33:41.881974+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 6,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Human Nature",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 7,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Dirty Diana",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 9,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "I'm The Problem",
           "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 10,
+          "title": "Dirty Diana",
+          "artist": "Michael Jackson"
         }
       ]
     },
