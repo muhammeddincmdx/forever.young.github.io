@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T02:08:26.636670+00:00",
+  "generatedAt": "2026-05-04T05:46:57.247425+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 9,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 9,
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
+        },
+        {
           "rank": 10,
-          "title": "The Great Divide",
-          "artist": "Noah Kahan"
+          "title": "Dirty Diana",
+          "artist": "Michael Jackson"
         }
       ]
     },
@@ -203,13 +203,13 @@
         },
         {
           "rank": 5,
-          "title": "Ömrüm",
-          "artist": "Eypio"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 6,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Ömrüm",
+          "artist": "Eypio"
         },
         {
           "rank": 7,
@@ -251,43 +251,43 @@
         },
         {
           "rank": 3,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 4,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
-          "rank": 5,
           "title": "WHERE IS MY HUSBAND!",
           "artist": "RAYE"
         },
         {
+          "rank": 5,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
           "rank": 6,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 7,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 8,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 8,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
-        },
-        {
           "rank": 9,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 10,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         }
       ]
     }
