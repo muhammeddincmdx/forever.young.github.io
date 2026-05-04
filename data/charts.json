@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T05:46:57.247425+00:00",
+  "generatedAt": "2026-05-04T08:21:18.890431+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,33 +145,33 @@
         },
         {
           "rank": 5,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 6,
           "title": "Human Nature",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 7,
-          "title": "Doors",
-          "artist": "Noah Kahan"
+          "rank": 6,
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 8,
+          "title": "Dirty Diana",
+          "artist": "Michael Jackson"
+        },
+        {
           "rank": 9,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "Doors",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 10,
-          "title": "Dirty Diana",
-          "artist": "Michael Jackson"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 9,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "YIN YANG",
+          "artist": "Motive"
         },
         {
           "rank": 10,
