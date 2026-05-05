@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T12:44:05.430581+00:00",
+  "generatedAt": "2026-05-05T17:01:41.522176+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Don't Stop 'Til You Get Enough",
-          "artist": "Michael Jackson"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -203,13 +203,13 @@
         },
         {
           "rank": 5,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Ömrüm",
+          "artist": "Eypio"
         },
         {
           "rank": 6,
-          "title": "Ömrüm",
-          "artist": "Eypio"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 7,
