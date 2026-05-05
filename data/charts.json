@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T07:30:11.090421+00:00",
+  "generatedAt": "2026-05-05T09:28:20.310083+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Doors",
-          "artist": "Noah Kahan"
-        },
-        {
-          "rank": 9,
           "title": "Dirty Diana",
           "artist": "Michael Jackson"
         },
         {
+          "rank": 9,
+          "title": "Doors",
+          "artist": "Noah Kahan"
+        },
+        {
           "rank": 10,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "Don't Stop 'Til You Get Enough",
+          "artist": "Michael Jackson"
         }
       ]
     },
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 8,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "YIN YANG",
+          "artist": "Motive"
         },
         {
           "rank": 9,
