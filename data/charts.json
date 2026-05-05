@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T23:45:36.354459+00:00",
+  "generatedAt": "2026-05-05T02:07:23.626956+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,18 +155,18 @@
         },
         {
           "rank": 7,
+          "title": "Doors",
+          "artist": "Noah Kahan"
+        },
+        {
+          "rank": 8,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Dirty Diana",
           "artist": "Michael Jackson"
-        },
-        {
-          "rank": 9,
-          "title": "Doors",
-          "artist": "Noah Kahan"
         },
         {
           "rank": 10,
@@ -203,23 +203,23 @@
         },
         {
           "rank": 5,
-          "title": "Ömrüm",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 6,
           "title": "Maraton",
           "artist": "Ati242"
         },
         {
-          "rank": 7,
-          "title": "Yeraltı",
+          "rank": 6,
+          "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "YIN YANG",
           "artist": "Motive"
+        },
+        {
+          "rank": 8,
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 9,
