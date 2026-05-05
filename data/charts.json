@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T02:07:23.626956+00:00",
+  "generatedAt": "2026-05-05T05:25:59.268528+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Dirty Diana",
-          "artist": "Michael Jackson"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "Dirty Diana",
+          "artist": "Michael Jackson"
         }
       ]
     },
@@ -251,13 +251,13 @@
         },
         {
           "rank": 3,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 4,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 5,
@@ -266,28 +266,28 @@
         },
         {
           "rank": 6,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 7,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 8,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
+          "rank": 9,
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
+        },
+        {
           "rank": 10,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "YUKON",
+          "artist": "Justin Bieber"
         }
       ]
     }
