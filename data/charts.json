@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T23:41:33.669618+00:00",
+  "generatedAt": "2026-05-06T02:07:43.152033+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,12 +140,12 @@
         },
         {
           "rank": 4,
-          "title": "Human Nature",
+          "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
           "rank": 5,
-          "title": "Billie Jean",
+          "title": "Human Nature",
           "artist": "Michael Jackson"
         },
         {
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Doors",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 8,
-          "title": "Doors",
-          "artist": "Noah Kahan"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "YIN YANG",
+          "artist": "Motive"
         },
         {
           "rank": 8,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Ara Beni Lütfen",
+          "artist": "Kenan Doğulu"
         }
       ]
     },
