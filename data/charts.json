@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T12:24:21.855102+00:00",
+  "generatedAt": "2026-05-06T15:08:26.130826+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -203,28 +203,28 @@
         },
         {
           "rank": 5,
-          "title": "Maraton",
-          "artist": "Ati242"
-        },
-        {
-          "rank": 6,
           "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
-          "rank": 7,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "rank": 6,
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Yeraltı",
           "artist": "Eypio"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "UYUYAMADIN DİMİ?",
           "artist": "Poizi"
+        },
+        {
+          "rank": 9,
+          "title": "YIN YANG",
+          "artist": "Motive"
         },
         {
           "rank": 10,
