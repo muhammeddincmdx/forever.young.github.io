@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T18:18:42.974244+00:00",
+  "generatedAt": "2026-05-06T20:07:54.501232+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -39,13 +39,13 @@
         },
         {
           "rank": 7,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
+          "title": "back to friends",
+          "artist": "sombr"
         },
         {
           "rank": 8,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 9,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 10,
-          "title": "Risk It All",
-          "artist": "Bruno Mars"
+          "title": "End of Beginning",
+          "artist": "Djo"
         }
       ]
     },
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Dirty Diana",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 9,
           "title": "Doors",
           "artist": "Noah Kahan"
         },
         {
-          "rank": 10,
-          "title": "Don't Stop 'Til You Get Enough",
+          "rank": 9,
+          "title": "Dirty Diana",
           "artist": "Michael Jackson"
+        },
+        {
+          "rank": 10,
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -203,13 +203,13 @@
         },
         {
           "rank": 5,
-          "title": "Ömrüm",
-          "artist": "Eypio"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 6,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Ömrüm",
+          "artist": "Eypio"
         },
         {
           "rank": 7,
