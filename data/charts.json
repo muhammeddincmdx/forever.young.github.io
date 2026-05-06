@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T05:41:33.844146+00:00",
+  "generatedAt": "2026-05-06T08:12:38.318425+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Doors",
-          "artist": "Noah Kahan"
-        },
-        {
-          "rank": 9,
           "title": "Dirty Diana",
           "artist": "Michael Jackson"
         },
         {
+          "rank": 9,
+          "title": "Doors",
+          "artist": "Noah Kahan"
+        },
+        {
           "rank": 10,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "Don't Stop 'Til You Get Enough",
+          "artist": "Michael Jackson"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Ara Beni Lütfen",
-          "artist": "Kenan Doğulu"
+          "title": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist": "Justin Bieber"
         }
       ]
     },
