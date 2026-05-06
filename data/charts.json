@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T10:31:16.788472+00:00",
+  "generatedAt": "2026-05-06T12:24:21.855102+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -251,32 +251,32 @@
         },
         {
           "rank": 3,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 4,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 5,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
+          "rank": 5,
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
+        },
+        {
           "rank": 6,
-          "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 8,
-          "title": "Man I Need",
+          "title": "So Easy (To Fall In Love)",
           "artist": "Olivia Dean"
         },
         {
@@ -286,8 +286,8 @@
         },
         {
           "rank": 10,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     }
