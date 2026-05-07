@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T08:22:20.400229+00:00",
+  "generatedAt": "2026-05-07T10:38:31.168555+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Dirty Diana",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 8,
-          "title": "Dirty Diana",
-          "artist": "Michael Jackson"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "Don't Stop 'Til You Get Enough",
+          "artist": "Michael Jackson"
         }
       ]
     },
