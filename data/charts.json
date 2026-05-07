@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T15:10:22.924401+00:00",
+  "generatedAt": "2026-05-07T17:14:04.490866+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 8,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "End of Beginning",
+          "artist": "Djo"
         },
         {
           "rank": 10,
-          "title": "End of Beginning",
-          "artist": "Djo"
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
         }
       ]
     },
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Don't Stop 'Til You Get Enough",
-          "artist": "Michael Jackson"
+          "title": "Doors",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 10,
-          "title": "Doors",
-          "artist": "Noah Kahan"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -223,8 +223,8 @@
         },
         {
           "rank": 9,
-          "title": "YIN YANG",
-          "artist": "Motive"
+          "title": "Vursunlar (Roman Version)",
+          "artist": "Tekir & Gökhan Namlı"
         },
         {
           "rank": 10,
