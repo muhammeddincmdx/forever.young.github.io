@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T12:25:30.277595+00:00",
+  "generatedAt": "2026-05-07T15:10:22.924401+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,12 +140,12 @@
         },
         {
           "rank": 4,
-          "title": "Billie Jean",
+          "title": "Human Nature",
           "artist": "Michael Jackson"
         },
         {
           "rank": 5,
-          "title": "Human Nature",
+          "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Doors",
-          "artist": "Noah Kahan"
+          "title": "Don't Stop 'Til You Get Enough",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 10,
-          "title": "Don't Stop 'Til You Get Enough",
-          "artist": "Michael Jackson"
+          "title": "Doors",
+          "artist": "Noah Kahan"
         }
       ]
     },
@@ -203,28 +203,28 @@
         },
         {
           "rank": 5,
-          "title": "Maraton",
-          "artist": "Ati242"
-        },
-        {
-          "rank": 6,
           "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
+          "rank": 6,
+          "title": "Maraton",
+          "artist": "Ati242"
+        },
+        {
           "rank": 7,
+          "title": "Yeraltı",
+          "artist": "Eypio"
+        },
+        {
+          "rank": 8,
           "title": "UYUYAMADIN DİMİ?",
           "artist": "Poizi"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "YIN YANG",
           "artist": "Motive"
-        },
-        {
-          "rank": 9,
-          "title": "Yeraltı",
-          "artist": "Eypio"
         },
         {
           "rank": 10,
