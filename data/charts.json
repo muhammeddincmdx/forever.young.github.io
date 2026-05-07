@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T05:44:24.584948+00:00",
+  "generatedAt": "2026-05-07T08:22:20.400229+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -251,18 +251,18 @@
         },
         {
           "rank": 3,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
         },
         {
           "rank": 4,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 5,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 6,
@@ -271,23 +271,23 @@
         },
         {
           "rank": 7,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
+          "rank": 8,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 8,
-          "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
-        },
-        {
           "rank": 9,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 10,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
         }
       ]
     }
