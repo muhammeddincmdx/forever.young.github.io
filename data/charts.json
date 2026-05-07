@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T23:42:37.606179+00:00",
+  "generatedAt": "2026-05-07T02:10:04.230848+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Yeraltı",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 8,
           "title": "UYUYAMADIN DİMİ?",
           "artist": "Poizi"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "YIN YANG",
           "artist": "Motive"
         },
         {
+          "rank": 9,
+          "title": "Yeraltı",
+          "artist": "Eypio"
+        },
+        {
           "rank": 10,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "Vursunlar (Roman Version)",
+          "artist": "Tekir & Gökhan Namlı"
         }
       ]
     },
