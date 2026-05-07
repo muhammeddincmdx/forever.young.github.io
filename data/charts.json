@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T17:14:04.490866+00:00",
+  "generatedAt": "2026-05-07T19:11:47.320076+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "Dirty Diana",
-          "artist": "Michael Jackson"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 8,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Dirty Diana",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Beauty and a Beat (feat. Nicki Minaj)",
-          "artist": "Justin Bieber"
+          "title": "YIN YANG",
+          "artist": "Motive"
         }
       ]
     },
