@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T08:53:36.462640+00:00",
+  "generatedAt": "2026-05-08T10:19:16.782289+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,12 +140,12 @@
         },
         {
           "rank": 4,
-          "title": "Billie Jean",
+          "title": "Human Nature",
           "artist": "Michael Jackson"
         },
         {
           "rank": 5,
-          "title": "Human Nature",
+          "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 8,
           "title": "Dirty Diana",
           "artist": "Michael Jackson"
         },
         {
+          "rank": 8,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
           "rank": 9,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "Don't Stop 'Til You Get Enough",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 10,
-          "title": "Doors",
-          "artist": "Noah Kahan"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -203,33 +203,33 @@
         },
         {
           "rank": 5,
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
+        },
+        {
+          "rank": 6,
           "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Maraton",
           "artist": "Ati242"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Yeraltı",
           "artist": "Eypio"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "UYUYAMADIN DİMİ?",
           "artist": "Poizi"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "YIN YANG",
           "artist": "Motive"
-        },
-        {
-          "rank": 10,
-          "title": "Vursunlar (Roman Version)",
-          "artist": "Tekir & Gökhan Namlı"
         }
       ]
     },
