@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T11:50:59.966138+00:00",
+  "generatedAt": "2026-05-08T13:15:41.986296+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -188,23 +188,23 @@
         },
         {
           "rank": 2,
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
+        },
+        {
+          "rank": 3,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Beni Al",
           "artist": "Ankara Echoes"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Daha İyi",
           "artist": "manifest"
-        },
-        {
-          "rank": 5,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 6,
