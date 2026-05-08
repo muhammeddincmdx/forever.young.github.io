@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T05:15:04.723494+00:00",
+  "generatedAt": "2026-05-08T07:03:44.174538+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,12 +140,12 @@
         },
         {
           "rank": 4,
-          "title": "Human Nature",
+          "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
           "rank": 5,
-          "title": "Billie Jean",
+          "title": "Human Nature",
           "artist": "Michael Jackson"
         },
         {
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Doors",
-          "artist": "Noah Kahan"
-        },
-        {
-          "rank": 9,
           "title": "Dirty Diana",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "I'm The Problem",
           "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 10,
+          "title": "Doors",
+          "artist": "Noah Kahan"
         }
       ]
     },
@@ -251,43 +251,43 @@
         },
         {
           "rank": 3,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 4,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 5,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
-          "rank": 6,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 7,
-          "title": "Man I Need",
+          "rank": 5,
+          "title": "So Easy (To Fall In Love)",
           "artist": "Olivia Dean"
         },
         {
-          "rank": 8,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 9,
+          "rank": 6,
           "title": "The Fate of Ophelia",
           "artist": "Taylor Swift"
         },
         {
+          "rank": 7,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 8,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 9,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
           "rank": 10,
-          "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
+          "title": "YUKON",
+          "artist": "Justin Bieber"
         }
       ]
     }
