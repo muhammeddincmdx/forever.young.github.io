@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T15:28:35.798217+00:00",
+  "generatedAt": "2026-05-09T16:27:53.432244+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,8 +155,8 @@
         },
         {
           "rank": 7,
-          "title": "Dirty Diana",
-          "artist": "Michael Jackson"
+          "title": "Obvious",
+          "artist": "Chris Brown"
         },
         {
           "rank": 8,
@@ -165,8 +165,8 @@
         },
         {
           "rank": 9,
-          "title": "Obvious",
-          "artist": "Chris Brown"
+          "title": "Dirty Diana",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 10,
@@ -183,13 +183,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 2,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 3,
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Maraton",
-          "artist": "Ati242"
-        },
-        {
-          "rank": 8,
           "title": "ANKARA TATANGALAR",
           "artist": "Lvbel C5, AKDO & Ezhel"
         },
         {
+          "rank": 8,
+          "title": "Amatör",
+          "artist": "manifest"
+        },
+        {
           "rank": 9,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 10,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         }
       ]
     },
