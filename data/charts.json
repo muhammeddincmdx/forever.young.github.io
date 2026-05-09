@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T02:10:46.290869+00:00",
+  "generatedAt": "2026-05-09T05:33:09.233895+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,12 +140,12 @@
         },
         {
           "rank": 4,
-          "title": "Human Nature",
+          "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
           "rank": 5,
-          "title": "Billie Jean",
+          "title": "Human Nature",
           "artist": "Michael Jackson"
         },
         {
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Doors",
-          "artist": "Noah Kahan"
-        },
-        {
-          "rank": 9,
           "title": "Leave Me Alone",
           "artist": "Chris Brown"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "I'm The Problem",
           "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 10,
+          "title": "Doors",
+          "artist": "Noah Kahan"
         }
       ]
     },
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
+          "title": "ANKARA TATANGALAR",
+          "artist": "Lvbel C5, AKDO & Ezhel"
+        },
+        {
+          "rank": 9,
           "title": "Yeraltı",
           "artist": "Eypio"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "UYUYAMADIN DİMİ?",
           "artist": "Poizi"
-        },
-        {
-          "rank": 10,
-          "title": "ANKARA TATANGALAR",
-          "artist": "Lvbel C5, AKDO & Ezhel"
         }
       ]
     },
@@ -251,43 +251,43 @@
         },
         {
           "rank": 3,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
-        },
-        {
-          "rank": 4,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
-          "rank": 5,
-          "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 6,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 7,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 8,
+          "rank": 4,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 9,
+          "rank": 5,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 10,
-          "title": "YUKON",
+          "rank": 6,
+          "title": "DAISIES",
           "artist": "Justin Bieber"
+        },
+        {
+          "rank": 7,
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 8,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
+          "rank": 9,
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
+        },
+        {
+          "rank": 10,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     }
