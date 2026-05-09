@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T18:13:12.014959+00:00",
+  "generatedAt": "2026-05-09T19:39:03.385679+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 3,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 4,
@@ -29,33 +29,33 @@
         },
         {
           "rank": 5,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 6,
           "title": "Beat It",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 7,
-          "title": "back to friends",
-          "artist": "sombr"
+          "rank": 6,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Dracula - JENNIE Remix (w/ JENNIE )",
           "artist": "Tame Impala"
         },
         {
+          "rank": 8,
+          "title": "back to friends",
+          "artist": "sombr"
+        },
+        {
           "rank": 9,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "Don't Stop 'Til You Get Enough - Single Version",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 10,
-          "title": "End of Beginning",
-          "artist": "Djo"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         }
       ]
     },
