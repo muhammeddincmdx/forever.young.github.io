@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T14:34:31.246628+00:00",
+  "generatedAt": "2026-05-10T15:44:11.435264+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -39,23 +39,23 @@
         },
         {
           "rank": 7,
-          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 8,
-          "title": "back to friends",
-          "artist": "sombr"
-        },
-        {
-          "rank": 9,
           "title": "Don't Stop 'Til You Get Enough - Single Version",
           "artist": "Michael Jackson"
         },
         {
+          "rank": 8,
+          "title": "Dracula - JENNIE Remix (w/ JENNIE )",
+          "artist": "Tame Impala"
+        },
+        {
+          "rank": 9,
+          "title": "back to friends",
+          "artist": "sombr"
+        },
+        {
           "rank": 10,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "End of Beginning",
+          "artist": "Djo"
         }
       ]
     },
