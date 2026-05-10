@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T07:59:53.516342+00:00",
+  "generatedAt": "2026-05-10T09:42:26.421649+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "Dirty Diana",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 8,
-          "title": "Dirty Diana",
-          "artist": "Michael Jackson"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Doors",
-          "artist": "Noah Kahan"
+          "title": "E85",
+          "artist": "Don Toliver"
         }
       ]
     },
