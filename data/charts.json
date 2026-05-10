@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T11:47:15.002490+00:00",
+  "generatedAt": "2026-05-10T13:02:15.148664+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Bottom Of Your Boots",
-          "artist": "Ella Langley"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 10,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "Don't Stop 'Til You Get Enough",
+          "artist": "Michael Jackson"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Amatör",
+          "artist": "manifest"
         },
         {
           "rank": 9,
-          "title": "Amatör",
-          "artist": "manifest"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 10,
