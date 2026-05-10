@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T15:44:11.435264+00:00",
+  "generatedAt": "2026-05-10T16:44:39.911318+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "ANKARA TATANGALAR",
-          "artist": "Lvbel C5, AKDO & Ezhel"
-        },
-        {
-          "rank": 8,
           "title": "Amatör",
           "artist": "manifest"
         },
         {
+          "rank": 8,
+          "title": "ANKARA TATANGALAR",
+          "artist": "Lvbel C5, AKDO & Ezhel"
+        },
+        {
           "rank": 9,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 10,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         }
       ]
     },
