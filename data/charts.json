@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T23:40:03.837028+00:00",
+  "generatedAt": "2026-05-10T02:12:24.381606+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,18 +155,18 @@
         },
         {
           "rank": 7,
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 8,
           "title": "Obvious",
           "artist": "Chris Brown"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Fallin' (feat. Leon Thomas)",
           "artist": "Chris Brown"
-        },
-        {
-          "rank": 9,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "Snap",
+          "artist": "manifest"
         }
       ]
     },
