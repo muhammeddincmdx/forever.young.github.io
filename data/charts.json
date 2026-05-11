@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T02:30:56.345299+00:00",
+  "generatedAt": "2026-05-11T06:31:41.920704+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Yeraltı",
-          "artist": "Eypio"
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         }
       ]
     },
@@ -251,43 +251,43 @@
         },
         {
           "rank": 3,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
-        },
-        {
-          "rank": 4,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 5,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 6,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 7,
-          "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 8,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
-          "rank": 9,
+          "rank": 4,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 5,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 6,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 7,
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 8,
           "title": "WHERE IS MY HUSBAND!",
           "artist": "RAYE"
         },
         {
+          "rank": 9,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
           "rank": 10,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
         }
       ]
     }
