@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T10:31:12.321311+00:00",
+  "generatedAt": "2026-05-11T13:41:00.214283+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Human Nature",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 4,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 9,
           "title": "Don't Stop 'Til You Get Enough",
           "artist": "Michael Jackson"
         },
         {
+          "rank": 9,
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
+        },
+        {
           "rank": 10,
-          "title": "Doors",
-          "artist": "Noah Kahan"
+          "title": "Beat It",
+          "artist": "Michael Jackson"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         },
         {
           "rank": 10,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "Yeraltı",
+          "artist": "Eypio"
         }
       ]
     },
