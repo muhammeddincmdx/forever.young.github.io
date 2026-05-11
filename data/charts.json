@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T18:15:42.118304+00:00",
+  "generatedAt": "2026-05-11T20:12:54.595551+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 4,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Human Nature",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 5,
@@ -160,8 +160,8 @@
         },
         {
           "rank": 8,
-          "title": "Don't Stop 'Til You Get Enough",
-          "artist": "Michael Jackson"
+          "title": "Doors",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 9,
@@ -170,7 +170,7 @@
         },
         {
           "rank": 10,
-          "title": "Beat It",
+          "title": "Don't Stop 'Til You Get Enough",
           "artist": "Michael Jackson"
         }
       ]
