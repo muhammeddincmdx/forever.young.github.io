@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T05:51:23.271491+00:00",
+  "generatedAt": "2026-05-12T08:29:49.175435+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "Doors",
-          "artist": "Noah Kahan"
+          "title": "Dirty Diana",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 8,
-          "title": "Dirty Diana",
-          "artist": "Michael Jackson"
+          "title": "Doors",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Bottom Of Your Boots",
-          "artist": "Ella Langley"
+          "title": "E85",
+          "artist": "Don Toliver"
         }
       ]
     },
