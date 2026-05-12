@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T08:29:49.175435+00:00",
+  "generatedAt": "2026-05-12T10:59:50.795419+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Human Nature",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 4,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 10,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -213,8 +213,8 @@
         },
         {
           "rank": 7,
-          "title": "ANKARA TATANGALAR",
-          "artist": "Lvbel C5, AKDO & Ezhel"
+          "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
+          "artist": "aespa"
         },
         {
           "rank": 8,
@@ -223,8 +223,8 @@
         },
         {
           "rank": 9,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "ANKARA TATANGALAR",
+          "artist": "Lvbel C5, AKDO & Ezhel"
         },
         {
           "rank": 10,
@@ -251,28 +251,28 @@
         },
         {
           "rank": 3,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 4,
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 5,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 5,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
           "rank": 6,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 7,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 8,
@@ -281,12 +281,12 @@
         },
         {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "So Easy (To Fall In Love)",
+          "title": "Man I Need",
           "artist": "Olivia Dean"
         }
       ]
