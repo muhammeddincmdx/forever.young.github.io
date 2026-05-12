@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T13:08:01.438359+00:00",
+  "generatedAt": "2026-05-12T15:57:54.578069+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -34,18 +34,18 @@
         },
         {
           "rank": 6,
+          "title": "back to friends",
+          "artist": "sombr"
+        },
+        {
+          "rank": 7,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Don't Stop 'Til You Get Enough - Single Version",
           "artist": "Michael Jackson"
-        },
-        {
-          "rank": 8,
-          "title": "back to friends",
-          "artist": "sombr"
         },
         {
           "rank": 9,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 10,
-          "title": "Risk It All",
-          "artist": "Bruno Mars"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         }
       ]
     },
