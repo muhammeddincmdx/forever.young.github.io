@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T02:31:12.024763+00:00",
+  "generatedAt": "2026-05-13T06:20:33.238224+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Bottom Of Your Boots",
-          "artist": "Ella Langley"
+          "title": "E85",
+          "artist": "Don Toliver"
         }
       ]
     },
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Amatör",
-          "artist": "manifest"
-        },
-        {
-          "rank": 8,
           "title": "Maraton",
           "artist": "Ati242"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
           "artist": "aespa"
         },
         {
+          "rank": 9,
+          "title": "Amatör",
+          "artist": "manifest"
+        },
+        {
           "rank": 10,
-          "title": "ANKARA TATANGALAR",
-          "artist": "Lvbel C5, AKDO & Ezhel"
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         }
       ]
     },
