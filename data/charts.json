@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T09:23:20.612300+00:00",
+  "generatedAt": "2026-05-13T11:38:48.854231+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "Doors",
-          "artist": "Noah Kahan"
-        },
-        {
-          "rank": 8,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 9,
           "title": "Dirty Diana",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 10,
+          "rank": 8,
           "title": "E85",
           "artist": "Don Toliver"
+        },
+        {
+          "rank": 9,
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 10,
+          "title": "Doors",
+          "artist": "Noah Kahan"
         }
       ]
     },
@@ -208,23 +208,23 @@
         },
         {
           "rank": 6,
-          "title": "Ömrüm",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 7,
-          "title": "Maraton",
-          "artist": "Ati242"
-        },
-        {
-          "rank": 8,
           "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
           "artist": "aespa"
         },
         {
+          "rank": 7,
+          "title": "Ömrüm",
+          "artist": "Eypio"
+        },
+        {
+          "rank": 8,
+          "title": "Heavy Serenade",
+          "artist": "NMIXX"
+        },
+        {
           "rank": 9,
-          "title": "Amatör",
-          "artist": "manifest"
+          "title": "Maraton",
+          "artist": "Ati242"
         },
         {
           "rank": 10,
@@ -251,18 +251,18 @@
         },
         {
           "rank": 3,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 4,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 5,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 6,
@@ -271,8 +271,8 @@
         },
         {
           "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 8,
@@ -281,13 +281,13 @@
         },
         {
           "rank": 9,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         }
       ]
     }
