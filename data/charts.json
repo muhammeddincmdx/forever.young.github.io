@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T11:38:48.854231+00:00",
+  "generatedAt": "2026-05-13T14:12:37.903406+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Human Nature",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 4,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
@@ -208,28 +208,28 @@
         },
         {
           "rank": 6,
-          "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
-          "artist": "aespa"
-        },
-        {
-          "rank": 7,
           "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
-          "rank": 8,
-          "title": "Heavy Serenade",
-          "artist": "NMIXX"
+          "rank": 7,
+          "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
+          "artist": "aespa"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Maraton",
           "artist": "Ati242"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "UYUYAMADIN DİMİ?",
           "artist": "Poizi"
+        },
+        {
+          "rank": 10,
+          "title": "Heavy Serenade",
+          "artist": "NMIXX"
         }
       ]
     },
