@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T14:12:37.903406+00:00",
+  "generatedAt": "2026-05-13T16:38:42.290938+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -44,8 +44,8 @@
         },
         {
           "rank": 8,
-          "title": "Don't Stop 'Til You Get Enough - Single Version",
-          "artist": "Michael Jackson"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 9,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 10,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Don't Stop 'Til You Get Enough - Single Version",
+          "artist": "Michael Jackson"
         }
       ]
     },
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 4,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Human Nature",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 5,
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 9,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 10,
