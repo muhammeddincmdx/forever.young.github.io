@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T18:52:53.720139+00:00",
+  "generatedAt": "2026-05-13T20:27:30.059953+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "Doors",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 10,
-          "title": "Doors",
-          "artist": "Noah Kahan"
+          "title": "E85",
+          "artist": "Don Toliver"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Heavy Serenade",
-          "artist": "NMIXX"
+          "title": "Amatör",
+          "artist": "manifest"
         }
       ]
     },
