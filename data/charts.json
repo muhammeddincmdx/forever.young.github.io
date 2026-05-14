@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T04:27:00.553133+00:00",
+  "generatedAt": "2026-05-14T07:28:06.613762+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "E85",
+          "artist": "Don Toliver"
         },
         {
           "rank": 8,
-          "title": "Doors",
-          "artist": "Noah Kahan"
-        },
-        {
-          "rank": 9,
           "title": "Dirty Diana",
           "artist": "Michael Jackson"
         },
         {
+          "rank": 9,
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
+        },
+        {
           "rank": 10,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "Doors",
+          "artist": "Noah Kahan"
         }
       ]
     },
@@ -218,8 +218,8 @@
         },
         {
           "rank": 8,
-          "title": "Amatör",
-          "artist": "manifest"
+          "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
+          "artist": "aespa"
         },
         {
           "rank": 9,
@@ -228,7 +228,7 @@
         },
         {
           "rank": 10,
-          "title": "Snap",
+          "title": "Amatör",
           "artist": "manifest"
         }
       ]
