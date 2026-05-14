@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T20:11:51.784553+00:00",
+  "generatedAt": "2026-05-14T21:41:55.103536+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "Dirty Diana",
-          "artist": "Michael Jackson"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 9,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "Dirty Diana",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 10,
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
-          "artist": "aespa"
-        },
-        {
-          "rank": 8,
           "title": "Maraton",
           "artist": "Ati242"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "UYUYAMADIN DİMİ?",
           "artist": "Poizi"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Değilim",
           "artist": "Mebrure"
+        },
+        {
+          "rank": 10,
+          "title": "Amatör",
+          "artist": "manifest"
         }
       ]
     },
