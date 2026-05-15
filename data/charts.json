@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T17:43:35.839001+00:00",
+  "generatedAt": "2026-05-15T19:21:00.904425+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,13 +9,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 2,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 3,
@@ -44,18 +44,18 @@
         },
         {
           "rank": 8,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
+        },
+        {
+          "rank": 9,
           "title": "Human Nature",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 9,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
           "rank": 10,
-          "title": "End of Beginning",
-          "artist": "Djo"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     },
@@ -72,13 +72,13 @@
         },
         {
           "rank": 2,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 3,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 4,
@@ -87,13 +87,13 @@
         },
         {
           "rank": 5,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Beat It",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 6,
-          "title": "Beat It",
-          "artist": "Michael Jackson"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 7,
@@ -102,13 +102,13 @@
         },
         {
           "rank": 8,
-          "title": "DAISIES",
-          "artist": "Justin Bieber"
+          "title": "Don't Stop 'Til You Get Enough - Single Version",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 10,
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "Make Them Cry",
+          "artist": "Drake"
         },
         {
           "rank": 7,
-          "title": "Make Them Cry",
-          "artist": "Drake"
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 8,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
-          "artist": "aespa"
+          "title": "Adı İntikamdı",
+          "artist": "Afra & Mustafa Sandal"
         },
         {
           "rank": 10,
-          "title": "Maraton",
-          "artist": "Ati242"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         }
       ]
     },
