@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T11:33:25.323186+00:00",
+  "generatedAt": "2026-05-15T13:48:57.587796+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,38 +140,38 @@
         },
         {
           "rank": 4,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 5,
           "title": "Ran To Atlanta",
           "artist": "Drake, Future & Molly Santana"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
-          "rank": 7,
-          "title": "Hoe Phase",
-          "artist": "Drake"
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "Shabang",
           "artist": "Drake"
         },
         {
-          "rank": 9,
+          "rank": 7,
           "title": "Make Them Pay",
           "artist": "Drake"
         },
         {
+          "rank": 8,
+          "title": "Hoe Phase",
+          "artist": "Drake"
+        },
+        {
+          "rank": 9,
+          "title": "National Treasures",
+          "artist": "Drake"
+        },
+        {
           "rank": 10,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "B’s On The Table",
+          "artist": "Drake & 21 Savage"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 4,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 5,
@@ -208,28 +208,28 @@
         },
         {
           "rank": 6,
-          "title": "Ömrüm",
-          "artist": "Eypio"
-        },
-        {
-          "rank": 7,
-          "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
-          "artist": "aespa"
-        },
-        {
-          "rank": 8,
-          "title": "Maraton",
-          "artist": "Ati242"
-        },
-        {
-          "rank": 9,
           "title": "Değilim",
           "artist": "Mebrure"
         },
         {
+          "rank": 7,
+          "title": "Ömrüm",
+          "artist": "Eypio"
+        },
+        {
+          "rank": 8,
+          "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
+          "artist": "aespa"
+        },
+        {
+          "rank": 9,
+          "title": "Maraton",
+          "artist": "Ati242"
+        },
+        {
           "rank": 10,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "Vursunlar (Roman Version)",
+          "artist": "Tekir & Gökhan Namlı"
         }
       ]
     },
