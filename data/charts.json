@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T13:48:57.587796+00:00",
+  "generatedAt": "2026-05-15T15:59:19.507720+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Hoe Phase",
-          "artist": "Drake"
-        },
-        {
-          "rank": 9,
           "title": "National Treasures",
           "artist": "Drake"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "B’s On The Table",
           "artist": "Drake & 21 Savage"
+        },
+        {
+          "rank": 10,
+          "title": "Burning Bridges",
+          "artist": "Drake"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 4,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 5,
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
+          "title": "Make Them Cry",
+          "artist": "Drake"
+        },
+        {
+          "rank": 8,
           "title": "Ömrüm",
           "artist": "Eypio"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
           "artist": "aespa"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Maraton",
           "artist": "Ati242"
-        },
-        {
-          "rank": 10,
-          "title": "Vursunlar (Roman Version)",
-          "artist": "Tekir & Gökhan Namlı"
         }
       ]
     },
