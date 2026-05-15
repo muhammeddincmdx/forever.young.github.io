@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T23:50:32.190215+00:00",
+  "generatedAt": "2026-05-15T02:31:44.316211+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "E85",
-          "artist": "Don Toliver"
-        },
-        {
-          "rank": 8,
           "title": "I'm The Problem",
           "artist": "Morgan Wallen"
         },
         {
+          "rank": 8,
+          "title": "E85",
+          "artist": "Don Toliver"
+        },
+        {
           "rank": 9,
-          "title": "Dirty Diana",
-          "artist": "Michael Jackson"
+          "title": "Doors",
+          "artist": "Noah Kahan"
         },
         {
           "rank": 10,
-          "title": "Doors",
-          "artist": "Noah Kahan"
+          "title": "Dirty Diana",
+          "artist": "Michael Jackson"
         }
       ]
     },
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
-        },
-        {
-          "rank": 9,
           "title": "Değilim",
           "artist": "Mebrure"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Amatör",
           "artist": "manifest"
+        },
+        {
+          "rank": 10,
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         }
       ]
     },
