@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T06:26:46.068536+00:00",
+  "generatedAt": "2026-05-15T09:27:50.556214+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,53 +125,53 @@
       "entries": [
         {
           "rank": 1,
+          "title": "Make Them Cry",
+          "artist": "Drake"
+        },
+        {
+          "rank": 2,
+          "title": "Dust",
+          "artist": "Drake"
+        },
+        {
+          "rank": 3,
+          "title": "Whisper My Name",
+          "artist": "Drake"
+        },
+        {
+          "rank": 4,
           "title": "Choosin' Texas",
           "artist": "Ella Langley"
         },
         {
-          "rank": 2,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 3,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 4,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
-        },
-        {
           "rank": 5,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 6,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 7,
-          "title": "E85",
-          "artist": "Don Toliver"
+          "title": "Hoe Phase",
+          "artist": "Drake"
         },
         {
           "rank": 8,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 9,
-          "title": "Dirty Diana",
-          "artist": "Michael Jackson"
+          "title": "Make Them Pay",
+          "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         }
       ]
     },
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Maraton",
-          "artist": "Ati242"
-        },
-        {
-          "rank": 8,
           "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
           "artist": "aespa"
         },
         {
+          "rank": 8,
+          "title": "Maraton",
+          "artist": "Ati242"
+        },
+        {
           "rank": 9,
-          "title": "UYUYAMADIN DİMİ?",
-          "artist": "Poizi"
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 10,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "UYUYAMADIN DİMİ?",
+          "artist": "Poizi"
         }
       ]
     },
