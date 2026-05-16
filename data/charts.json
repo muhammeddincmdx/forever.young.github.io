@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T05:39:00.087917+00:00",
+  "generatedAt": "2026-05-16T07:53:16.022337+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "B’s On The Table",
-          "artist": "Drake & 21 Savage"
+          "title": "2 Hard 4 The Radio",
+          "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "Burning Bridges",
-          "artist": "Drake"
+          "title": "B’s On The Table",
+          "artist": "Drake & 21 Savage"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 4,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 5,
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 8,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Ömrüm",
-          "artist": "Eypio"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         }
       ]
     },
@@ -251,43 +251,43 @@
         },
         {
           "rank": 3,
-          "title": "Should I Stay or Should I Go (Remastered)",
-          "artist": "The Clash"
-        },
-        {
-          "rank": 4,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 5,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 6,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
-        },
-        {
-          "rank": 7,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
-          "rank": 8,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 9,
+          "rank": 4,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
+          "rank": 5,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 6,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 7,
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 8,
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
+        },
+        {
+          "rank": 9,
+          "title": "YUKON",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 10,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     }
