@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T14:37:41.597041+00:00",
+  "generatedAt": "2026-05-16T15:51:34.220143+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "B’s On The Table",
-          "artist": "Drake & 21 Savage"
+          "title": "Plot Twist",
+          "artist": "Drake"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 4,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 5,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Ömrüm",
-          "artist": "Eypio"
+          "title": "Vursunlar (Roman Version)",
+          "artist": "Tekir & Gökhan Namlı"
         }
       ]
     },
