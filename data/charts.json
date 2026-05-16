@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T02:13:25.423000+00:00",
+  "generatedAt": "2026-05-16T05:39:00.087917+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,17 +130,17 @@
         },
         {
           "rank": 2,
-          "title": "Dust",
-          "artist": "Drake"
-        },
-        {
-          "rank": 3,
           "title": "Ran To Atlanta",
           "artist": "Drake, Future & Molly Santana"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Whisper My Name",
+          "artist": "Drake"
+        },
+        {
+          "rank": 4,
+          "title": "Dust",
           "artist": "Drake"
         },
         {
@@ -155,12 +155,12 @@
         },
         {
           "rank": 7,
-          "title": "Make Them Pay",
+          "title": "National Treasures",
           "artist": "Drake"
         },
         {
           "rank": 8,
-          "title": "National Treasures",
+          "title": "Make Them Pay",
           "artist": "Drake"
         },
         {
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 9,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "Adı İntikamdı",
+          "artist": "Afra & Mustafa Sandal"
         },
         {
           "rank": 10,
