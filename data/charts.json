@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T11:44:16.408210+00:00",
+  "generatedAt": "2026-05-16T13:05:33.280111+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -203,33 +203,33 @@
         },
         {
           "rank": 5,
-          "title": "Make Them Cry",
-          "artist": "Drake"
-        },
-        {
-          "rank": 6,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
-        },
-        {
-          "rank": 7,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
-        },
-        {
-          "rank": 8,
-          "title": "Değilim",
-          "artist": "Mebrure"
-        },
-        {
-          "rank": 9,
           "title": "Adı İntikamdı",
           "artist": "Afra & Mustafa Sandal"
         },
         {
-          "rank": 10,
-          "title": "Whisper My Name",
+          "rank": 6,
+          "title": "Değilim",
+          "artist": "Mebrure"
+        },
+        {
+          "rank": 7,
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
+        },
+        {
+          "rank": 8,
+          "title": "Make Them Cry",
           "artist": "Drake"
+        },
+        {
+          "rank": 9,
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
+        },
+        {
+          "rank": 10,
+          "title": "Ömrüm",
+          "artist": "Eypio"
         }
       ]
     },
