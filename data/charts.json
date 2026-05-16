@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T17:50:18.131823+00:00",
+  "generatedAt": "2026-05-16T18:53:41.890208+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,53 +9,53 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Make Them Cry",
+          "artist": "Drake"
         },
         {
           "rank": 2,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "Dust",
+          "artist": "Drake"
         },
         {
           "rank": 3,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Ran To Atlanta (w/ Future , Molly Santana )",
+          "artist": "Drake"
         },
         {
           "rank": 4,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         },
         {
           "rank": 5,
-          "title": "Beat It",
-          "artist": "Michael Jackson"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 6,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "National Treasures",
+          "artist": "Drake"
         },
         {
           "rank": 7,
-          "title": "Don't Stop 'Til You Get Enough - Single Version",
-          "artist": "Michael Jackson"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 8,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Make Them Pay",
+          "artist": "Drake"
         },
         {
           "rank": 9,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
+          "title": "2 Hard 4 The Radio",
+          "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "B's On The Table (w/ 21 Savage )",
+          "artist": "Drake"
         }
       ]
     },
@@ -140,12 +140,12 @@
         },
         {
           "rank": 4,
-          "title": "Dust",
+          "title": "Janice STFU",
           "artist": "Drake"
         },
         {
           "rank": 5,
-          "title": "Janice STFU",
+          "title": "Dust",
           "artist": "Drake"
         },
         {
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Adı İntikamdı",
+          "artist": "Afra & Mustafa Sandal"
         },
         {
           "rank": 5,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 6,
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Make Them Cry",
-          "artist": "Drake"
-        },
-        {
-          "rank": 9,
           "title": "Ran To Atlanta",
           "artist": "Drake, Future & Molly Santana"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Vursunlar (Roman Version)",
           "artist": "Tekir & Gökhan Namlı"
+        },
+        {
+          "rank": 10,
+          "title": "Make Them Cry",
+          "artist": "Drake"
         }
       ]
     },
