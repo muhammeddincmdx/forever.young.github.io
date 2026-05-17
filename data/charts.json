@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T15:52:56.494216+00:00",
+  "generatedAt": "2026-05-17T16:50:13.193954+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 4,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Adı İntikamdı",
+          "artist": "Afra & Mustafa Sandal"
         },
         {
           "rank": 5,
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
-        },
-        {
-          "rank": 9,
           "title": "Vursunlar (Roman Version)",
           "artist": "Tekir & Gökhan Namlı"
         },
         {
+          "rank": 9,
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
+        },
+        {
           "rank": 10,
-          "title": "Ömrüm",
-          "artist": "Eypio"
+          "title": "Amatör",
+          "artist": "manifest"
         }
       ]
     },
