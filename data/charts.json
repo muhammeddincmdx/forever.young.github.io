@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T21:12:33.384385+00:00",
+  "generatedAt": "2026-05-17T22:12:03.084029+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
-        },
-        {
-          "rank": 8,
           "title": "Amatör",
           "artist": "manifest"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Snap",
           "artist": "manifest"
+        },
+        {
+          "rank": 9,
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 10,
