@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T22:12:03.084029+00:00",
+  "generatedAt": "2026-05-17T23:26:48.884027+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,22 +140,22 @@
         },
         {
           "rank": 4,
-          "title": "Make Them Cry",
-          "artist": "Drake"
-        },
-        {
-          "rank": 5,
           "title": "Shabang",
           "artist": "Drake"
         },
         {
+          "rank": 5,
+          "title": "Make Them Cry",
+          "artist": "Drake"
+        },
+        {
           "rank": 6,
-          "title": "Dust",
+          "title": "National Treasures",
           "artist": "Drake"
         },
         {
           "rank": 7,
-          "title": "National Treasures",
+          "title": "Dust",
           "artist": "Drake"
         },
         {
