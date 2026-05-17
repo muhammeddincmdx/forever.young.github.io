@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T11:36:48.547194+00:00",
+  "generatedAt": "2026-05-17T13:03:36.309107+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -193,18 +193,18 @@
         },
         {
           "rank": 3,
+          "title": "Adı İntikamdı",
+          "artist": "Afra & Mustafa Sandal"
+        },
+        {
+          "rank": 4,
           "title": "Daha İyi",
           "artist": "manifest"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
-        },
-        {
-          "rank": 5,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
         },
         {
           "rank": 6,
@@ -223,8 +223,8 @@
         },
         {
           "rank": 9,
-          "title": "National Treasures",
-          "artist": "Drake"
+          "title": "Vursunlar (Roman Version)",
+          "artist": "Tekir & Gökhan Namlı"
         },
         {
           "rank": 10,
