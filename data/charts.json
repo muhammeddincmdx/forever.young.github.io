@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T08:35:47.035454+00:00",
+  "generatedAt": "2026-05-17T10:18:20.324252+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Vursunlar (Roman Version)",
-          "artist": "Tekir & Gökhan Namlı"
+          "title": "National Treasures",
+          "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "National Treasures",
-          "artist": "Drake"
+          "title": "Ömrüm",
+          "artist": "Eypio"
         }
       ]
     },
