@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T06:01:12.234702+00:00",
+  "generatedAt": "2026-05-17T08:35:47.035454+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,7 +130,7 @@
         },
         {
           "rank": 2,
-          "title": "Make Them Cry",
+          "title": "Janice STFU",
           "artist": "Drake"
         },
         {
@@ -140,17 +140,17 @@
         },
         {
           "rank": 4,
-          "title": "Janice STFU",
+          "title": "Make Them Cry",
           "artist": "Drake"
         },
         {
           "rank": 5,
-          "title": "Dust",
+          "title": "Shabang",
           "artist": "Drake"
         },
         {
           "rank": 6,
-          "title": "Shabang",
+          "title": "Dust",
           "artist": "Drake"
         },
         {
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 5,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Adı İntikamdı",
+          "artist": "Afra & Mustafa Sandal"
         },
         {
           "rank": 6,
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Vursunlar (Roman Version)",
-          "artist": "Tekir & Gökhan Namlı"
-        },
-        {
-          "rank": 9,
           "title": "Ran To Atlanta",
           "artist": "Drake, Future & Molly Santana"
         },
         {
+          "rank": 9,
+          "title": "Vursunlar (Roman Version)",
+          "artist": "Tekir & Gökhan Namlı"
+        },
+        {
           "rank": 10,
-          "title": "Amatör",
-          "artist": "manifest"
+          "title": "National Treasures",
+          "artist": "Drake"
         }
       ]
     },
@@ -256,38 +256,38 @@
         },
         {
           "rank": 4,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
+          "rank": 5,
+          "title": "DAISIES",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 6,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 5,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 6,
+          "rank": 7,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "The Fate of Ophelia",
           "artist": "Taylor Swift"
         },
         {
-          "rank": 8,
-          "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
-        },
-        {
           "rank": 9,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
         }
       ]
     }
