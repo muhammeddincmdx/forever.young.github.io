@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T18:27:39.134262+00:00",
+  "generatedAt": "2026-05-18T20:11:54.036103+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 4,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Adı İntikamdı",
+          "artist": "Afra & Mustafa Sandal"
         },
         {
           "rank": 5,
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
-        },
-        {
-          "rank": 8,
           "title": "Snap",
           "artist": "manifest"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Amatör",
           "artist": "manifest"
+        },
+        {
+          "rank": 9,
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 10,
