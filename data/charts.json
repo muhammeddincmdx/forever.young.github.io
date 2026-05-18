@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T09:45:13.273793+00:00",
+  "generatedAt": "2026-05-18T13:38:55.728623+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -218,12 +218,12 @@
         },
         {
           "rank": 8,
-          "title": "Amatör",
+          "title": "Snap",
           "artist": "manifest"
         },
         {
           "rank": 9,
-          "title": "Snap",
+          "title": "Amatör",
           "artist": "manifest"
         },
         {
