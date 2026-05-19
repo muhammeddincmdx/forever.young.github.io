@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T16:47:00.923898+00:00",
+  "generatedAt": "2026-05-19T18:56:01.938822+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,12 +150,12 @@
         },
         {
           "rank": 6,
-          "title": "Make Them Cry",
+          "title": "Make Them Pay",
           "artist": "Drake"
         },
         {
           "rank": 7,
-          "title": "Make Them Pay",
+          "title": "Make Them Cry",
           "artist": "Drake"
         },
         {
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
+          "title": "Yaşanacaksa",
+          "artist": "manifest"
         },
         {
           "rank": 10,
-          "title": "İki Tas Çorba",
-          "artist": "Mela Bedel & Mustafa Sandal"
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
         }
       ]
     },
