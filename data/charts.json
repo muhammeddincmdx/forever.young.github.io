@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T03:52:35.043033+00:00",
+  "generatedAt": "2026-05-19T07:39:38.294316+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "İki Tas Çorba",
-          "artist": "Mela Bedel & Mustafa Sandal"
+          "title": "yanılmışım",
+          "artist": "Yung Ouzo & Tanerman"
         }
       ]
     },
@@ -251,8 +251,8 @@
         },
         {
           "rank": 3,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 4,
@@ -261,33 +261,33 @@
         },
         {
           "rank": 5,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 6,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 8,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
+          "rank": 6,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 7,
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
+        },
+        {
+          "rank": 8,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
           "rank": 9,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 10,
-          "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         }
       ]
     }
