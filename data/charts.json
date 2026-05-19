@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T07:39:38.294316+00:00",
+  "generatedAt": "2026-05-19T10:55:55.186568+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,12 +155,12 @@
         },
         {
           "rank": 7,
-          "title": "Dust",
+          "title": "Make Them Pay",
           "artist": "Drake"
         },
         {
           "rank": 8,
-          "title": "Make Them Pay",
+          "title": "Dust",
           "artist": "Drake"
         },
         {
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Amatör",
-          "artist": "manifest"
-        },
-        {
-          "rank": 9,
           "title": "Beni Al",
           "artist": "Ankara Echoes"
         },
         {
+          "rank": 9,
+          "title": "Amatör",
+          "artist": "manifest"
+        },
+        {
           "rank": 10,
-          "title": "yanılmışım",
-          "artist": "Yung Ouzo & Tanerman"
+          "title": "İki Tas Çorba",
+          "artist": "Mela Bedel & Mustafa Sandal"
         }
       ]
     },
