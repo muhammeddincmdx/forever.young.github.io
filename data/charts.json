@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T04:43:31.484472+00:00",
+  "generatedAt": "2026-05-20T08:20:45.716372+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,22 +155,22 @@
         },
         {
           "rank": 7,
-          "title": "Make Them Cry",
-          "artist": "Drake"
-        },
-        {
-          "rank": 8,
-          "title": "Dust",
-          "artist": "Drake"
-        },
-        {
-          "rank": 9,
           "title": "2 Hard 4 The Radio",
           "artist": "Drake"
         },
         {
-          "rank": 10,
+          "rank": 8,
           "title": "Plot Twist",
+          "artist": "Drake"
+        },
+        {
+          "rank": 9,
+          "title": "Dust",
+          "artist": "Drake"
+        },
+        {
+          "rank": 10,
+          "title": "Make Them Cry",
           "artist": "Drake"
         }
       ]
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Yaşanacaksa",
-          "artist": "manifest"
+          "title": "İki Tas Çorba",
+          "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
           "rank": 10,
-          "title": "İki Tas Çorba",
-          "artist": "Mela Bedel & Mustafa Sandal"
+          "title": "Beni Al",
+          "artist": "Ankara Echoes"
         }
       ]
     },
