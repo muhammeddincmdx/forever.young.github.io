@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T13:59:08.977925+00:00",
+  "generatedAt": "2026-05-21T16:39:58.258262+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 4,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 5,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
+          "title": "Yaşanacaksa",
+          "artist": "manifest"
         }
       ]
     },
