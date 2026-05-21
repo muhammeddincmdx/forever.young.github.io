@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T06:46:38.324532+00:00",
+  "generatedAt": "2026-05-21T10:34:44.991114+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,7 +170,7 @@
         },
         {
           "rank": 10,
-          "title": "Make Them Cry",
+          "title": "Burning Bridges",
           "artist": "Drake"
         }
       ]
@@ -251,28 +251,28 @@
         },
         {
           "rank": 3,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 4,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
+          "rank": 5,
           "title": "The Fate of Ophelia",
           "artist": "Taylor Swift"
         },
         {
-          "rank": 5,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
           "rank": 6,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 7,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 8,
@@ -281,13 +281,13 @@
         },
         {
           "rank": 9,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         }
       ]
     }
