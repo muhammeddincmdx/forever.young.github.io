@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T15:45:40.270867+00:00",
+  "generatedAt": "2026-05-22T17:46:38.240390+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -193,18 +193,18 @@
         },
         {
           "rank": 3,
+          "title": "BOOMPALA",
+          "artist": "LE SSERAFIM"
+        },
+        {
+          "rank": 4,
           "title": "Daha İyi",
           "artist": "manifest"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Değilim",
           "artist": "Mebrure"
-        },
-        {
-          "rank": 5,
-          "title": "BOOMPALA",
-          "artist": "LE SSERAFIM"
         },
         {
           "rank": 6,
