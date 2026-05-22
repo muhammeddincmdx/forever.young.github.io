@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T17:46:38.240390+00:00",
+  "generatedAt": "2026-05-22T19:25:24.897015+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -39,23 +39,23 @@
         },
         {
           "rank": 7,
-          "title": "National Treasures",
-          "artist": "Drake"
-        },
-        {
-          "rank": 8,
           "title": "Ran To Atlanta (w/ Future , Molly Santana )",
           "artist": "Drake"
         },
         {
-          "rank": 9,
-          "title": "Whisper My Name",
+          "rank": 8,
+          "title": "National Treasures",
           "artist": "Drake"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Earrings",
           "artist": "Malcolm Todd"
+        },
+        {
+          "rank": 10,
+          "title": "back to friends",
+          "artist": "sombr"
         }
       ]
     },
@@ -67,53 +67,53 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 2,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
+          "rank": 2,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 3,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
+          "rank": 4,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 4,
+          "rank": 5,
+          "title": "Ran To Atlanta (w/ Future , Molly Santana )",
+          "artist": "Drake"
+        },
+        {
+          "rank": 6,
+          "title": "National Treasures",
+          "artist": "Drake"
+        },
+        {
+          "rank": 7,
+          "title": "Whisper My Name",
+          "artist": "Drake"
+        },
+        {
+          "rank": 8,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
-          "rank": 5,
+          "rank": 9,
           "title": "Beat It",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 6,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 7,
-          "title": "back to friends",
-          "artist": "sombr"
-        },
-        {
-          "rank": 8,
-          "title": "Don't Stop 'Til You Get Enough - Single Version",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 9,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
           "rank": 10,
-          "title": "End of Beginning",
-          "artist": "Djo"
+          "title": "Make Them Cry",
+          "artist": "Drake"
         }
       ]
     },
