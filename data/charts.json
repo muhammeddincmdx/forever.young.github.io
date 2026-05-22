@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T10:20:00.261125+00:00",
+  "generatedAt": "2026-05-22T12:37:31.431915+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,12 +165,12 @@
         },
         {
           "rank": 9,
-          "title": "Dust",
+          "title": "Burning Bridges",
           "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "Burning Bridges",
+          "title": "Dust",
           "artist": "Drake"
         }
       ]
@@ -203,33 +203,33 @@
         },
         {
           "rank": 5,
+          "title": "BOOMPALA",
+          "artist": "LE SSERAFIM"
+        },
+        {
+          "rank": 6,
           "title": "Adı İntikamdı",
           "artist": "Afra & Mustafa Sandal"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "İki Tas Çorba",
           "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Snap",
           "artist": "manifest"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Amatör",
           "artist": "manifest"
-        },
-        {
-          "rank": 10,
-          "title": "Beni Al",
-          "artist": "Ankara Echoes"
         }
       ]
     },
