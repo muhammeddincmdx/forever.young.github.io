@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T06:42:59.092615+00:00",
+  "generatedAt": "2026-05-22T10:20:00.261125+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
+          "title": "İki Tas Çorba",
+          "artist": "Mela Bedel & Mustafa Sandal"
+        },
+        {
+          "rank": 8,
           "title": "Snap",
           "artist": "manifest"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Amatör",
           "artist": "manifest"
-        },
-        {
-          "rank": 9,
-          "title": "İki Tas Çorba",
-          "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
           "rank": 10,
