@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T05:50:57.226630+00:00",
+  "generatedAt": "2026-05-23T08:09:07.724681+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 3,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 4,
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "BOOMPALA",
+          "artist": "LE SSERAFIM"
         },
         {
           "rank": 4,
-          "title": "BOOMPALA",
-          "artist": "LE SSERAFIM"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 5,
@@ -251,8 +251,8 @@
         },
         {
           "rank": 3,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
         },
         {
           "rank": 4,
@@ -261,33 +261,33 @@
         },
         {
           "rank": 5,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 6,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
-          "rank": 7,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
-        },
-        {
-          "rank": 8,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
+          "rank": 7,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
+          "rank": 8,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
           "rank": 9,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 10,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         }
       ]
     }
