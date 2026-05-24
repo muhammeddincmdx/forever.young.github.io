@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T06:30:59.117988+00:00",
+  "generatedAt": "2026-05-24T09:16:04.712070+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "BOOMPALA",
+          "artist": "LE SSERAFIM"
         },
         {
           "rank": 4,
-          "title": "BOOMPALA",
-          "artist": "LE SSERAFIM"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 5,
@@ -208,23 +208,23 @@
         },
         {
           "rank": 6,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
-        },
-        {
-          "rank": 7,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
+          "rank": 7,
+          "title": "Adı İntikamdı",
+          "artist": "Afra & Mustafa Sandal"
+        },
+        {
           "rank": 8,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "İki Tas Çorba",
+          "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
           "rank": 9,
-          "title": "İki Tas Çorba",
-          "artist": "Mela Bedel & Mustafa Sandal"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 10,
