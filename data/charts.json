@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T17:57:17.389826+00:00",
+  "generatedAt": "2026-05-24T19:15:22.324462+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,18 +9,18 @@
       "entries": [
         {
           "rank": 1,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 2,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
+        },
+        {
+          "rank": 3,
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 4,
@@ -34,13 +34,13 @@
         },
         {
           "rank": 6,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "Beat It",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 7,
-          "title": "Beat It",
-          "artist": "Michael Jackson"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 8,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "National Treasures",
-          "artist": "Drake"
+          "title": "Don't Stop 'Til You Get Enough - Single Version",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 10,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Human Nature",
+          "artist": "Michael Jackson"
         }
       ]
     },
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Dust",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         }
       ]
     },
