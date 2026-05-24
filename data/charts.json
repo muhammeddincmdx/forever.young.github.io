@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T02:36:08.669728+00:00",
+  "generatedAt": "2026-05-24T06:30:59.117988+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Dust",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -256,18 +256,18 @@
         },
         {
           "rank": 4,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 5,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 6,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 7,
@@ -276,18 +276,18 @@
         },
         {
           "rank": 8,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 10,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
         }
       ]
     }
