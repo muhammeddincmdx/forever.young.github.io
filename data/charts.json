@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T02:44:50.628699+00:00",
+  "generatedAt": "2026-05-25T07:07:11.968833+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "2 Hard 4 The Radio",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 8,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "2 Hard 4 The Radio",
+          "artist": "Drake"
         },
         {
           "rank": 9,
@@ -203,23 +203,23 @@
         },
         {
           "rank": 5,
+          "title": "BOOMPALA",
+          "artist": "LE SSERAFIM"
+        },
+        {
+          "rank": 6,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Adı İntikamdı",
           "artist": "Afra & Mustafa Sandal"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "İki Tas Çorba",
           "artist": "Mela Bedel & Mustafa Sandal"
-        },
-        {
-          "rank": 8,
-          "title": "BOOMPALA",
-          "artist": "LE SSERAFIM"
         },
         {
           "rank": 9,
@@ -251,18 +251,18 @@
         },
         {
           "rank": 3,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
-        },
-        {
-          "rank": 4,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
+          "rank": 4,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
           "rank": 5,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 6,
@@ -271,23 +271,23 @@
         },
         {
           "rank": 7,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
         },
         {
           "rank": 8,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 9,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 10,
-          "title": "So Easy (To Fall In Love)",
-          "artist": "Olivia Dean"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     }
