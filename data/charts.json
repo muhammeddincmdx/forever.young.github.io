@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T07:07:11.968833+00:00",
+  "generatedAt": "2026-05-25T11:33:37.177567+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "2 Hard 4 The Radio",
+          "artist": "Drake"
         },
         {
           "rank": 8,
-          "title": "2 Hard 4 The Radio",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 9,
@@ -193,18 +193,18 @@
         },
         {
           "rank": 3,
+          "title": "BOOMPALA",
+          "artist": "LE SSERAFIM"
+        },
+        {
+          "rank": 4,
           "title": "Daha İyi",
           "artist": "manifest"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Değilim",
           "artist": "Mebrure"
-        },
-        {
-          "rank": 5,
-          "title": "BOOMPALA",
-          "artist": "LE SSERAFIM"
         },
         {
           "rank": 6,
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
+          "title": "İki Tas Çorba",
+          "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
           "rank": 8,
-          "title": "İki Tas Çorba",
-          "artist": "Mela Bedel & Mustafa Sandal"
+          "title": "Adı İntikamdı",
+          "artist": "Afra & Mustafa Sandal"
         },
         {
           "rank": 9,
