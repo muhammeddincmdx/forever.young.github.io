@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:01:53.204251+00:00",
+  "generatedAt": "2026-05-25T18:57:14.127411+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -198,23 +198,23 @@
         },
         {
           "rank": 4,
-          "title": "BOOMPALA",
-          "artist": "LE SSERAFIM"
-        },
-        {
-          "rank": 5,
           "title": "Değilim",
           "artist": "Mebrure"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "İki Tas Çorba",
           "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
+        },
+        {
+          "rank": 7,
+          "title": "BOOMPALA",
+          "artist": "LE SSERAFIM"
         },
         {
           "rank": 8,
