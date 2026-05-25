@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T20:21:44.520338+00:00",
+  "generatedAt": "2026-05-25T21:41:26.186550+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,18 +150,18 @@
         },
         {
           "rank": 6,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 7,
           "title": "Make Them Pay",
           "artist": "Drake"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "2 Hard 4 The Radio",
           "artist": "Drake"
-        },
-        {
-          "rank": 8,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
         },
         {
           "rank": 9,
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "İki Tas Çorba",
+          "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
           "rank": 5,
-          "title": "İki Tas Çorba",
-          "artist": "Mela Bedel & Mustafa Sandal"
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 6,
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
-          "title": "BOOMPALA",
-          "artist": "LE SSERAFIM"
-        },
-        {
-          "rank": 8,
           "title": "Adı İntikamdı",
           "artist": "Afra & Mustafa Sandal"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Snap",
           "artist": "manifest"
+        },
+        {
+          "rank": 9,
+          "title": "BOOMPALA",
+          "artist": "LE SSERAFIM"
         },
         {
           "rank": 10,
