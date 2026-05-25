@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T14:40:16.053939+00:00",
+  "generatedAt": "2026-05-25T17:01:53.204251+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -24,13 +24,13 @@
         },
         {
           "rank": 4,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 5,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 6,
@@ -39,23 +39,23 @@
         },
         {
           "rank": 7,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 8,
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
+        },
+        {
+          "rank": 9,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 9,
-          "title": "Don't Stop 'Til You Get Enough - Single Version",
-          "artist": "Michael Jackson"
-        },
-        {
           "rank": 10,
-          "title": "Human Nature",
-          "artist": "Michael Jackson"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "BOOMPALA",
-          "artist": "LE SSERAFIM"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 4,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "BOOMPALA",
+          "artist": "LE SSERAFIM"
         },
         {
           "rank": 5,
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "İki Tas Çorba",
+          "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
           "rank": 7,
-          "title": "İki Tas Çorba",
-          "artist": "Mela Bedel & Mustafa Sandal"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
