@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T07:48:59.597144+00:00",
+  "generatedAt": "2026-05-26T14:12:43.138524+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,18 +150,18 @@
         },
         {
           "rank": 6,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 7,
           "title": "2 Hard 4 The Radio",
           "artist": "Drake"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Make Them Pay",
           "artist": "Drake"
+        },
+        {
+          "rank": 8,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 9,
@@ -203,13 +203,13 @@
         },
         {
           "rank": 5,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 6,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 7,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Amatör",
-          "artist": "manifest"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         }
       ]
     },
