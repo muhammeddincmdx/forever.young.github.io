@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T14:12:43.138524+00:00",
+  "generatedAt": "2026-05-26T17:41:19.280844+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -34,13 +34,13 @@
         },
         {
           "rank": 6,
-          "title": "Beat It",
-          "artist": "Michael Jackson"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 7,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Beat It",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 8,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 10,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -150,12 +150,12 @@
         },
         {
           "rank": 6,
-          "title": "2 Hard 4 The Radio",
+          "title": "Make Them Pay",
           "artist": "Drake"
         },
         {
           "rank": 7,
-          "title": "Make Them Pay",
+          "title": "2 Hard 4 The Radio",
           "artist": "Drake"
         },
         {
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
-          "title": "BOOMPALA",
-          "artist": "LE SSERAFIM"
-        },
-        {
-          "rank": 8,
           "title": "Adı İntikamdı",
           "artist": "Afra & Mustafa Sandal"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Snap",
           "artist": "manifest"
+        },
+        {
+          "rank": 9,
+          "title": "BOOMPALA",
+          "artist": "LE SSERAFIM"
         },
         {
           "rank": 10,
