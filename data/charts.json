@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T23:59:18.734082+00:00",
+  "generatedAt": "2026-05-26T03:58:04.370340+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "BOOMPALA",
-          "artist": "LE SSERAFIM"
+          "title": "Amatör",
+          "artist": "manifest"
         },
         {
           "rank": 10,
-          "title": "Amatör",
-          "artist": "manifest"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         }
       ]
     },
