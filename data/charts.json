@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T14:23:45.211992+00:00",
+  "generatedAt": "2026-05-27T17:39:20.450484+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -203,33 +203,33 @@
         },
         {
           "rank": 5,
-          "title": "Değilim",
-          "artist": "Mebrure"
-        },
-        {
-          "rank": 6,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
+          "rank": 6,
+          "title": "Değilim",
+          "artist": "Mebrure"
+        },
+        {
           "rank": 7,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
-        },
-        {
-          "rank": 8,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
-        },
-        {
-          "rank": 9,
           "title": "Snap",
           "artist": "manifest"
         },
         {
+          "rank": 8,
+          "title": "Adı İntikamdı",
+          "artist": "Afra & Mustafa Sandal"
+        },
+        {
+          "rank": 9,
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
+        },
+        {
           "rank": 10,
-          "title": "BOOMPALA",
-          "artist": "LE SSERAFIM"
+          "title": "Amatör",
+          "artist": "manifest"
         }
       ]
     },
