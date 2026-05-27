@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T02:44:07.080237+00:00",
+  "generatedAt": "2026-05-27T06:58:08.003218+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Plot Twist",
+          "artist": "Drake"
         },
         {
           "rank": 9,
-          "title": "Plot Twist",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Amatör",
-          "artist": "manifest"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         },
         {
           "rank": 10,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "BOOMPALA",
+          "artist": "LE SSERAFIM"
         }
       ]
     },
@@ -241,28 +241,28 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 2,
           "title": "12 to 12",
           "artist": "sombr"
         },
         {
+          "rank": 2,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
           "rank": 3,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 4,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Fate of Ophelia",
           "artist": "Taylor Swift"
-        },
-        {
-          "rank": 5,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
         },
         {
           "rank": 6,
@@ -271,23 +271,23 @@
         },
         {
           "rank": 7,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 8,
           "title": "WHERE IS MY HUSBAND!",
           "artist": "RAYE"
         },
         {
+          "rank": 8,
+          "title": "YUKON",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 9,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 10,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean"
         }
       ]
     }
