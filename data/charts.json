@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T06:58:08.003218+00:00",
+  "generatedAt": "2026-05-27T10:55:51.212540+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Burning Bridges",
+          "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "Burning Bridges",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -218,8 +218,8 @@
         },
         {
           "rank": 8,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "BOOMPALA",
+          "artist": "LE SSERAFIM"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "BOOMPALA",
-          "artist": "LE SSERAFIM"
+          "title": "Snap",
+          "artist": "manifest"
         }
       ]
     },
