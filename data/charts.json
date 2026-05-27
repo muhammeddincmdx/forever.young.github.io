@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T20:04:35.892855+00:00",
+  "generatedAt": "2026-05-27T22:15:11.663712+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,13 +9,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 2,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 3,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "back to friends",
+          "artist": "sombr"
         },
         {
           "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         }
       ]
     },
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 7,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 8,
