@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T06:46:59.190771+00:00",
+  "generatedAt": "2026-05-28T10:48:55.080246+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 9,
           "title": "Plot Twist",
           "artist": "Drake"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Burning Bridges",
           "artist": "Drake"
+        },
+        {
+          "rank": 10,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "Adı İntikamdı",
+          "artist": "Afra & Mustafa Sandal"
         },
         {
           "rank": 8,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 9,
