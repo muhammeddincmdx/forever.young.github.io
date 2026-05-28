@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T17:58:29.657446+00:00",
+  "generatedAt": "2026-05-28T20:25:38.234208+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
-        },
-        {
-          "rank": 8,
           "title": "Snap",
           "artist": "manifest"
         },
         {
+          "rank": 8,
+          "title": "Adı İntikamdı",
+          "artist": "Afra & Mustafa Sandal"
+        },
+        {
           "rank": 9,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "Amatör",
+          "artist": "manifest"
         },
         {
           "rank": 10,
-          "title": "Amatör",
-          "artist": "manifest"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         }
       ]
     },
