@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T23:42:05.068710+00:00",
+  "generatedAt": "2026-05-28T02:30:43.408388+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Burning Bridges",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Burning Bridges",
+          "artist": "Drake"
         }
       ]
     },
