@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T10:39:19.895666+00:00",
+  "generatedAt": "2026-05-29T13:53:35.503703+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -193,43 +193,43 @@
         },
         {
           "rank": 3,
+          "title": "LEMONADE",
+          "artist": "aespa"
+        },
+        {
+          "rank": 4,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 5,
           "title": "Daha İyi",
           "artist": "manifest"
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "İki Tas Çorba",
           "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "Değilim",
           "artist": "Mebrure"
         },
         {
-          "rank": 7,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
-        },
-        {
-          "rank": 8,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
-        },
-        {
           "rank": 9,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
+          "artist": "aespa"
         },
         {
           "rank": 10,
-          "title": "Amatör",
-          "artist": "manifest"
+          "title": "SHAKIN'",
+          "artist": "aespa"
         }
       ]
     },
