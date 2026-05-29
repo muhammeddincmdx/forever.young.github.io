@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T02:35:07.860331+00:00",
+  "generatedAt": "2026-05-29T06:47:35.141561+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -29,13 +29,13 @@
         },
         {
           "rank": 5,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 6,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 7,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 10,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -218,8 +218,8 @@
         },
         {
           "rank": 8,
-          "title": "Amatör",
-          "artist": "manifest"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "Amatör",
+          "artist": "manifest"
         }
       ]
     },
@@ -251,28 +251,28 @@
         },
         {
           "rank": 3,
-          "title": "Dracula (JENNIE Remix)",
-          "artist": "Tame Impala"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 4,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
-        },
-        {
-          "rank": 5,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
+          "rank": 5,
+          "title": "Dracula (JENNIE Remix)",
+          "artist": "Tame Impala"
+        },
+        {
           "rank": 6,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 8,
@@ -281,13 +281,13 @@
         },
         {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 10,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
         }
       ]
     }
