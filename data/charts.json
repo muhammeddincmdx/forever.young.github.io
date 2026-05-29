@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T17:28:40.102162+00:00",
+  "generatedAt": "2026-05-29T19:53:10.736749+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,18 +150,18 @@
         },
         {
           "rank": 6,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 7,
           "title": "2 Hard 4 The Radio",
           "artist": "Drake"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Make Them Pay",
           "artist": "Drake"
-        },
-        {
-          "rank": 8,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
         },
         {
           "rank": 9,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "SHAKIN'",
-          "artist": "aespa"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 10,
-          "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
-          "artist": "aespa"
+          "title": "Amatör",
+          "artist": "manifest"
         }
       ]
     },
