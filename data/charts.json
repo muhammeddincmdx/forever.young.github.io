@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T15:59:39.527923+00:00",
+  "generatedAt": "2026-05-30T17:14:26.215642+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,18 +9,18 @@
       "entries": [
         {
           "rank": 1,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 2,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
-        },
-        {
-          "rank": 3,
-          "title": "SWIM",
-          "artist": "BTS"
         },
         {
           "rank": 4,
@@ -29,8 +29,8 @@
         },
         {
           "rank": 5,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 6,
@@ -39,23 +39,23 @@
         },
         {
           "rank": 7,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
+          "rank": 8,
           "title": "Beat It",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Earrings",
           "artist": "Malcolm Todd"
-        },
-        {
-          "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
         }
       ]
     },
