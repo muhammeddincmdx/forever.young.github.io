@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T14:50:21.540211+00:00",
+  "generatedAt": "2026-05-30T15:59:39.527923+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -188,13 +188,13 @@
         },
         {
           "rank": 2,
-          "title": "LEMONADE",
-          "artist": "aespa"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 3,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "LEMONADE",
+          "artist": "aespa"
         },
         {
           "rank": 4,
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "SHAKIN'",
-          "artist": "aespa"
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 9,
-          "title": "WDA (Whole Different Animal) [feat. G-DRAGON]",
-          "artist": "aespa"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 10,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "SHAKIN'",
+          "artist": "aespa"
         }
       ]
     },
