@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T02:49:47.661224+00:00",
+  "generatedAt": "2026-05-31T06:53:31.046528+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 9,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 10,
@@ -256,8 +256,8 @@
         },
         {
           "rank": 4,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 5,
@@ -266,18 +266,18 @@
         },
         {
           "rank": 6,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
-        },
-        {
-          "rank": 7,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
+          "rank": 7,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
           "rank": 8,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
         },
         {
           "rank": 9,
@@ -286,8 +286,8 @@
         },
         {
           "rank": 10,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         }
       ]
     }
