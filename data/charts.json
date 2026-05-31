@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T06:53:31.046528+00:00",
+  "generatedAt": "2026-05-31T09:44:25.387560+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "National Treasures",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 6,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "National Treasures",
+          "artist": "Drake"
         },
         {
           "rank": 7,
@@ -198,18 +198,18 @@
         },
         {
           "rank": 4,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 5,
           "title": "Daha İyi",
           "artist": "manifest"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "İki Tas Çorba",
           "artist": "Mela Bedel & Mustafa Sandal"
-        },
-        {
-          "rank": 6,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
         },
         {
           "rank": 7,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Amatör",
-          "artist": "manifest"
+          "title": "Adı İntikamdı",
+          "artist": "Afra & Mustafa Sandal"
         }
       ]
     },
