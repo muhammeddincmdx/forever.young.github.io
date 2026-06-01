@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T20:51:42.539171+00:00",
+  "generatedAt": "2026-06-01T22:57:49.529184+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -198,23 +198,23 @@
         },
         {
           "rank": 4,
-          "title": "LEMONADE",
-          "artist": "aespa"
-        },
-        {
-          "rank": 5,
           "title": "Daha İyi",
           "artist": "manifest"
         },
         {
+          "rank": 5,
+          "title": "LEMONADE",
+          "artist": "aespa"
+        },
+        {
           "rank": 6,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 7,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 8,
