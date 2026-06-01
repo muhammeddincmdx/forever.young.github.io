@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T22:53:50.682138+00:00",
+  "generatedAt": "2026-06-01T00:00:14.631938+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -193,18 +193,18 @@
         },
         {
           "rank": 3,
-          "title": "LEMONADE",
-          "artist": "aespa"
-        },
-        {
-          "rank": 4,
           "title": "İki Tas Çorba",
           "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Daha İyi",
           "artist": "manifest"
+        },
+        {
+          "rank": 5,
+          "title": "LEMONADE",
+          "artist": "aespa"
         },
         {
           "rank": 6,
