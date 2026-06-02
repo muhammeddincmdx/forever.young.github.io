@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T00:13:35.395162+00:00",
+  "generatedAt": "2026-06-02T05:08:11.665844+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Plot Twist",
-          "artist": "Drake"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 10,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Plot Twist",
+          "artist": "Drake"
         }
       ]
     },
