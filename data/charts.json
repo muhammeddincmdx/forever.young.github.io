@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T13:54:08.697461+00:00",
+  "generatedAt": "2026-06-02T18:01:11.188325+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,43 +9,43 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 2,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 3,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
+          "rank": 2,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
+        },
+        {
+          "rank": 3,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 4,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 5,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
-        },
-        {
-          "rank": 6,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 5,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 6,
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
+        },
+        {
           "rank": 7,
-          "title": "Beat It",
-          "artist": "Michael Jackson"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 8,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Beat It",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 9,
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 7,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 8,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "Snap",
+          "artist": "manifest"
         }
       ]
     },
