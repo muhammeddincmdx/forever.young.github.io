@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T05:08:11.665844+00:00",
+  "generatedAt": "2026-06-02T09:45:54.822651+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "National Treasures",
+          "artist": "Drake"
         },
         {
           "rank": 6,
-          "title": "National Treasures",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 7,
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "Make Them Pay",
-          "artist": "Drake"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 9,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Make Them Pay",
+          "artist": "Drake"
         },
         {
           "rank": 10,
@@ -198,23 +198,23 @@
         },
         {
           "rank": 4,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 5,
           "title": "LEMONADE",
           "artist": "aespa"
         },
         {
+          "rank": 5,
+          "title": "Daha İyi",
+          "artist": "manifest"
+        },
+        {
           "rank": 6,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 7,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 8,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         }
       ]
     },
@@ -251,38 +251,38 @@
         },
         {
           "rank": 3,
-          "title": "Dracula (JENNIE Remix)",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 4,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 5,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 6,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
-          "rank": 7,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
+          "rank": 4,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
+          "rank": 5,
+          "title": "Dracula (JENNIE Remix)",
+          "artist": "Tame Impala"
+        },
+        {
+          "rank": 6,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 7,
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
+        },
+        {
           "rank": 8,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 9,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 10,
