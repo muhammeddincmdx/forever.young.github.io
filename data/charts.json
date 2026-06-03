@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T12:17:23.569978+00:00",
+  "generatedAt": "2026-06-03T17:24:24.220172+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,18 +19,18 @@
         },
         {
           "rank": 3,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 4,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 5,
-          "title": "SWIM",
-          "artist": "BTS"
         },
         {
           "rank": 6,
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Make Them Pay",
+          "artist": "Drake"
         },
         {
           "rank": 9,
-          "title": "Make Them Pay",
-          "artist": "Drake"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 10,
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes & Kürşad Kahraman"
+        },
+        {
+          "rank": 9,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Adı İntikamdı",
           "artist": "Afra & Mustafa Sandal"
-        },
-        {
-          "rank": 10,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes & Kürşad Kahraman"
         }
       ]
     },
