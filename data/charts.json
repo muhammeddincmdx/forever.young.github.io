@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T02:04:51.733831+00:00",
+  "generatedAt": "2026-06-03T07:19:37.562353+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -203,18 +203,18 @@
         },
         {
           "rank": 5,
-          "title": "Değilim",
-          "artist": "Mebrure"
-        },
-        {
-          "rank": 6,
           "title": "LEMONADE",
           "artist": "aespa"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
+        },
+        {
+          "rank": 7,
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 8,
@@ -251,43 +251,43 @@
         },
         {
           "rank": 3,
+          "title": "Stargazing",
+          "artist": "Myles Smith"
+        },
+        {
+          "rank": 4,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
-          "rank": 4,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
           "rank": 5,
-          "title": "Dracula (JENNIE Remix)",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 6,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
+          "rank": 6,
+          "title": "Dracula (JENNIE Remix)",
+          "artist": "Tame Impala"
+        },
+        {
           "rank": 7,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 9,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
+          "rank": 9,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
           "rank": 10,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     }
