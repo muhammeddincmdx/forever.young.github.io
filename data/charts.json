@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T13:54:07.254985+00:00",
+  "generatedAt": "2026-06-04T16:48:17.058145+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,33 +19,33 @@
         },
         {
           "rank": 3,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 4,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 5,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "rank": 4,
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
+          "rank": 6,
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
+        },
+        {
           "rank": 7,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Beat It",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 8,
-          "title": "Beat It",
-          "artist": "Michael Jackson"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 9,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 10,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "back to friends",
+          "artist": "sombr"
         }
       ]
     },
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes & Kürşad Kahraman"
         },
         {
           "rank": 5,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes & Kürşad Kahraman"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 6,
