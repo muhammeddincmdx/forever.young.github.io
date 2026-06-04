@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T22:59:27.564168+00:00",
+  "generatedAt": "2026-06-04T01:43:47.724660+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
-          "title": "LEMONADE",
-          "artist": "aespa"
-        },
-        {
-          "rank": 8,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
+        },
+        {
+          "rank": 9,
+          "title": "LEMONADE",
+          "artist": "aespa"
         },
         {
           "rank": 10,
