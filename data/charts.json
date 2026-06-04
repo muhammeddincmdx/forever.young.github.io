@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T01:43:47.724660+00:00",
+  "generatedAt": "2026-06-04T06:36:27.200655+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,12 +165,12 @@
         },
         {
           "rank": 9,
-          "title": "Make Them Pay",
+          "title": "Plot Twist",
           "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "Plot Twist",
+          "title": "Make Them Pay",
           "artist": "Drake"
         }
       ]
@@ -203,28 +203,28 @@
         },
         {
           "rank": 5,
+          "title": "LEMONADE",
+          "artist": "aespa"
+        },
+        {
+          "rank": 6,
           "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
           "artist": "Ankara Echoes & Kürşad Kahraman"
         },
         {
-          "rank": 6,
-          "title": "Değilim",
-          "artist": "Mebrure"
-        },
-        {
           "rank": 7,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 8,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
+          "rank": 8,
+          "title": "Değilim",
+          "artist": "Mebrure"
+        },
+        {
           "rank": 9,
-          "title": "LEMONADE",
-          "artist": "aespa"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
@@ -251,8 +251,8 @@
         },
         {
           "rank": 3,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Dracula (JENNIE Remix)",
+          "artist": "Tame Impala"
         },
         {
           "rank": 4,
@@ -261,13 +261,13 @@
         },
         {
           "rank": 5,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 6,
-          "title": "Dracula (JENNIE Remix)",
-          "artist": "Tame Impala"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 7,
@@ -276,18 +276,18 @@
         },
         {
           "rank": 8,
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
+        },
+        {
+          "rank": 9,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 9,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     }
