@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T14:30:47.751136+00:00",
+  "generatedAt": "2026-06-05T17:08:57.220204+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Make Them Pay",
+          "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "Make Them Pay",
-          "artist": "Drake"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes & Kürşad Kahraman"
         },
         {
           "rank": 4,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes & Kürşad Kahraman"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 5,
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Değilim",
-          "artist": "Mebrure"
-        },
-        {
-          "rank": 9,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
+          "rank": 9,
+          "title": "Değilim",
+          "artist": "Mebrure"
+        },
+        {
           "rank": 10,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         }
       ]
     },
