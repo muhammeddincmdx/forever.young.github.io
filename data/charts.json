@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T04:20:33.304860+00:00",
+  "generatedAt": "2026-06-05T08:29:34.773619+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 9,
           "title": "Plot Twist",
           "artist": "Drake"
         },
         {
+          "rank": 9,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
           "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Make Them Pay",
+          "artist": "Drake"
         }
       ]
     },
@@ -208,8 +208,8 @@
         },
         {
           "rank": 6,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "LEMONADE",
+          "artist": "aespa"
         },
         {
           "rank": 7,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 10,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "Adı İntikamdı",
+          "artist": "Afra & Mustafa Sandal"
         }
       ]
     },
