@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T08:29:34.773619+00:00",
+  "generatedAt": "2026-06-05T11:43:11.593604+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Değilim",
+          "artist": "Mebrure"
         },
         {
           "rank": 9,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 10,
@@ -251,28 +251,28 @@
         },
         {
           "rank": 3,
+          "title": "Stargazing",
+          "artist": "Myles Smith"
+        },
+        {
+          "rank": 4,
           "title": "Dracula (JENNIE Remix)",
           "artist": "Tame Impala"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
-          "rank": 5,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
           "rank": 6,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 7,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 8,
@@ -281,13 +281,13 @@
         },
         {
           "rank": 9,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     }
