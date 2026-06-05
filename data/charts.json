@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T22:51:23.499285+00:00",
+  "generatedAt": "2026-06-05T00:00:06.094122+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "LEMONADE",
-          "artist": "aespa"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "LEMONADE",
+          "artist": "aespa"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Adı İntikamdı",
-          "artist": "Afra & Mustafa Sandal"
+          "title": "Snap",
+          "artist": "manifest"
         }
       ]
     },
