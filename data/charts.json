@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T19:14:34.622893+00:00",
+  "generatedAt": "2026-06-05T21:04:59.580894+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 8,
           "title": "2 Hard 4 The Radio",
           "artist": "Drake"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Plot Twist",
           "artist": "Drake"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Make Them Pay",
           "artist": "Drake"
-        },
-        {
-          "rank": 10,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
         }
       ]
     },
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "LEMONADE",
-          "artist": "aespa"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 9,
           "title": "Değilim",
           "artist": "Mebrure"
         },
         {
+          "rank": 9,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
           "rank": 10,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
+          "title": "LEMONADE",
+          "artist": "aespa"
         }
       ]
     },
