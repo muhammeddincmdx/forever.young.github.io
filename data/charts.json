@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T04:33:24.849142+00:00",
+  "generatedAt": "2026-06-06T07:41:49.707342+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -251,43 +251,43 @@
         },
         {
           "rank": 3,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
-        },
-        {
-          "rank": 4,
-          "title": "Dracula (JENNIE Remix)",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 5,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
-        },
-        {
-          "rank": 6,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 7,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 8,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
-        },
-        {
-          "rank": 9,
+          "rank": 4,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
-          "rank": 10,
+          "rank": 5,
           "title": "SWIM",
           "artist": "BTS"
+        },
+        {
+          "rank": 6,
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 7,
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
+        },
+        {
+          "rank": 8,
+          "title": "YUKON",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 9,
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
+        },
+        {
+          "rank": 10,
+          "title": "Dracula (JENNIE Remix)",
+          "artist": "Tame Impala"
         }
       ]
     }
