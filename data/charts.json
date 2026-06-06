@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T00:00:43.890503+00:00",
+  "generatedAt": "2026-06-06T04:33:24.849142+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Whisper My Name",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         },
         {
           "rank": 6,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Make Them Pay",
-          "artist": "Drake"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -203,13 +203,13 @@
         },
         {
           "rank": 5,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         },
         {
           "rank": 6,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 7,
