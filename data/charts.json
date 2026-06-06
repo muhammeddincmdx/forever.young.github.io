@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T20:05:33.562460+00:00",
+  "generatedAt": "2026-06-06T21:35:21.786780+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,53 +9,53 @@
       "entries": [
         {
           "rank": 1,
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 2,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Beat It",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Earrings",
           "artist": "Malcolm Todd"
-        },
-        {
-          "rank": 10,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
         }
       ]
     },
@@ -140,8 +140,8 @@
         },
         {
           "rank": 4,
-          "title": "Whisper My Name",
-          "artist": "Drake"
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
         },
         {
           "rank": 6,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         },
         {
           "rank": 7,
@@ -165,8 +165,8 @@
         },
         {
           "rank": 9,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Snap",
+          "artist": "manifest"
         }
       ]
     },
