@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T09:56:39.438659+00:00",
+  "generatedAt": "2026-06-06T11:22:52.285811+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         },
         {
           "rank": 5,
-          "title": "Whisper My Name",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 6,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Plot Twist",
-          "artist": "Drake"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Plot Twist",
+          "artist": "Drake"
         }
       ]
     },
@@ -198,18 +198,18 @@
         },
         {
           "rank": 4,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
-        },
-        {
-          "rank": 5,
           "title": "Kayıp Kalp",
           "artist": "BLOK3"
         },
         {
+          "rank": 5,
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
+        },
+        {
           "rank": 6,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 7,
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 9,
-          "title": "Değilim",
-          "artist": "Mebrure"
+          "title": "LEMONADE",
+          "artist": "aespa"
         },
         {
           "rank": 10,
