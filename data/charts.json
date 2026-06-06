@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T15:48:24.021495+00:00",
+  "generatedAt": "2026-06-06T17:02:35.864985+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -188,13 +188,13 @@
         },
         {
           "rank": 2,
-          "title": "İki Tas Çorba",
-          "artist": "Mela Bedel & Mustafa Sandal"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         },
         {
           "rank": 3,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
+          "title": "İki Tas Çorba",
+          "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
           "rank": 4,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         }
       ]
     },
