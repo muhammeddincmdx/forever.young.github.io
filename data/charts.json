@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T00:01:40.023551+00:00",
+  "generatedAt": "2026-06-07T05:03:48.836658+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 6,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "2 Hard 4 The Radio",
-          "artist": "Drake"
-        },
-        {
-          "rank": 9,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 10,
-          "title": "Plot Twist",
+          "rank": 9,
+          "title": "2 Hard 4 The Radio",
           "artist": "Drake"
+        },
+        {
+          "rank": 10,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         }
       ]
     },
@@ -193,8 +193,8 @@
         },
         {
           "rank": 3,
-          "title": "İki Tas Çorba",
-          "artist": "Mela Bedel & Mustafa Sandal"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 4,
@@ -203,8 +203,8 @@
         },
         {
           "rank": 5,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "İki Tas Çorba",
+          "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
           "rank": 6,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         }
       ]
     },
