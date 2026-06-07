@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T16:09:16.307466+00:00",
+  "generatedAt": "2026-06-07T17:45:19.534098+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,8 +9,8 @@
       "entries": [
         {
           "rank": 1,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 2,
@@ -19,13 +19,13 @@
         },
         {
           "rank": 3,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 4,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 5,
@@ -44,18 +44,18 @@
         },
         {
           "rank": 8,
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
+        },
+        {
+          "rank": 9,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Janice STFU",
           "artist": "Drake"
-        },
-        {
-          "rank": 10,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
         }
       ]
     },
