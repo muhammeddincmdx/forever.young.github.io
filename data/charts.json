@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T05:03:48.836658+00:00",
+  "generatedAt": "2026-06-07T08:33:10.452949+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         },
         {
           "rank": 6,
-          "title": "Whisper My Name",
-          "artist": "Drake"
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 7,
@@ -160,8 +160,8 @@
         },
         {
           "rank": 8,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 9,
@@ -251,43 +251,43 @@
         },
         {
           "rank": 3,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Dracula (JENNIE Remix)",
+          "artist": "Tame Impala"
         },
         {
           "rank": 4,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 5,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 6,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 7,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
-          "rank": 8,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
+          "rank": 6,
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 8,
           "title": "WHERE IS MY HUSBAND!",
           "artist": "RAYE"
         },
         {
+          "rank": 9,
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
+        },
+        {
           "rank": 10,
-          "title": "Dracula (JENNIE Remix)",
-          "artist": "Tame Impala"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     }
