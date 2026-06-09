@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T18:28:37.003423+00:00",
+  "generatedAt": "2026-06-09T20:27:49.386108+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,18 +14,18 @@
         },
         {
           "rank": 2,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 3,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "SWIM",
           "artist": "BTS"
+        },
+        {
+          "rank": 4,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 5,
@@ -34,8 +34,8 @@
         },
         {
           "rank": 6,
-          "title": "Beat It",
-          "artist": "Michael Jackson"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 7,
@@ -44,18 +44,18 @@
         },
         {
           "rank": 8,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "Beat It",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 9,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
         }
       ]
     },
