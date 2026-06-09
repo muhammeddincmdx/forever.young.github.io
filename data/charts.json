@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T06:32:40.694529+00:00",
+  "generatedAt": "2026-06-09T10:30:04.403288+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,8 +160,8 @@
         },
         {
           "rank": 8,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -208,18 +208,18 @@
         },
         {
           "rank": 6,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         }
       ]
     },
@@ -251,43 +251,43 @@
         },
         {
           "rank": 3,
-          "title": "Dracula (JENNIE Remix)",
-          "artist": "Tame Impala"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 4,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
-          "rank": 5,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 6,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 7,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 9,
+          "rank": 5,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
-          "rank": 10,
+          "rank": 6,
+          "title": "Dracula (JENNIE Remix)",
+          "artist": "Tame Impala"
+        },
+        {
+          "rank": 7,
           "title": "Should I Stay or Should I Go (Remastered)",
           "artist": "The Clash"
+        },
+        {
+          "rank": 8,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 9,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
+          "rank": 10,
+          "title": "Folded",
+          "artist": "Kehlani"
         }
       ]
     }
