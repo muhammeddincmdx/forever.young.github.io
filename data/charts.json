@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T07:02:51.966567+00:00",
+  "generatedAt": "2026-06-10T11:06:47.586091+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,6 +118,64 @@
       ]
     },
     {
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
+          "rank": 2,
+          "title": "Shabang",
+          "artist": "Drake"
+        },
+        {
+          "rank": 3,
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
+        },
+        {
+          "rank": 4,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 5,
+          "title": "Whisper My Name",
+          "artist": "Drake"
+        },
+        {
+          "rank": 6,
+          "title": "National Treasures",
+          "artist": "Drake"
+        },
+        {
+          "rank": 7,
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 8,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 9,
+          "title": "2 Hard 4 The Radio",
+          "artist": "Drake"
+        },
+        {
+          "rank": 10,
+          "title": "Plot Twist",
+          "artist": "Drake"
+        }
+      ]
+    },
+    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -165,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         }
       ]
     },
@@ -193,18 +251,18 @@
         },
         {
           "rank": 3,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 4,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 5,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 6,
@@ -213,23 +271,23 @@
         },
         {
           "rank": 7,
-          "title": "Should I Stay or Should I Go (Remastered)",
-          "artist": "The Clash"
-        },
-        {
-          "rank": 8,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
+          "rank": 8,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
         },
         {
           "rank": 10,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "YUKON",
+          "artist": "Justin Bieber"
         }
       ]
     }
