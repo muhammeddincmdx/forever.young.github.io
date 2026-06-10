@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T23:49:01.901483+00:00",
+  "generatedAt": "2026-06-10T02:43:31.167074+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 8,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Kırgınım",
           "artist": "BLOK3"
+        },
+        {
+          "rank": 9,
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 10,
