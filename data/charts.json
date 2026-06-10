@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T17:53:04.637990+00:00",
+  "generatedAt": "2026-06-10T20:17:29.539157+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,13 +19,13 @@
         },
         {
           "rank": 3,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 4,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 5,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "National Treasures",
-          "artist": "Drake"
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 7,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
+          "title": "National Treasures",
+          "artist": "Drake"
         },
         {
           "rank": 8,
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
+          "title": "Daha İyi",
+          "artist": "manifest"
+        },
+        {
+          "rank": 9,
           "title": "Eller Üzer",
           "artist": "Serkan Nişancı"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Sebebi Yar",
           "artist": "BLOK3"
-        },
-        {
-          "rank": 10,
-          "title": "Daha İyi",
-          "artist": "manifest"
         }
       ]
     },
