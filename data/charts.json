@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T02:43:31.167074+00:00",
+  "generatedAt": "2026-06-10T07:02:51.966567+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,64 +118,6 @@
       ]
     },
     {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 2,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
-          "rank": 3,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
-        },
-        {
-          "rank": 4,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 5,
-          "title": "Whisper My Name",
-          "artist": "Drake"
-        },
-        {
-          "rank": 6,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 7,
-          "title": "National Treasures",
-          "artist": "Drake"
-        },
-        {
-          "rank": 8,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 9,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 10,
-          "title": "2 Hard 4 The Radio",
-          "artist": "Drake"
-        }
-      ]
-    },
-    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -198,18 +140,18 @@
         },
         {
           "rank": 4,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
-        },
-        {
-          "rank": 5,
           "title": "İki Tas Çorba",
           "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
+          "rank": 5,
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes"
+        },
+        {
           "rank": 6,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 7,
@@ -218,8 +160,8 @@
         },
         {
           "rank": 8,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 9,
