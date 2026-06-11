@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T07:24:28.262480+00:00",
+  "generatedAt": "2026-06-11T11:53:39.306713+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
+          "title": "National Treasures",
+          "artist": "Drake"
         },
         {
           "rank": 7,
-          "title": "National Treasures",
-          "artist": "Drake"
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 8,
@@ -165,12 +165,12 @@
         },
         {
           "rank": 9,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "2 Hard 4 The Radio",
+          "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "2 Hard 4 The Radio",
+          "title": "Plot Twist",
           "artist": "Drake"
         }
       ]
