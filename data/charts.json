@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T02:52:54.822452+00:00",
+  "generatedAt": "2026-06-11T07:24:28.262480+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 8,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Eller Üzer",
           "artist": "Serkan Nişancı"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Sebebi Yar",
           "artist": "BLOK3"
+        },
+        {
+          "rank": 10,
+          "title": "Daha İyi",
+          "artist": "manifest"
         }
       ]
     },
