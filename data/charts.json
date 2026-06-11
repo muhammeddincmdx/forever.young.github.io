@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T15:40:55.504481+00:00",
+  "generatedAt": "2026-06-11T18:42:06.283946+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "National Treasures",
-          "artist": "Drake"
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 7,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
+          "title": "National Treasures",
+          "artist": "Drake"
         },
         {
           "rank": 8,
@@ -165,12 +165,12 @@
         },
         {
           "rank": 9,
-          "title": "2 Hard 4 The Radio",
-          "artist": "Drake"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "Plot Twist",
+          "title": "2 Hard 4 The Radio",
           "artist": "Drake"
         }
       ]
@@ -208,18 +208,18 @@
         },
         {
           "rank": 6,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 7,
           "title": "Daha İyi",
           "artist": "manifest"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Eller Üzer",
           "artist": "Serkan Nişancı"
+        },
+        {
+          "rank": 8,
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 9,
