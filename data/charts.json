@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T11:53:39.306713+00:00",
+  "generatedAt": "2026-06-11T15:40:55.504481+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,8 +213,8 @@
         },
         {
           "rank": 7,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 8,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Sebebi Yar",
+          "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         }
       ]
     },
@@ -251,23 +251,23 @@
         },
         {
           "rank": 3,
+          "title": "Dracula (JENNIE Remix)",
+          "artist": "Tame Impala"
+        },
+        {
+          "rank": 4,
+          "title": "Stargazing",
+          "artist": "Myles Smith"
+        },
+        {
+          "rank": 5,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "Folded",
           "artist": "Kehlani"
-        },
-        {
-          "rank": 5,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 6,
-          "title": "Dracula (JENNIE Remix)",
-          "artist": "Tame Impala"
         },
         {
           "rank": 7,
@@ -286,8 +286,8 @@
         },
         {
           "rank": 10,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
         }
       ]
     }
