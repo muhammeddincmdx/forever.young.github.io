@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T06:27:42.157308+00:00",
+  "generatedAt": "2026-06-12T10:48:24.627253+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 4,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
+          "title": "National Treasures",
+          "artist": "Drake"
         },
         {
           "rank": 7,
-          "title": "National Treasures",
-          "artist": "Drake"
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 8,
@@ -223,12 +223,12 @@
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
+          "title": "Sebebi Yar",
           "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "Sebebi Yar",
+          "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         }
       ]
