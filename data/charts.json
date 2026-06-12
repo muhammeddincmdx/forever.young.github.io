@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T16:45:31.487064+00:00",
+  "generatedAt": "2026-06-12T18:59:27.424931+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 3,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 4,
@@ -29,13 +29,13 @@
         },
         {
           "rank": 5,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 6,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 7,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 10,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
+          "title": "Janice STFU",
+          "artist": "Drake"
         }
       ]
     },
@@ -87,8 +87,8 @@
         },
         {
           "rank": 5,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 6,
@@ -102,8 +102,8 @@
         },
         {
           "rank": 8,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
@@ -112,8 +112,8 @@
         },
         {
           "rank": 10,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Janice STFU",
+          "artist": "Drake"
         }
       ]
     },
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 9,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
-          "rank": 9,
-          "title": "2 Hard 4 The Radio",
-          "artist": "Drake"
-        },
-        {
           "rank": 10,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
