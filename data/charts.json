@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T18:59:27.424931+00:00",
+  "generatedAt": "2026-06-12T21:03:00.170407+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 4,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 5,
@@ -150,28 +150,28 @@
         },
         {
           "rank": 6,
-          "title": "National Treasures",
-          "artist": "Drake"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 7,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 8,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 8,
+          "title": "National Treasures",
+          "artist": "Drake"
+        },
+        {
           "rank": 9,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
         }
       ]
     },
