@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T22:54:24.776400+00:00",
+  "generatedAt": "2026-06-13T00:14:35.060509+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Whisper My Name",
-          "artist": "Drake"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 6,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         },
         {
           "rank": 7,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "National Treasures",
-          "artist": "Drake"
-        },
-        {
-          "rank": 9,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 9,
+          "title": "honeybee",
+          "artist": "Olivia Rodrigo"
+        },
+        {
           "rank": 10,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
+          "title": "National Treasures",
+          "artist": "Drake"
         }
       ]
     },
