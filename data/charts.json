@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T04:57:27.041035+00:00",
+  "generatedAt": "2026-06-13T08:19:40.456838+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 4,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
@@ -155,17 +155,17 @@
         },
         {
           "rank": 7,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 8,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "honeybee",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 9,
+          "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
@@ -218,12 +218,12 @@
         },
         {
           "rank": 8,
-          "title": "Kırgınım",
+          "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
+          "title": "Kırgınım",
           "artist": "BLOK3"
         },
         {
@@ -251,28 +251,28 @@
         },
         {
           "rank": 3,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 4,
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
+        },
+        {
+          "rank": 5,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Dracula (JENNIE Remix)",
           "artist": "Tame Impala"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "I Just Might",
           "artist": "Bruno Mars"
-        },
-        {
-          "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
         },
         {
           "rank": 8,
@@ -281,13 +281,13 @@
         },
         {
           "rank": 9,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 10,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         }
       ]
     }
