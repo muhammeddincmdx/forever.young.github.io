@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T16:09:26.636415+00:00",
+  "generatedAt": "2026-06-13T17:50:54.714914+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,53 +9,53 @@
       "entries": [
         {
           "rank": 1,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 2,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 3,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 4,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 5,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 3,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 4,
+          "title": "honeybee",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 5,
+          "title": "maggots for brains",
+          "artist": "Olivia Rodrigo"
+        },
+        {
           "rank": 6,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "u + me = <3",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 7,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "my way",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 8,
-          "title": "Beat It",
-          "artist": "Michael Jackson"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 9,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
+          "title": "what’s wrong with me (w/ Robert Smith )",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "begged",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
