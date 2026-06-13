@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T00:14:35.060509+00:00",
+  "generatedAt": "2026-06-13T04:57:27.041035+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 5,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 6,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "National Treasures",
-          "artist": "Drake"
+          "title": "maggots for brains",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
