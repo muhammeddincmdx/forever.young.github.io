@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T22:03:31.271198+00:00",
+  "generatedAt": "2026-06-14T23:43:33.429684+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,22 +155,22 @@
         },
         {
           "rank": 7,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 8,
           "title": "Whisper My Name",
           "artist": "Drake"
         },
         {
+          "rank": 8,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
           "rank": 9,
-          "title": "honeybee",
-          "artist": "Olivia Rodrigo"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "drop dead",
+          "title": "honeybee",
           "artist": "Olivia Rodrigo"
         }
       ]
@@ -218,12 +218,12 @@
         },
         {
           "rank": 8,
-          "title": "Kırgınım",
+          "title": "Sebebi Yar",
           "artist": "BLOK3"
         },
         {
           "rank": 9,
-          "title": "Sebebi Yar",
+          "title": "Kırgınım",
           "artist": "BLOK3"
         },
         {
