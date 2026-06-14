@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T23:03:15.647954+00:00",
+  "generatedAt": "2026-06-14T01:40:43.644880+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,28 +150,28 @@
         },
         {
           "rank": 6,
-          "title": "Whisper My Name",
-          "artist": "Drake"
-        },
-        {
-          "rank": 7,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 8,
-          "title": "honeybee",
-          "artist": "Olivia Rodrigo"
+          "rank": 7,
+          "title": "Whisper My Name",
+          "artist": "Drake"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 10,
-          "title": "maggots for brains",
+          "rank": 9,
+          "title": "honeybee",
           "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 10,
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
