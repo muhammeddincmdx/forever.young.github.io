@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T23:43:33.429684+00:00",
+  "generatedAt": "2026-06-15T02:58:51.708109+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 4,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 5,
@@ -160,17 +160,17 @@
         },
         {
           "rank": 8,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 9,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
+          "rank": 9,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
           "rank": 10,
-          "title": "honeybee",
+          "title": "drop dead",
           "artist": "Olivia Rodrigo"
         }
       ]
