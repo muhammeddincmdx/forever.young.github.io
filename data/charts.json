@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T02:58:51.708109+00:00",
+  "generatedAt": "2026-06-15T09:25:03.580947+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,43 +130,43 @@
         },
         {
           "rank": 2,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
-          "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 4,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 5,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "rank": 3,
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
-          "rank": 6,
+          "rank": 4,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 5,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 6,
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
+        },
+        {
           "rank": 7,
-          "title": "Whisper My Name",
-          "artist": "Drake"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 8,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "honeybee",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         },
         {
           "rank": 10,
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -251,18 +251,18 @@
         },
         {
           "rank": 3,
-          "title": "Dracula (JENNIE Remix)",
-          "artist": "Tame Impala"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 4,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 5,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 6,
@@ -276,13 +276,13 @@
         },
         {
           "rank": 8,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Dracula (JENNIE Remix)",
+          "artist": "Tame Impala"
         },
         {
           "rank": 9,
-          "title": "YUKON",
-          "artist": "Justin Bieber"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 10,
