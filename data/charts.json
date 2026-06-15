@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T21:59:31.805620+00:00",
+  "generatedAt": "2026-06-15T23:49:06.876350+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
