@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T15:26:22.137871+00:00",
+  "generatedAt": "2026-06-15T19:11:03.084373+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -34,13 +34,13 @@
         },
         {
           "rank": 6,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 8,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "maggots for brains",
+          "title": "what’s wrong with me (w/ Robert Smith )",
           "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "what’s wrong with me (w/ Robert Smith )",
-          "artist": "Olivia Rodrigo"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         }
       ]
     },
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 9,
           "title": "Whisper My Name",
           "artist": "Drake"
         },
         {
-          "rank": 9,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
           "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 8,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 9,
