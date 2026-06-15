@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T09:25:03.580947+00:00",
+  "generatedAt": "2026-06-15T15:26:22.137871+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,18 +155,18 @@
         },
         {
           "rank": 7,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 8,
           "title": "honeybee",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Whisper My Name",
           "artist": "Drake"
+        },
+        {
+          "rank": 9,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 10,
