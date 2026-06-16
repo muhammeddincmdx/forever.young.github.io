@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T02:59:14.521985+00:00",
+  "generatedAt": "2026-06-16T08:48:29.388030+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 9,
           "title": "Whisper My Name",
           "artist": "Drake"
         },
         {
+          "rank": 9,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
           "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "maggots for brains",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
-        },
-        {
-          "rank": 9,
           "title": "Kırgınım",
           "artist": "BLOK3"
         },
         {
+          "rank": 9,
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
+        },
+        {
           "rank": 10,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -251,33 +251,33 @@
         },
         {
           "rank": 3,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Dracula (JENNIE Remix)",
+          "artist": "Tame Impala"
         },
         {
           "rank": 4,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 5,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 6,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "rank": 5,
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
+          "rank": 7,
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
+        },
+        {
           "rank": 8,
-          "title": "Dracula (JENNIE Remix)",
-          "artist": "Tame Impala"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 9,
@@ -286,8 +286,8 @@
         },
         {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
         }
       ]
     }
