@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T01:59:12.946970+00:00",
+  "generatedAt": "2026-06-17T07:15:16.676875+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "honeybee",
-          "artist": "Olivia Rodrigo"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         },
         {
           "rank": 8,
-          "title": "Whisper My Name",
-          "artist": "Drake"
+          "title": "honeybee",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
@@ -256,38 +256,38 @@
         },
         {
           "rank": 4,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 5,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 6,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
-          "rank": 7,
+          "rank": 5,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 6,
           "title": "WHERE IS MY HUSBAND!",
           "artist": "RAYE"
         },
         {
-          "rank": 8,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "rank": 7,
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
+          "rank": 9,
+          "title": "Stargazing",
+          "artist": "Myles Smith"
+        },
+        {
           "rank": 10,
-          "title": "Should I Stay or Should I Go (Remastered)",
-          "artist": "The Clash"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         }
       ]
     }
