@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T18:38:50.188774+00:00",
+  "generatedAt": "2026-06-17T21:00:36.884648+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 3,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 4,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "maggots for brains",
-          "artist": "Olivia Rodrigo"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 10,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "maggots for brains",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
