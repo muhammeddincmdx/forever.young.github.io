@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T00:09:46.266643+00:00",
+  "generatedAt": "2026-06-18T05:12:31.987307+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "honeybee",
-          "artist": "Olivia Rodrigo"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "honeybee",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
