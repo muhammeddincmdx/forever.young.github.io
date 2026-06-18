@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T09:50:32.945634+00:00",
+  "generatedAt": "2026-06-18T12:46:22.502536+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
+          "title": "honeybee",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 8,
           "title": "Whisper My Name",
           "artist": "Drake"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 9,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
           "rank": 10,
-          "title": "honeybee",
-          "artist": "Olivia Rodrigo"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         }
       ]
     },
