@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T05:12:31.987307+00:00",
+  "generatedAt": "2026-06-18T09:50:32.945634+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         },
         {
           "rank": 8,
-          "title": "Whisper My Name",
-          "artist": "Drake"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
@@ -251,13 +251,13 @@
         },
         {
           "rank": 3,
-          "title": "Dracula (JENNIE Remix)",
-          "artist": "Tame Impala"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 4,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 5,
@@ -266,23 +266,23 @@
         },
         {
           "rank": 6,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
-        },
-        {
-          "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 8,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
+          "rank": 7,
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE"
+        },
+        {
+          "rank": 8,
+          "title": "Dracula (JENNIE Remix)",
+          "artist": "Tame Impala"
+        },
+        {
           "rank": 9,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 10,
