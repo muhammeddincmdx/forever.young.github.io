@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T07:35:45.310605+00:00",
+  "generatedAt": "2026-06-19T11:59:58.932433+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
+          "rank": 9,
           "title": "honeybee",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 9,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
           "rank": 10,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -246,38 +246,38 @@
         },
         {
           "rank": 2,
+          "title": "Dracula (JENNIE Remix)",
+          "artist": "Tame Impala"
+        },
+        {
+          "rank": 3,
           "title": "12 to 12",
           "artist": "sombr"
         },
         {
-          "rank": 3,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
-        },
-        {
           "rank": 4,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 5,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
+          "rank": 5,
+          "title": "Stargazing",
+          "artist": "Myles Smith"
+        },
+        {
           "rank": 6,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 7,
-          "title": "WHERE IS MY HUSBAND!",
-          "artist": "RAYE"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 8,
-          "title": "Dracula (JENNIE Remix)",
-          "artist": "Tame Impala"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 9,
@@ -286,8 +286,8 @@
         },
         {
           "rank": 10,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     }
