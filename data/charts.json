@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T15:31:33.671413+00:00",
+  "generatedAt": "2026-06-19T17:49:06.202036+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 3,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 4,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
