@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T15:41:10.258115+00:00",
+  "generatedAt": "2026-06-20T17:18:04.254043+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,33 +19,33 @@
         },
         {
           "rank": 3,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 4,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 5,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 6,
+          "rank": 4,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
+          "rank": 5,
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 6,
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
+        },
+        {
           "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 8,
-          "title": "honeybee",
-          "artist": "Olivia Rodrigo"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 9,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 10,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "honeybee",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 6,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 7,
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Kırgınım",
+          "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "BYE",
-          "artist": "Motive & Reckol"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         }
       ]
     },
