@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T21:44:55.333656+00:00",
+  "generatedAt": "2026-06-20T23:00:14.092178+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 4,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Whisper My Name",
-          "artist": "Drake"
-        },
-        {
-          "rank": 9,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 10,
-          "title": "National Treasures",
+          "rank": 9,
+          "title": "Whisper My Name",
           "artist": "Drake"
+        },
+        {
+          "rank": 10,
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
         }
       ]
     },
