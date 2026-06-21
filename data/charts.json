@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T05:23:20.627258+00:00",
+  "generatedAt": "2026-06-21T09:06:07.614516+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 6,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 7,
@@ -256,13 +256,13 @@
         },
         {
           "rank": 4,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 5,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 6,
@@ -271,23 +271,23 @@
         },
         {
           "rank": 7,
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
+        },
+        {
+          "rank": 8,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
-          "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
           "rank": 9,
-          "title": "The Fate of Ophelia",
+          "title": "I Knew It, I Knew You",
           "artist": "Taylor Swift"
         },
         {
           "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     }
