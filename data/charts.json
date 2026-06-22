@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T18:00:24.206618+00:00",
+  "generatedAt": "2026-06-22T21:18:03.143344+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 7,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 8,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Cinderella (feat. Ty Dolla $ign)",
-          "artist": "Mac Miller"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         }
       ]
     },
@@ -203,13 +203,13 @@
         },
         {
           "rank": 5,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 6,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 7,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "BYE",
+          "artist": "Motive & Reckol"
         }
       ]
     },
