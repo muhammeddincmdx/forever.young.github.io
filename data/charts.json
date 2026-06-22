@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T13:11:26.315203+00:00",
+  "generatedAt": "2026-06-22T18:00:24.206618+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -29,13 +29,13 @@
         },
         {
           "rank": 5,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 6,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 7,
@@ -44,18 +44,18 @@
         },
         {
           "rank": 8,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 9,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 10,
-          "title": "Beat It",
-          "artist": "Michael Jackson"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 6,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 7,
