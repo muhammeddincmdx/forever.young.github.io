@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T08:24:44.838760+00:00",
+  "generatedAt": "2026-06-23T11:36:35.401712+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 4,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 5,
@@ -208,28 +208,28 @@
         },
         {
           "rank": 6,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 7,
           "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
           "artist": "Ankara Echoes"
         },
         {
-          "rank": 8,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "rank": 7,
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
+          "rank": 9,
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
+        },
+        {
           "rank": 10,
-          "title": "BYE",
-          "artist": "Motive & Reckol"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         }
       ]
     },
