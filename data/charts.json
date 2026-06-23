@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T14:33:00.951712+00:00",
+  "generatedAt": "2026-06-23T17:11:30.713368+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 4,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 5,
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 8,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Whisper My Name",
           "artist": "Drake"
         },
         {
+          "rank": 9,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
           "rank": 10,
-          "title": "Cinderella (feat. Ty Dolla $ign)",
-          "artist": "Mac Miller"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 8,
