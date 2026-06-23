@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T22:59:00.488560+00:00",
+  "generatedAt": "2026-06-23T00:09:24.695338+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,23 +145,23 @@
         },
         {
           "rank": 5,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
-        },
-        {
-          "rank": 6,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 6,
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
+        },
+        {
           "rank": 7,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 8,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 9,
