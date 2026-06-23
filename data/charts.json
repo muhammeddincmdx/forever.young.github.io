@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T00:09:24.695338+00:00",
+  "generatedAt": "2026-06-23T04:37:59.570551+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -203,18 +203,18 @@
         },
         {
           "rank": 5,
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 6,
           "title": "Daha İyi",
           "artist": "manifest"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
           "artist": "Ankara Echoes"
-        },
-        {
-          "rank": 7,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
         },
         {
           "rank": 8,
