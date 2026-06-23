@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T04:37:59.570551+00:00",
+  "generatedAt": "2026-06-23T08:24:44.838760+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller"
         }
       ]
     },
@@ -256,8 +256,8 @@
         },
         {
           "rank": 4,
-          "title": "I Knew It, I Knew You",
-          "artist": "Taylor Swift"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 5,
@@ -266,28 +266,28 @@
         },
         {
           "rank": 6,
+          "title": "I Knew It, I Knew You",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 7,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "The Fate of Ophelia",
           "artist": "Taylor Swift"
-        },
-        {
-          "rank": 10,
-          "title": "I Know I Know",
-          "artist": "STELLA LEFTY"
         }
       ]
     }
