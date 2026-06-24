@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T06:39:10.513670+00:00",
+  "generatedAt": "2026-06-24T10:15:31.108726+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 4,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 5,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
+          "rank": 9,
           "title": "Whisper My Name",
           "artist": "Drake"
         },
         {
-          "rank": 9,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
           "rank": 10,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller"
         }
       ]
     },
