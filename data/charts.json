@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T02:35:49.682507+00:00",
+  "generatedAt": "2026-06-24T06:39:10.513670+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         }
       ]
     },
@@ -251,28 +251,28 @@
         },
         {
           "rank": 3,
-          "title": "12 to 12",
-          "artist": "sombr"
-        },
-        {
-          "rank": 4,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
-        },
-        {
-          "rank": 5,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
-          "rank": 6,
+          "rank": 4,
           "title": "I Knew It, I Knew You",
           "artist": "Taylor Swift"
         },
         {
-          "rank": 7,
+          "rank": 5,
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
+        },
+        {
+          "rank": 6,
           "title": "I Just Might",
           "artist": "Bruno Mars"
+        },
+        {
+          "rank": 7,
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 8,
@@ -286,8 +286,8 @@
         },
         {
           "rank": 10,
-          "title": "The Fate of Ophelia",
-          "artist": "Taylor Swift"
+          "title": "I Know I Know",
+          "artist": "STELLA LEFTY"
         }
       ]
     }
