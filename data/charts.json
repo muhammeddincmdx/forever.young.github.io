@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T15:29:38.130084+00:00",
+  "generatedAt": "2026-06-24T17:28:00.885612+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 10,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         }
       ]
     },
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 4,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 5,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "Whisper My Name",
+          "artist": "Drake"
+        },
+        {
+          "rank": 9,
           "title": "Spend Dat",
           "artist": "Yung Miami"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Cinderella (feat. Ty Dolla $ign)",
           "artist": "Mac Miller"
-        },
-        {
-          "rank": 10,
-          "title": "Whisper My Name",
-          "artist": "Drake"
         }
       ]
     },
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 8,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         },
         {
           "rank": 10,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         }
       ]
     },
