@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T11:12:09.956391+00:00",
+  "generatedAt": "2026-06-25T13:33:07.062015+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         },
         {
           "rank": 10,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         }
       ]
     },
