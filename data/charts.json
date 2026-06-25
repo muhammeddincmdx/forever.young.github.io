@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T00:01:36.522032+00:00",
+  "generatedAt": "2026-06-25T04:40:57.530920+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 5,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 6,
           "title": "Ran To Atlanta",
           "artist": "Drake, Future & Molly Santana"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Be Her",
           "artist": "Ella Langley"
+        },
+        {
+          "rank": 7,
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 10,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "Eller Üzer",
+          "artist": "Serkan Nişancı"
         },
         {
           "rank": 10,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         }
       ]
     },
