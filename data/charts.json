@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T16:17:37.030766+00:00",
+  "generatedAt": "2026-06-25T18:29:56.689762+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,13 +9,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 2,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 3,
@@ -34,28 +34,28 @@
         },
         {
           "rank": 6,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 7,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 8,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
-        },
-        {
-          "rank": 9,
           "title": "Dai Dai (w/ Burna Boy )",
           "artist": "Shakira"
         },
         {
+          "rank": 7,
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 8,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
+        },
+        {
+          "rank": 9,
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
+        },
+        {
           "rank": 10,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
