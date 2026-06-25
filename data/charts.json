@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T18:29:56.689762+00:00",
+  "generatedAt": "2026-06-25T20:32:35.721996+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,28 +150,28 @@
         },
         {
           "rank": 6,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 7,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 8,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "rank": 7,
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Whisper My Name",
           "artist": "Drake"
         },
         {
+          "rank": 9,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
           "rank": 10,
-          "title": "Cinderella (feat. Ty Dolla $ign)",
-          "artist": "Mac Miller"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     },
