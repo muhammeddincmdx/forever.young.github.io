@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T04:40:57.530920+00:00",
+  "generatedAt": "2026-06-25T08:17:49.258596+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,23 +150,23 @@
         },
         {
           "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 7,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 7,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
           "rank": 8,
-          "title": "Whisper My Name",
-          "artist": "Drake"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 9,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         },
         {
           "rank": 10,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         }
       ]
     },
@@ -251,8 +251,8 @@
         },
         {
           "rank": 3,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
         },
         {
           "rank": 4,
@@ -261,8 +261,8 @@
         },
         {
           "rank": 5,
-          "title": "Should I Stay or Should I Go (Remastered)",
-          "artist": "The Clash"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 6,
@@ -276,8 +276,8 @@
         },
         {
           "rank": 8,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "Homewrecker",
+          "artist": "sombr"
         },
         {
           "rank": 9,
@@ -286,7 +286,7 @@
         },
         {
           "rank": 10,
-          "title": "I Know I Know",
+          "title": "Boston",
           "artist": "STELLA LEFTY"
         }
       ]
