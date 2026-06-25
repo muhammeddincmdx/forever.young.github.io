@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T08:17:49.258596+00:00",
+  "generatedAt": "2026-06-25T11:12:09.956391+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 6,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 7,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Eller Üzer",
-          "artist": "Serkan Nişancı"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         }
       ]
     },
