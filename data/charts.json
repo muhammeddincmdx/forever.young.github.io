@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T21:02:45.098639+00:00",
+  "generatedAt": "2026-06-26T22:42:02.067441+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 7,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
+          "rank": 9,
           "title": "Spend Dat",
           "artist": "Yung Miami"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Whisper My Name",
           "artist": "Drake"
-        },
-        {
-          "rank": 10,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Snap",
+          "artist": "manifest"
         }
       ]
     },
