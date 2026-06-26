@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T12:29:31.859966+00:00",
+  "generatedAt": "2026-06-26T15:11:38.000323+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 7,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 8,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         },
         {
           "rank": 10,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         }
       ]
     },
