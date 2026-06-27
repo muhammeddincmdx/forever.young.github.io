@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T17:01:07.687376+00:00",
+  "generatedAt": "2026-06-27T18:42:19.847590+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 5,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 6,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -203,13 +203,13 @@
         },
         {
           "rank": 5,
-          "title": "İki Tas Çorba",
-          "artist": "Mela Bedel & Mustafa Sandal"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 6,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "İki Tas Çorba",
+          "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
           "rank": 7,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Snap",
+          "artist": "manifest"
         }
       ]
     },
