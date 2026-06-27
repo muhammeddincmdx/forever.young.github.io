@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T06:41:27.129774+00:00",
+  "generatedAt": "2026-06-27T09:24:34.054887+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,8 +14,8 @@
         },
         {
           "rank": 2,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 3,
@@ -24,8 +24,66 @@
         },
         {
           "rank": 4,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 5,
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
+        },
+        {
+          "rank": 6,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 7,
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 8,
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
+        },
+        {
+          "rank": 9,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 10,
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
+        }
+      ]
+    },
+    {
+      "id": "spotify-global-weekly",
+      "name": "Global Weekly",
+      "platform": "Spotify",
+      "source": "https://kworb.net/spotify/country/global_weekly.html",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 2,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
+        },
+        {
+          "rank": 3,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 4,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 5,
@@ -44,76 +102,18 @@
         },
         {
           "rank": 8,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
-          "rank": 9,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
-          "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        }
-      ]
-    },
-    {
-      "id": "spotify-global-weekly",
-      "name": "Global Weekly",
-      "platform": "Spotify",
-      "source": "https://kworb.net/spotify/country/global_weekly.html",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 2,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 3,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 4,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 5,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 6,
-          "title": "honeybee",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 8,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
           "rank": 9,
-          "title": "maggots for brains",
+          "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         }
       ]
     },
@@ -145,8 +145,8 @@
         },
         {
           "rank": 5,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 6,
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 8,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Whisper My Name",
-          "artist": "Drake"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         }
       ]
     },
