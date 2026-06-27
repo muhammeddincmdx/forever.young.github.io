@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T18:42:19.847590+00:00",
+  "generatedAt": "2026-06-27T20:04:37.394701+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,28 +9,28 @@
       "entries": [
         {
           "rank": 1,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 2,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
+          "rank": 3,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
           "rank": 4,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 5,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 6,
@@ -39,23 +39,23 @@
         },
         {
           "rank": 7,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 8,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
-          "rank": 9,
-          "title": "drop dead",
+          "rank": 8,
+          "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Earrings",
           "artist": "Malcolm Todd"
+        },
+        {
+          "rank": 10,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
