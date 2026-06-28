@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T21:35:46.485996+00:00",
+  "generatedAt": "2026-06-28T22:56:30.127649+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 4,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 5,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
-        },
-        {
-          "rank": 6,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 7,
+          "rank": 5,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
+          "rank": 6,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 7,
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 8,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Piece Of Your Love",
-          "artist": "Rod Wave"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         }
       ]
     },
