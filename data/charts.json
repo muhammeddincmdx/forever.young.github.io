@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T12:12:37.747955+00:00",
+  "generatedAt": "2026-06-28T14:20:47.239602+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "İki Tas Çorba",
-          "artist": "Mela Bedel & Mustafa Sandal"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "İki Tas Çorba",
+          "artist": "Mela Bedel & Mustafa Sandal"
         },
         {
           "rank": 8,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         }
       ]
     },
