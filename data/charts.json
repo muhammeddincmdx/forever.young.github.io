@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T18:41:03.827361+00:00",
+  "generatedAt": "2026-06-28T20:07:45.521897+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,18 +14,18 @@
         },
         {
           "rank": 2,
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
+        },
+        {
+          "rank": 3,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
-        },
-        {
-          "rank": 4,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
         },
         {
           "rank": 5,
@@ -44,8 +44,8 @@
         },
         {
           "rank": 8,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "Beat It",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 9,
@@ -54,7 +54,7 @@
         },
         {
           "rank": 10,
-          "title": "drop dead",
+          "title": "the cure",
           "artist": "Olivia Rodrigo"
         }
       ]
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
+          "title": "Ara Beni",
+          "artist": "Hadise"
+        },
+        {
+          "rank": 9,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Yangın Yeri",
           "artist": "Elif Buse Doğan"
-        },
-        {
-          "rank": 10,
-          "title": "Ara Beni",
-          "artist": "Hadise"
         }
       ]
     },
