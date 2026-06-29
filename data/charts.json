@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T10:04:37.812414+00:00",
+  "generatedAt": "2026-06-29T14:31:48.032790+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 6,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 7,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Whisper My Name",
-          "artist": "Drake"
+          "title": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller"
         },
         {
           "rank": 10,
-          "title": "Cinderella (feat. Ty Dolla $ign)",
-          "artist": "Mac Miller"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         }
       ]
     },
@@ -208,22 +208,22 @@
         },
         {
           "rank": 6,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 7,
-          "title": "İki Tas Çorba (Mustafa Sandal Saygı 1)",
-          "artist": "Mela Bedel & Mustafa Sandal"
-        },
-        {
-          "rank": 8,
           "title": "Ara Beni",
           "artist": "Hadise"
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "Daha İyi",
+          "artist": "manifest"
+        },
+        {
+          "rank": 8,
           "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 9,
+          "title": "Kırgınım",
           "artist": "BLOK3"
         },
         {
