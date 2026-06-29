@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T05:08:59.483375+00:00",
+  "generatedAt": "2026-06-29T10:04:37.812414+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 5,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 6,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller"
         }
       ]
     },
@@ -256,8 +256,8 @@
         },
         {
           "rank": 4,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
@@ -266,8 +266,8 @@
         },
         {
           "rank": 6,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 7,
@@ -276,18 +276,18 @@
         },
         {
           "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 9,
-          "title": "Homewrecker",
-          "artist": "sombr"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "Should I Stay or Should I Go (Remastered)",
-          "artist": "The Clash"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     }
