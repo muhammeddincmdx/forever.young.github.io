@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T14:31:48.032790+00:00",
+  "generatedAt": "2026-06-29T17:30:01.179493+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 3,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 4,
@@ -29,33 +29,33 @@
         },
         {
           "rank": 5,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 6,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 7,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
-          "rank": 8,
-          "title": "Beat It",
-          "artist": "Michael Jackson"
+          "rank": 6,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 8,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 10,
+          "title": "Beat It",
+          "artist": "Michael Jackson"
         }
       ]
     },
@@ -140,18 +140,18 @@
         },
         {
           "rank": 4,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 5,
           "title": "Spend Dat",
           "artist": "Yung Miami"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
         },
         {
           "rank": 7,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Cinderella (feat. Ty Dolla $ign)",
-          "artist": "Mac Miller"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "Whisper My Name",
-          "artist": "Drake"
+          "title": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller"
         }
       ]
     },
@@ -203,13 +203,13 @@
         },
         {
           "rank": 5,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 6,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 7,
