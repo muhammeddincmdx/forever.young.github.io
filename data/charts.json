@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T19:21:38.281824+00:00",
+  "generatedAt": "2026-06-29T21:05:21.261603+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 6,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 7,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Cinderella (feat. Ty Dolla $ign)",
-          "artist": "Mac Miller"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         }
       ]
     },
