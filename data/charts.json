@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T05:01:49.995312+00:00",
+  "generatedAt": "2026-07-01T08:57:52.390418+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,28 +140,28 @@
         },
         {
           "rank": 4,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 5,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 5,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
           "rank": 6,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
+          "rank": 7,
           "title": "Ran To Atlanta",
           "artist": "Drake, Future & Molly Santana"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 8,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 10,
@@ -251,8 +251,8 @@
         },
         {
           "rank": 3,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 4,
@@ -261,23 +261,23 @@
         },
         {
           "rank": 5,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 6,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
-          "rank": 7,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Janice STFU",
           "artist": "Drake"
+        },
+        {
+          "rank": 8,
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 9,
@@ -286,8 +286,8 @@
         },
         {
           "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     }
