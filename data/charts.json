@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T00:01:10.890590+00:00",
+  "generatedAt": "2026-07-01T05:01:49.995312+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 6,
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 8,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Cinderella (feat. Ty Dolla $ign)",
-          "artist": "Mac Miller"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         }
       ]
     },
