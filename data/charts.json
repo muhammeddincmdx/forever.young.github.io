@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T13:14:33.476852+00:00",
+  "generatedAt": "2026-07-02T15:37:52.863142+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -188,18 +188,18 @@
         },
         {
           "rank": 2,
+          "title": "Ara Beni",
+          "artist": "Hadise"
+        },
+        {
+          "rank": 3,
           "title": "Kayıp Kalp",
           "artist": "BLOK3"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Sebebi Yar",
           "artist": "BLOK3"
-        },
-        {
-          "rank": 4,
-          "title": "Ara Beni",
-          "artist": "Hadise"
         },
         {
           "rank": 5,
