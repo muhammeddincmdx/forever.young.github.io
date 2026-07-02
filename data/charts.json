@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T08:08:44.041150+00:00",
+  "generatedAt": "2026-07-02T11:04:27.007283+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,6 +118,64 @@
       ]
     },
     {
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
+          "rank": 2,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 3,
+          "title": "Shabang",
+          "artist": "Drake"
+        },
+        {
+          "rank": 4,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 5,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
+          "rank": 6,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 7,
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
+        },
+        {
+          "rank": 8,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
+          "rank": 9,
+          "title": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller"
+        },
+        {
+          "rank": 10,
+          "title": "Whisper My Name",
+          "artist": "Drake"
+        }
+      ]
+    },
+    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -130,12 +188,12 @@
         },
         {
           "rank": 2,
-          "title": "Sebebi Yar",
+          "title": "Kayıp Kalp",
           "artist": "BLOK3"
         },
         {
           "rank": 3,
-          "title": "Kayıp Kalp",
+          "title": "Sebebi Yar",
           "artist": "BLOK3"
         },
         {
@@ -160,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 9,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 10,
