@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T04:37:58.302490+00:00",
+  "generatedAt": "2026-07-02T08:08:44.041150+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,64 +118,6 @@
       ]
     },
     {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 3,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
-          "rank": 4,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 5,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 6,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
-        },
-        {
-          "rank": 7,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 8,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 9,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 10,
-          "title": "Whisper My Name",
-          "artist": "Drake"
-        }
-      ]
-    },
-    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -213,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 9,
@@ -251,43 +193,43 @@
         },
         {
           "rank": 3,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 4,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
-        },
-        {
-          "rank": 5,
           "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
           "artist": "Taylor Swift"
         },
         {
+          "rank": 4,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 5,
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
+        },
+        {
           "rank": 6,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 7,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 8,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
+          "rank": 8,
+          "title": "Be By You",
+          "artist": "Luke Combs"
+        },
+        {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Janice STFU",
+          "artist": "Drake"
         }
       ]
     }
