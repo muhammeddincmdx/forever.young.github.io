@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T20:39:06.886922+00:00",
+  "generatedAt": "2026-07-02T22:00:46.301757+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 6,
