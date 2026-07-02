@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T22:45:08.588532+00:00",
+  "generatedAt": "2026-07-02T00:02:07.307900+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,38 +140,38 @@
         },
         {
           "rank": 4,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 5,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 6,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "rank": 5,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Ran To Atlanta",
           "artist": "Drake, Future & Molly Santana"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
+          "rank": 8,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
           "rank": 9,
-          "title": "Whisper My Name",
-          "artist": "Drake"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "Cinderella (feat. Ty Dolla $ign)",
-          "artist": "Mac Miller"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         }
       ]
     },
@@ -188,12 +188,12 @@
         },
         {
           "rank": 2,
-          "title": "Sebebi Yar",
+          "title": "Kayıp Kalp",
           "artist": "BLOK3"
         },
         {
           "rank": 3,
-          "title": "Kayıp Kalp",
+          "title": "Sebebi Yar",
           "artist": "BLOK3"
         },
         {
