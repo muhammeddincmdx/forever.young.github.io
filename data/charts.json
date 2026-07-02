@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T15:37:52.863142+00:00",
+  "generatedAt": "2026-07-02T17:37:53.429684+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 7,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Cinderella (feat. Ty Dolla $ign)",
-          "artist": "Mac Miller"
+          "title": "Whisper My Name",
+          "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "Whisper My Name",
-          "artist": "Drake"
+          "title": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller"
         }
       ]
     },
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
+          "title": "Daha İyi",
+          "artist": "manifest"
+        },
+        {
+          "rank": 8,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
           "artist": "Ankara Echoes"
-        },
-        {
-          "rank": 9,
-          "title": "Daha İyi",
-          "artist": "manifest"
         },
         {
           "rank": 10,
