@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T02:11:13.804830+00:00",
+  "generatedAt": "2026-07-03T06:06:42.613432+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,18 +150,18 @@
         },
         {
           "rank": 6,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
+          "rank": 7,
           "title": "Spend Dat",
           "artist": "Yung Miami"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Ran To Atlanta",
           "artist": "Drake, Future & Molly Santana"
-        },
-        {
-          "rank": 8,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 9,
@@ -193,12 +193,12 @@
         },
         {
           "rank": 3,
-          "title": "Kayıp Kalp",
+          "title": "Sebebi Yar",
           "artist": "BLOK3"
         },
         {
           "rank": 4,
-          "title": "Sebebi Yar",
+          "title": "Kayıp Kalp",
           "artist": "BLOK3"
         },
         {
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 10,
