@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T21:59:32.270209+00:00",
+  "generatedAt": "2026-07-03T23:08:47.176979+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,13 +125,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 3,
@@ -140,28 +140,28 @@
         },
         {
           "rank": 4,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 5,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
+          "rank": 5,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
           "rank": 6,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
+          "rank": 7,
           "title": "Ran To Atlanta",
           "artist": "Drake, Future & Molly Santana"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 8,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 9,
