@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T19:06:50.260498+00:00",
+  "generatedAt": "2026-07-03T20:35:40.639910+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,18 +19,18 @@
         },
         {
           "rank": 3,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 4,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
+        },
+        {
+          "rank": 5,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 6,
@@ -49,12 +49,12 @@
         },
         {
           "rank": 9,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 10,
-          "title": "the cure",
+          "title": "drop dead",
           "artist": "Olivia Rodrigo"
         }
       ]
@@ -67,53 +67,53 @@
       "entries": [
         {
           "rank": 1,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 2,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 3,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 4,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 5,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 6,
+          "rank": 2,
           "title": "Dai Dai (w/ Burna Boy )",
           "artist": "Shakira"
         },
         {
-          "rank": 7,
-          "title": "the cure",
+          "rank": 3,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 4,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 5,
+          "title": "stupid song",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 7,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
+          "rank": 8,
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
+        },
+        {
           "rank": 9,
-          "title": "drop dead",
+          "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 7,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 8,
@@ -165,8 +165,8 @@
         },
         {
           "rank": 9,
-          "title": "Cinderella (feat. Ty Dolla $ign)",
-          "artist": "Mac Miller"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
@@ -193,18 +193,18 @@
         },
         {
           "rank": 3,
+          "title": "Toz Pembe",
+          "artist": "manifest"
+        },
+        {
+          "rank": 4,
           "title": "Sebebi Yar",
           "artist": "BLOK3"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Kayıp Kalp",
           "artist": "BLOK3"
-        },
-        {
-          "rank": 5,
-          "title": "Toz Pembe",
-          "artist": "manifest"
         },
         {
           "rank": 6,
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 8,
           "title": "Daha İyi",
           "artist": "manifest"
         },
         {
-          "rank": 9,
-          "title": "KUSURA BAKMA",
+          "rank": 8,
+          "title": "Kırgınım",
           "artist": "BLOK3"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
           "artist": "Ankara Echoes"
+        },
+        {
+          "rank": 10,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
