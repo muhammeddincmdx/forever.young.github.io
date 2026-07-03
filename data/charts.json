@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T06:06:42.613432+00:00",
+  "generatedAt": "2026-07-03T09:40:08.980902+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,33 +140,33 @@
         },
         {
           "rank": 4,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 5,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 6,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 7,
           "title": "Spend Dat",
           "artist": "Yung Miami"
         },
         {
-          "rank": 8,
+          "rank": 5,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 6,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 7,
           "title": "Ran To Atlanta",
           "artist": "Drake, Future & Molly Santana"
         },
         {
+          "rank": 8,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
           "rank": 9,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller"
         },
         {
           "rank": 10,
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 8,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
           "artist": "Ankara Echoes"
+        },
+        {
+          "rank": 9,
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 10,
@@ -256,18 +256,18 @@
         },
         {
           "rank": 4,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 5,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Boston",
           "artist": "STELLA LEFTY"
-        },
-        {
-          "rank": 6,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
         },
         {
           "rank": 7,
@@ -276,18 +276,18 @@
         },
         {
           "rank": 8,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 9,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 10,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         }
       ]
     }
