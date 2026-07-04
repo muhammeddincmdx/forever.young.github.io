@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T12:01:56.773639+00:00",
+  "generatedAt": "2026-07-04T14:07:02.774755+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,13 +125,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 2,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
@@ -183,18 +183,18 @@
       "entries": [
         {
           "rank": 1,
+          "title": "Toz Pembe",
+          "artist": "manifest"
+        },
+        {
+          "rank": 2,
           "title": "Hileli",
           "artist": "manifest & Ajda Pekkan"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Ara Beni",
           "artist": "Hadise"
-        },
-        {
-          "rank": 3,
-          "title": "Toz Pembe",
-          "artist": "manifest"
         },
         {
           "rank": 4,
