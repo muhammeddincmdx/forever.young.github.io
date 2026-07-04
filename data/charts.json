@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T17:58:47.912855+00:00",
+  "generatedAt": "2026-07-04T19:17:13.032780+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,18 +135,18 @@
         },
         {
           "rank": 3,
+          "title": "Courtesy of the Red, White and Blue (The Angry American)",
+          "artist": "Toby Keith"
+        },
+        {
+          "rank": 4,
           "title": "Spend Dat",
           "artist": "Yung Miami"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Shabang",
           "artist": "Drake"
-        },
-        {
-          "rank": 5,
-          "title": "Courtesy of the Red, White and Blue (The Angry American)",
-          "artist": "Toby Keith"
         },
         {
           "rank": 6,
