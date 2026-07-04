@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T14:07:02.774755+00:00",
+  "generatedAt": "2026-07-04T15:39:24.570228+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 8,
           "title": "Daha İyi",
           "artist": "manifest"
         },
         {
-          "rank": 9,
-          "title": "KUSURA BAKMA",
+          "rank": 8,
+          "title": "Kırgınım",
           "artist": "BLOK3"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
           "artist": "Ankara Echoes"
+        },
+        {
+          "rank": 10,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
