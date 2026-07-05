@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T05:31:35.508257+00:00",
+  "generatedAt": "2026-07-05T08:43:45.928853+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,18 +140,18 @@
         },
         {
           "rank": 4,
+          "title": "Born In the U.S.A.",
+          "artist": "Bruce Springsteen"
+        },
+        {
+          "rank": 5,
           "title": "Spend Dat",
           "artist": "Yung Miami"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Shabang",
           "artist": "Drake"
-        },
-        {
-          "rank": 6,
-          "title": "Born In the U.S.A.",
-          "artist": "Bruce Springsteen"
         },
         {
           "rank": 7,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "God Bless The U.S.A.",
+          "artist": "Lee Greenwood"
+        },
+        {
+          "rank": 9,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Ran To Atlanta",
           "artist": "Drake, Future & Molly Santana"
-        },
-        {
-          "rank": 10,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -256,38 +256,38 @@
         },
         {
           "rank": 4,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 5,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 6,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
-          "rank": 7,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
+          "rank": 5,
+          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 6,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 7,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
           "rank": 8,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
+          "rank": 9,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
-          "rank": 9,
-          "title": "Be By You",
-          "artist": "Luke Combs"
-        },
-        {
           "rank": 10,
-          "title": "Homewrecker",
-          "artist": "sombr"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         }
       ]
     }
