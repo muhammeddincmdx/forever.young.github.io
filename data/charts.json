@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T08:43:45.928853+00:00",
+  "generatedAt": "2026-07-05T10:59:31.211544+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 8,
           "title": "God Bless The U.S.A.",
           "artist": "Lee Greenwood"
         },
         {
+          "rank": 8,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
           "rank": 9,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Party In the U.S.A.",
+          "artist": "Miley Cyrus"
         },
         {
           "rank": 10,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "MORNING DEW (DONK)",
+          "artist": "Beyoncé"
         }
       ]
     },
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 8,
           "title": "Kırgınım",
           "artist": "BLOK3"
         },
         {
+          "rank": 8,
+          "title": "Daha İyi",
+          "artist": "manifest"
+        },
+        {
           "rank": 9,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes"
         }
       ]
     },
