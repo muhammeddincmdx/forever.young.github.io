@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T16:59:35.434392+00:00",
+  "generatedAt": "2026-07-05T18:07:00.363648+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -29,18 +29,18 @@
         },
         {
           "rank": 5,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 6,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
+          "rank": 6,
+          "title": "Courtesy Of The Red, White And Blue (The Angry American)",
+          "artist": "Toby Keith"
+        },
+        {
           "rank": 7,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 8,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 10,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
