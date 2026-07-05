@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T12:19:12.449901+00:00",
+  "generatedAt": "2026-07-05T14:14:57.864462+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Born In the U.S.A.",
-          "artist": "Bruce Springsteen"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 5,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Born In the U.S.A.",
+          "artist": "Bruce Springsteen"
         },
         {
           "rank": 6,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 7,
-          "title": "God Bless The U.S.A.",
-          "artist": "Lee Greenwood"
+          "title": "MORNING DEW (DONK)",
+          "artist": "Beyoncé"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Party In the U.S.A.",
-          "artist": "Miley Cyrus"
+          "title": "God Bless The U.S.A.",
+          "artist": "Lee Greenwood"
         },
         {
           "rank": 10,
-          "title": "MORNING DEW (DONK)",
-          "artist": "Beyoncé"
+          "title": "Party In the U.S.A.",
+          "artist": "Miley Cyrus"
         }
       ]
     },
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 8,
           "title": "Daha İyi",
           "artist": "manifest"
         },
         {
-          "rank": 9,
-          "title": "KUSURA BAKMA",
+          "rank": 8,
+          "title": "Kırgınım",
           "artist": "BLOK3"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
           "artist": "Ankara Echoes"
+        },
+        {
+          "rank": 10,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
