@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T01:17:08.290299+00:00",
+  "generatedAt": "2026-07-05T05:31:35.508257+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 4,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
-          "rank": 5,
           "title": "Spend Dat",
           "artist": "Yung Miami"
         },
         {
+          "rank": 5,
+          "title": "Shabang",
+          "artist": "Drake"
+        },
+        {
           "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Born In the U.S.A.",
+          "artist": "Bruce Springsteen"
         },
         {
           "rank": 7,
-          "title": "Born In the U.S.A.",
-          "artist": "Bruce Springsteen"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 8,
