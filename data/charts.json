@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T08:55:56.723957+00:00",
+  "generatedAt": "2026-07-06T12:40:07.040143+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,6 +118,64 @@
       ]
     },
     {
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 2,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
+          "rank": 3,
+          "title": "Courtesy of the Red, White and Blue (The Angry American)",
+          "artist": "Toby Keith"
+        },
+        {
+          "rank": 4,
+          "title": "MORNING DEW (DONK)",
+          "artist": "Beyoncé"
+        },
+        {
+          "rank": 5,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
+          "rank": 6,
+          "title": "Shabang",
+          "artist": "Drake"
+        },
+        {
+          "rank": 7,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 8,
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
+        },
+        {
+          "rank": 9,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
+          "rank": 10,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
+        }
+      ]
+    },
+    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -165,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 10,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
