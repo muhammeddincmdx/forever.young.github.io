@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T18:23:48.059755+00:00",
+  "generatedAt": "2026-07-06T20:20:21.006737+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,23 +135,23 @@
         },
         {
           "rank": 3,
-          "title": "Courtesy of the Red, White and Blue (The Angry American)",
-          "artist": "Toby Keith"
-        },
-        {
-          "rank": 4,
           "title": "MORNING DEW (DONK)",
           "artist": "Beyoncé"
         },
         {
+          "rank": 4,
+          "title": "Courtesy of the Red, White and Blue (The Angry American)",
+          "artist": "Toby Keith"
+        },
+        {
           "rank": 5,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 6,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 7,
