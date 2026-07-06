@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T22:55:38.213739+00:00",
+  "generatedAt": "2026-07-06T00:01:01.380620+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 5,
-          "title": "Born In the U.S.A.",
-          "artist": "Bruce Springsteen"
-        },
-        {
-          "rank": 6,
           "title": "Shabang",
           "artist": "Drake"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "MORNING DEW (DONK)",
           "artist": "Beyoncé"
+        },
+        {
+          "rank": 7,
+          "title": "Born In the U.S.A.",
+          "artist": "Bruce Springsteen"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 9,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 10,
