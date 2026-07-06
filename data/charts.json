@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T00:01:01.380620+00:00",
+  "generatedAt": "2026-07-06T04:48:16.380839+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,28 +145,28 @@
         },
         {
           "rank": 5,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
-          "rank": 6,
           "title": "MORNING DEW (DONK)",
           "artist": "Beyoncé"
         },
         {
-          "rank": 7,
-          "title": "Born In the U.S.A.",
-          "artist": "Bruce Springsteen"
+          "rank": 6,
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
+          "rank": 9,
+          "title": "Born In the U.S.A.",
+          "artist": "Bruce Springsteen"
         },
         {
           "rank": 10,
