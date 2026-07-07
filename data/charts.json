@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T20:22:17.459510+00:00",
+  "generatedAt": "2026-07-07T21:50:46.968252+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,23 +145,23 @@
         },
         {
           "rank": 5,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 6,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
+          "rank": 8,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 9,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 10,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
