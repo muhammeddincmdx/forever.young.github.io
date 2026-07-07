@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T18:26:21.474932+00:00",
+  "generatedAt": "2026-07-07T20:22:17.459510+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,8 +14,8 @@
         },
         {
           "rank": 2,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 3,
@@ -24,13 +24,13 @@
         },
         {
           "rank": 4,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 5,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 6,
@@ -39,13 +39,13 @@
         },
         {
           "rank": 7,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 8,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 9,
