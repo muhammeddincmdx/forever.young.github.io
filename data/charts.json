@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T08:16:42.273654+00:00",
+  "generatedAt": "2026-07-07T11:22:13.993958+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,28 +150,28 @@
         },
         {
           "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 7,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 8,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "rank": 7,
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Ran To Atlanta",
           "artist": "Drake, Future & Molly Santana"
         },
         {
+          "rank": 9,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
           "rank": 10,
-          "title": "Courtesy of the Red, White and Blue (The Angry American)",
-          "artist": "Toby Keith"
+          "title": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller"
         }
       ]
     },
@@ -188,13 +188,13 @@
         },
         {
           "rank": 2,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 3,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 4,
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 9,
