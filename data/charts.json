@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T22:59:32.446315+00:00",
+  "generatedAt": "2026-07-07T00:12:42.191011+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 3,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 4,
@@ -34,18 +34,18 @@
         },
         {
           "rank": 6,
-          "title": "Courtesy Of The Red, White And Blue (The Angry American)",
-          "artist": "Toby Keith"
-        },
-        {
-          "rank": 7,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Babydoll",
           "artist": "Dominic Fike"
+        },
+        {
+          "rank": 8,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 10,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Self Aware",
+          "artist": "Temper City"
         }
       ]
     },
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Courtesy of the Red, White and Blue (The Angry American)",
-          "artist": "Toby Keith"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 5,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "Courtesy of the Red, White and Blue (The Angry American)",
+          "artist": "Toby Keith"
         },
         {
           "rank": 6,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes"
         },
         {
           "rank": 10,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
