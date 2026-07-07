@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T04:30:43.326408+00:00",
+  "generatedAt": "2026-07-07T08:16:42.273654+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 5,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 6,
           "title": "Spend Dat",
           "artist": "Yung Miami"
         },
         {
+          "rank": 6,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
           "rank": 7,
-          "title": "Courtesy of the Red, White and Blue (The Angry American)",
-          "artist": "Toby Keith"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 10,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "Courtesy of the Red, White and Blue (The Angry American)",
+          "artist": "Toby Keith"
         }
       ]
     },
@@ -256,38 +256,38 @@
         },
         {
           "rank": 4,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 5,
           "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
           "artist": "Taylor Swift"
         },
         {
-          "rank": 6,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
-          "rank": 7,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 8,
+          "rank": 5,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
+          "rank": 6,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 7,
+          "title": "Folded",
+          "artist": "Kehlani"
+        },
+        {
+          "rank": 8,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Homewrecker",
+          "artist": "sombr"
         },
         {
           "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     }
