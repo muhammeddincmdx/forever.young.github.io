@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T10:09:16.753137+00:00",
+  "generatedAt": "2026-07-08T12:01:47.432398+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -172,64 +172,6 @@
           "rank": 10,
           "title": "Cinderella (feat. Ty Dolla $ign)",
           "artist": "Mac Miller"
-        }
-      ]
-    },
-    {
-      "id": "apple-tr-most-played",
-      "name": "TR Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Toz Pembe",
-          "artist": "manifest"
-        },
-        {
-          "rank": 2,
-          "title": "Ara Beni",
-          "artist": "Hadise"
-        },
-        {
-          "rank": 3,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
-        },
-        {
-          "rank": 4,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 5,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 6,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
-        },
-        {
-          "rank": 7,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 8,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 10,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
         }
       ]
     },
