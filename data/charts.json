@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T21:00:54.677303+00:00",
+  "generatedAt": "2026-07-09T22:48:24.594682+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,13 +9,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 2,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 3,
@@ -39,23 +39,23 @@
         },
         {
           "rank": 7,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 8,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
+          "rank": 8,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
+        },
+        {
           "rank": 9,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 10,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -114,64 +114,6 @@
           "rank": 10,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
-        }
-      ]
-    },
-    {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 3,
-          "title": "MORNING DEW (DONK)",
-          "artist": "Beyoncé"
-        },
-        {
-          "rank": 4,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
-          "rank": 5,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 6,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 7,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 8,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 9,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
-        },
-        {
-          "rank": 10,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
         }
       ]
     },
