@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T17:42:11.349139+00:00",
+  "generatedAt": "2026-07-10T19:18:12.396745+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,52 +125,52 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 3,
           "title": "F**k A Interview",
           "artist": "Future"
         },
         {
-          "rank": 4,
-          "title": "Shabang",
+          "rank": 2,
+          "title": "Janice STFU",
           "artist": "Drake"
         },
         {
-          "rank": 5,
-          "title": "MORNING DEW (DONK)",
-          "artist": "Beyoncé"
+          "rank": 3,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
-          "rank": 6,
+          "rank": 4,
           "title": "One Two",
           "artist": "Future"
         },
         {
-          "rank": 7,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 8,
-          "title": "Radio",
+          "rank": 5,
+          "title": "California Girls",
           "artist": "Future"
         },
         {
-          "rank": 9,
+          "rank": 6,
           "title": "No Misery",
           "artist": "Future"
         },
         {
+          "rank": 7,
+          "title": "Tank Top Pluto",
+          "artist": "Future"
+        },
+        {
+          "rank": 8,
+          "title": "Weight Up",
+          "artist": "Future"
+        },
+        {
+          "rank": 9,
+          "title": "Radio",
+          "artist": "Future"
+        },
+        {
           "rank": 10,
-          "title": "California Girls",
+          "title": "Konnichiwa",
           "artist": "Future"
         }
       ]
