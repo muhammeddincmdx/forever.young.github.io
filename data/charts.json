@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T20:47:37.634150+00:00",
+  "generatedAt": "2026-07-10T21:54:23.014770+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -29,13 +29,13 @@
         },
         {
           "rank": 5,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 6,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 7,
@@ -67,28 +67,28 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 2,
           "title": "Dai Dai (w/ Burna Boy )",
           "artist": "Shakira"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
+          "rank": 4,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
+        },
+        {
           "rank": 5,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 6,
@@ -102,18 +102,18 @@
         },
         {
           "rank": 8,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Self Aware",
+          "artist": "Temper City"
         }
       ]
     },
