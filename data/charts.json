@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T13:06:07.509068+00:00",
+  "generatedAt": "2026-07-10T15:43:34.887517+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,43 +135,43 @@
         },
         {
           "rank": 3,
+          "title": "F**k A Interview",
+          "artist": "Future"
+        },
+        {
+          "rank": 4,
           "title": "Shabang",
           "artist": "Drake"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "MORNING DEW (DONK)",
           "artist": "Beyoncé"
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "title": "One Two",
+          "artist": "Future"
+        },
+        {
+          "rank": 7,
           "title": "Spend Dat",
           "artist": "Yung Miami"
         },
         {
-          "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 7,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
           "rank": 8,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "Radio",
+          "artist": "Future"
         },
         {
           "rank": 9,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "No Misery",
+          "artist": "Future"
         },
         {
           "rank": 10,
-          "title": "Cinderella (feat. Ty Dolla $ign)",
-          "artist": "Mac Miller"
+          "title": "California Girls",
+          "artist": "Future"
         }
       ]
     },
@@ -218,12 +218,12 @@
         },
         {
           "rank": 8,
-          "title": "Kırgınım",
+          "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
+          "title": "Kırgınım",
           "artist": "BLOK3"
         },
         {
