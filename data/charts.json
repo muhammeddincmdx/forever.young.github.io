@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T03:36:25.800689+00:00",
+  "generatedAt": "2026-07-10T07:29:21.750026+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,13 +125,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 2,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
@@ -150,18 +150,18 @@
         },
         {
           "rank": 6,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
+          "rank": 7,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 8,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
         },
         {
           "rank": 9,
@@ -172,64 +172,6 @@
           "rank": 10,
           "title": "20 Cigarettes",
           "artist": "Morgan Wallen"
-        }
-      ]
-    },
-    {
-      "id": "apple-tr-most-played",
-      "name": "TR Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Toz Pembe",
-          "artist": "manifest"
-        },
-        {
-          "rank": 2,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
-        },
-        {
-          "rank": 3,
-          "title": "Ara Beni",
-          "artist": "Hadise"
-        },
-        {
-          "rank": 4,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 5,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 6,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
-        },
-        {
-          "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 8,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 10,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
         }
       ]
     },
@@ -251,38 +193,38 @@
         },
         {
           "rank": 3,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 4,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
-        },
-        {
-          "rank": 5,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 6,
+          "rank": 4,
+          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 5,
           "title": "Folded",
           "artist": "Kehlani"
         },
         {
+          "rank": 6,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
           "rank": 7,
-          "title": "Should I Stay or Should I Go (Remastered)",
-          "artist": "The Clash"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 8,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 9,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 10,
