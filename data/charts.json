@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T21:54:23.014770+00:00",
+  "generatedAt": "2026-07-10T22:54:05.533666+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,33 +130,33 @@
         },
         {
           "rank": 2,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 4,
           "title": "One Two",
           "artist": "Future"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "California Girls",
           "artist": "Future"
         },
         {
-          "rank": 6,
+          "rank": 4,
           "title": "No Misery",
           "artist": "Future"
         },
         {
-          "rank": 7,
+          "rank": 5,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 6,
           "title": "Tank Top Pluto",
           "artist": "Future"
+        },
+        {
+          "rank": 7,
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 8,
@@ -165,12 +165,12 @@
         },
         {
           "rank": 9,
-          "title": "Radio",
+          "title": "Konnichiwa",
           "artist": "Future"
         },
         {
           "rank": 10,
-          "title": "Konnichiwa",
+          "title": "Radio",
           "artist": "Future"
         }
       ]
