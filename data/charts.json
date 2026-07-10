@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T07:29:21.750026+00:00",
+  "generatedAt": "2026-07-10T10:34:23.369519+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,33 +145,91 @@
         },
         {
           "rank": 5,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 6,
           "title": "Spend Dat",
           "artist": "Yung Miami"
         },
         {
-          "rank": 7,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "rank": 6,
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Ran To Atlanta",
           "artist": "Drake, Future & Molly Santana"
         },
         {
+          "rank": 9,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
           "rank": 10,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Cinderella (feat. Ty Dolla $ign)",
+          "artist": "Mac Miller"
+        }
+      ]
+    },
+    {
+      "id": "apple-tr-most-played",
+      "name": "TR Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Toz Pembe",
+          "artist": "manifest"
+        },
+        {
+          "rank": 2,
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
+        },
+        {
+          "rank": 3,
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 4,
+          "title": "Ara Beni",
+          "artist": "Hadise"
+        },
+        {
+          "rank": 5,
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 6,
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
+        },
+        {
+          "rank": 7,
+          "title": "Daha İyi",
+          "artist": "manifest"
+        },
+        {
+          "rank": 8,
+          "title": "Kırgınım",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 9,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 10,
+          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
+          "artist": "Ankara Echoes"
         }
       ]
     },
