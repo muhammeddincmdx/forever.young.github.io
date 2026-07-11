@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T22:11:42.664901+00:00",
+  "generatedAt": "2026-07-11T23:22:12.183229+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,32 +145,32 @@
         },
         {
           "rank": 5,
-          "title": "Tank Top Pluto",
-          "artist": "Future"
-        },
-        {
-          "rank": 6,
-          "title": "Weight Up",
-          "artist": "Future"
-        },
-        {
-          "rank": 7,
-          "title": "No Misery",
-          "artist": "Future"
-        },
-        {
-          "rank": 8,
-          "title": "Snow in Skyami",
-          "artist": "Future"
-        },
-        {
-          "rank": 9,
           "title": "Choosin' Texas",
           "artist": "Ella Langley"
         },
         {
+          "rank": 6,
+          "title": "Tank Top Pluto",
+          "artist": "Future"
+        },
+        {
+          "rank": 7,
+          "title": "Weight Up",
+          "artist": "Future"
+        },
+        {
+          "rank": 8,
+          "title": "No Misery",
+          "artist": "Future"
+        },
+        {
+          "rank": 9,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
           "rank": 10,
-          "title": "Radio",
+          "title": "Snow in Skyami",
           "artist": "Future"
         }
       ]
