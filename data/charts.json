@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T23:52:40.938879+00:00",
+  "generatedAt": "2026-07-11T01:57:20.412552+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,28 +145,28 @@
         },
         {
           "rank": 5,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 6,
           "title": "Tank Top Pluto",
           "artist": "Future"
         },
         {
-          "rank": 7,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "Weight Up",
           "artist": "Future"
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 8,
           "title": "Konnichiwa",
           "artist": "Future"
+        },
+        {
+          "rank": 9,
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 10,
