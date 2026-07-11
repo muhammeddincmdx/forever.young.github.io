@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T16:46:17.289521+00:00",
+  "generatedAt": "2026-07-11T17:47:53.345612+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,12 +160,12 @@
         },
         {
           "rank": 8,
-          "title": "Radio",
+          "title": "Snow in Skyami",
           "artist": "Future"
         },
         {
           "rank": 9,
-          "title": "Snow in Skyami",
+          "title": "Radio",
           "artist": "Future"
         },
         {
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         },
         {
           "rank": 10,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "Snap",
+          "artist": "manifest"
         }
       ]
     },
