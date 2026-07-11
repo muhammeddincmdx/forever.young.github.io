@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T09:05:11.780233+00:00",
+  "generatedAt": "2026-07-11T10:39:27.687405+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,38 +140,38 @@
         },
         {
           "rank": 4,
-          "title": "Tank Top Pluto",
-          "artist": "Future"
-        },
-        {
-          "rank": 5,
-          "title": "No Misery",
-          "artist": "Future"
-        },
-        {
-          "rank": 6,
           "title": "Konnichiwa",
           "artist": "Future"
         },
         {
-          "rank": 7,
+          "rank": 5,
+          "title": "Tank Top Pluto",
+          "artist": "Future"
+        },
+        {
+          "rank": 6,
           "title": "Weight Up",
           "artist": "Future"
         },
         {
-          "rank": 8,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "rank": 7,
+          "title": "No Misery",
+          "artist": "Future"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Radio",
           "artist": "Future"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Snow in Skyami",
           "artist": "Future"
+        },
+        {
+          "rank": 10,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         }
       ]
     },
