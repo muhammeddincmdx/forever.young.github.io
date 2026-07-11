@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T05:12:25.565114+00:00",
+  "generatedAt": "2026-07-11T07:22:23.705677+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,47 +130,47 @@
         },
         {
           "rank": 2,
-          "title": "One Two",
-          "artist": "Future"
-        },
-        {
-          "rank": 3,
           "title": "California Girls",
           "artist": "Future"
         },
         {
-          "rank": 4,
-          "title": "No Misery",
+          "rank": 3,
+          "title": "One Two",
           "artist": "Future"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Tank Top Pluto",
           "artist": "Future"
         },
         {
-          "rank": 6,
-          "title": "Weight Up",
+          "rank": 5,
+          "title": "No Misery",
           "artist": "Future"
         },
         {
-          "rank": 7,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "Konnichiwa",
           "artist": "Future"
         },
         {
+          "rank": 7,
+          "title": "Weight Up",
+          "artist": "Future"
+        },
+        {
+          "rank": 8,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
           "rank": 9,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Radio",
+          "artist": "Future"
         },
         {
           "rank": 10,
-          "title": "Radio",
+          "title": "Snow in Skyami",
           "artist": "Future"
         }
       ]
@@ -256,38 +256,38 @@
         },
         {
           "rank": 4,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 5,
-          "title": "Folded",
-          "artist": "Kehlani"
-        },
-        {
-          "rank": 6,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 7,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
+          "rank": 5,
+          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 6,
+          "title": "Stargazing",
+          "artist": "Myles Smith"
+        },
+        {
+          "rank": 7,
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
+        },
+        {
           "rank": 8,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 9,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Folded",
+          "artist": "Kehlani"
         },
         {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Janice STFU",
+          "artist": "Drake"
         }
       ]
     }
