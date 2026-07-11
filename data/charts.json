@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T18:49:48.036316+00:00",
+  "generatedAt": "2026-07-11T20:00:31.119339+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,13 +9,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 2,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 3,
@@ -29,13 +29,13 @@
         },
         {
           "rank": 5,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 6,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 7,
@@ -44,17 +44,17 @@
         },
         {
           "rank": 8,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 9,
           "title": "Self Aware",
           "artist": "Temper City"
         },
         {
+          "rank": 9,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
+        },
+        {
           "rank": 10,
-          "title": "the cure",
+          "title": "drop dead",
           "artist": "Olivia Rodrigo"
         }
       ]
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Radio",
-          "artist": "Future"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Radio",
+          "artist": "Future"
         }
       ]
     },
@@ -218,8 +218,8 @@
         },
         {
           "rank": 8,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
