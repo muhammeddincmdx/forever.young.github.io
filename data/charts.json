@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T20:03:11.267641+00:00",
+  "generatedAt": "2026-07-12T21:12:58.525540+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,8 +14,8 @@
         },
         {
           "rank": 2,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 3,
@@ -24,8 +24,8 @@
         },
         {
           "rank": 4,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 5,
@@ -34,13 +34,13 @@
         },
         {
           "rank": 6,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 7,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 8,
@@ -49,12 +49,12 @@
         },
         {
           "rank": 9,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 10,
-          "title": "drop dead",
+          "title": "stupid song",
           "artist": "Olivia Rodrigo"
         }
       ]
