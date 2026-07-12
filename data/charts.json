@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T09:24:12.985549+00:00",
+  "generatedAt": "2026-07-12T10:56:55.898091+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,12 +140,12 @@
         },
         {
           "rank": 4,
-          "title": "One Two",
+          "title": "Konnichiwa",
           "artist": "Future"
         },
         {
           "rank": 5,
-          "title": "Konnichiwa",
+          "title": "One Two",
           "artist": "Future"
         },
         {
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         },
         {
           "rank": 10,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         }
       ]
     },
