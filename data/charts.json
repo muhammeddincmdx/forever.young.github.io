@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T22:12:42.721684+00:00",
+  "generatedAt": "2026-07-12T23:23:00.720083+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,8 +125,8 @@
       "entries": [
         {
           "rank": 1,
-          "title": "F**k A Interview",
-          "artist": "Future"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 2,
@@ -135,8 +135,8 @@
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "F**k A Interview",
+          "artist": "Future"
         },
         {
           "rank": 4,
@@ -160,12 +160,12 @@
         },
         {
           "rank": 8,
-          "title": "Weight Up",
+          "title": "Snow in Skyami",
           "artist": "Future"
         },
         {
           "rank": 9,
-          "title": "Snow in Skyami",
+          "title": "Weight Up",
           "artist": "Future"
         },
         {
