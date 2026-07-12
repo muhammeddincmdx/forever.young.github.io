@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T00:59:46.198568+00:00",
+  "generatedAt": "2026-07-12T04:27:26.298887+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Konnichiwa",
-          "artist": "Future"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Konnichiwa",
+          "artist": "Future"
         },
         {
           "rank": 6,
@@ -160,17 +160,17 @@
         },
         {
           "rank": 8,
-          "title": "No Misery",
-          "artist": "Future"
-        },
-        {
-          "rank": 9,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Snow in Skyami",
+          "artist": "Future"
+        },
+        {
+          "rank": 10,
+          "title": "No Misery",
           "artist": "Future"
         }
       ]
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Beni Al (Ta Ki Seni Görene Kadar) [Beni Al Afro House Remix]",
-          "artist": "Ankara Echoes"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
