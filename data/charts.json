@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T18:27:14.104496+00:00",
+  "generatedAt": "2026-07-13T19:57:06.707292+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,48 +14,48 @@
         },
         {
           "rank": 2,
+          "title": "Wonderwall - Remastered",
+          "artist": "Oasis"
+        },
+        {
+          "rank": 3,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 8,
-          "title": "Self Aware",
-          "artist": "Temper City"
-        },
-        {
           "rank": 9,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 9,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         },
         {
           "rank": 10,
