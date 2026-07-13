@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T04:32:43.551661+00:00",
+  "generatedAt": "2026-07-13T08:11:08.078211+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "California Girls",
-          "artist": "Future"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "California Girls",
+          "artist": "Future"
         },
         {
           "rank": 4,
@@ -155,12 +155,12 @@
         },
         {
           "rank": 7,
-          "title": "Tank Top Pluto",
+          "title": "Snow in Skyami",
           "artist": "Future"
         },
         {
           "rank": 8,
-          "title": "Snow in Skyami",
+          "title": "Tank Top Pluto",
           "artist": "Future"
         },
         {
@@ -256,18 +256,18 @@
         },
         {
           "rank": 4,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 5,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
+          "rank": 5,
+          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+          "artist": "Taylor Swift"
+        },
+        {
           "rank": 6,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 7,
@@ -276,18 +276,18 @@
         },
         {
           "rank": 8,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 9,
-          "title": "Folded",
-          "artist": "Kehlani"
+          "title": "Homewrecker",
+          "artist": "sombr"
         },
         {
           "rank": 10,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     }
