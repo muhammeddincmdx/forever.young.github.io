@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T11:35:42.748618+00:00",
+  "generatedAt": "2026-07-13T14:13:43.349481+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -218,17 +218,17 @@
         },
         {
           "rank": 8,
-          "title": "Snap",
-          "artist": "manifest"
-        },
-        {
-          "rank": 9,
           "title": "Yangın Yeri",
           "artist": "Elif Buse Doğan"
         },
         {
+          "rank": 9,
+          "title": "Snap",
+          "artist": "manifest"
+        },
+        {
           "rank": 10,
-          "title": "KUSURA BAKMA",
+          "title": "Kırgınım",
           "artist": "BLOK3"
         }
       ]
