@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T20:35:05.144197+00:00",
+  "generatedAt": "2026-07-14T21:50:58.979245+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "Wonderwall - Remastered",
-          "artist": "Oasis"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 3,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Wonderwall - Remastered",
+          "artist": "Oasis"
         },
         {
           "rank": 4,
@@ -29,13 +29,13 @@
         },
         {
           "rank": 5,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 6,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 7,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 10,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
