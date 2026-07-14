@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T17:38:40.143089+00:00",
+  "generatedAt": "2026-07-14T19:06:52.182743+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Weight Up",
-          "artist": "Future"
+          "title": "Shabang",
+          "artist": "Drake"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 4,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 5,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 10,
-          "title": "KIYAMAM",
-          "artist": "Sibel Can & Eypio"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         }
       ]
     },
