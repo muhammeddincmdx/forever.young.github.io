@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T04:44:29.197092+00:00",
+  "generatedAt": "2026-07-14T07:06:13.063868+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,76 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Tank Top Pluto",
+          "title": "Radio",
           "artist": "Future"
         },
         {
           "rank": 9,
-          "title": "Radio",
+          "title": "Tank Top Pluto",
           "artist": "Future"
         },
         {
           "rank": 10,
           "title": "Weight Up",
           "artist": "Future"
-        }
-      ]
-    },
-    {
-      "id": "apple-tr-most-played",
-      "name": "TR Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Toz Pembe",
-          "artist": "manifest"
-        },
-        {
-          "rank": 2,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
-        },
-        {
-          "rank": 3,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 4,
-          "title": "Ara Beni",
-          "artist": "Hadise"
-        },
-        {
-          "rank": 5,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 6,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
-        },
-        {
-          "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 8,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 9,
-          "title": "Snap",
-          "artist": "manifest"
-        },
-        {
-          "rank": 10,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
         }
       ]
     },
@@ -256,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 5,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 6,
@@ -271,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 8,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
+          "rank": 9,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Homewrecker",
           "artist": "sombr"
-        },
-        {
-          "rank": 10,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
         }
       ]
     }
