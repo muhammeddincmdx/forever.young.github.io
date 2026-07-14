@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T23:45:34.024925+00:00",
+  "generatedAt": "2026-07-14T01:48:47.871470+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,12 +165,12 @@
         },
         {
           "rank": 9,
-          "title": "Weight Up",
+          "title": "Radio",
           "artist": "Future"
         },
         {
           "rank": 10,
-          "title": "Radio",
+          "title": "Weight Up",
           "artist": "Future"
         }
       ]
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         }
       ]
     },
