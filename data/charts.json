@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T12:48:55.601399+00:00",
+  "generatedAt": "2026-07-15T14:42:37.049664+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Radio",
+          "artist": "Future"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 10,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "Yangın Yeri",
+          "artist": "Elif Buse Doğan"
         }
       ]
     },
