@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T04:44:30.806641+00:00",
+  "generatedAt": "2026-07-15T07:08:31.657516+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -271,23 +271,23 @@
         },
         {
           "rank": 7,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
-        },
-        {
-          "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 9,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
+          "rank": 8,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
+          "rank": 9,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
           "rank": 10,
-          "title": "Homewrecker",
-          "artist": "sombr"
+          "title": "Folded",
+          "artist": "Kehlani"
         }
       ]
     }
