@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T23:44:06.159004+00:00",
+  "generatedAt": "2026-07-15T01:45:24.592336+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Radio",
-          "artist": "Future"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 9,
-          "title": "Tank Top Pluto",
-          "artist": "Future"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "Radio",
+          "artist": "Future"
         }
       ]
     },
