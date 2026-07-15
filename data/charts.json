@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T17:43:52.882585+00:00",
+  "generatedAt": "2026-07-15T18:59:01.246139+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "F**k A Interview",
-          "artist": "Future"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 6,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "F**k A Interview",
+          "artist": "Future"
         },
         {
           "rank": 7,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "One Two",
-          "artist": "Future"
-        },
-        {
-          "rank": 9,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 10,
-          "title": "Radio",
+          "rank": 9,
+          "title": "One Two",
           "artist": "Future"
+        },
+        {
+          "rank": 10,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 4,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 5,
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 9,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
