@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T21:27:57.620918+00:00",
+  "generatedAt": "2026-07-15T22:29:23.396270+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,28 +150,28 @@
         },
         {
           "rank": 6,
-          "title": "F**k A Interview",
-          "artist": "Future"
-        },
-        {
-          "rank": 7,
-          "title": "Snow in Skyami",
-          "artist": "Future"
-        },
-        {
-          "rank": 8,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
+          "rank": 7,
+          "title": "F**k A Interview",
+          "artist": "Future"
+        },
+        {
+          "rank": 8,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
           "rank": 9,
-          "title": "One Two",
+          "title": "Snow in Skyami",
           "artist": "Future"
         },
         {
           "rank": 10,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
