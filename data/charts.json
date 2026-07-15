@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T07:08:31.657516+00:00",
+  "generatedAt": "2026-07-15T09:26:23.622304+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,8 +150,8 @@
         },
         {
           "rank": 6,
-          "title": "One Two",
-          "artist": "Future"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 7,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "One Two",
+          "artist": "Future"
+        },
+        {
+          "rank": 9,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 9,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
           "rank": 10,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
