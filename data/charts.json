@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T01:45:24.592336+00:00",
+  "generatedAt": "2026-07-15T04:44:30.806641+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
-          "rank": 9,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
+          "rank": 9,
+          "title": "Shabang",
+          "artist": "Drake"
+        },
+        {
           "rank": 10,
-          "title": "Radio",
-          "artist": "Future"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 4,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 5,
