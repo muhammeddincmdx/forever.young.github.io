@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T03:59:22.020702+00:00",
+  "generatedAt": "2026-07-16T06:21:54.408759+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,18 +140,18 @@
         },
         {
           "rank": 4,
+          "title": "Shabang",
+          "artist": "Drake"
+        },
+        {
+          "rank": 5,
           "title": "Konnichiwa",
           "artist": "Future"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Be Her",
           "artist": "Ella Langley"
-        },
-        {
-          "rank": 6,
-          "title": "Shabang",
-          "artist": "Drake"
         },
         {
           "rank": 7,
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "F**k A Interview",
-          "artist": "Future"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "F**k A Interview",
+          "artist": "Future"
         },
         {
           "rank": 10,
