@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T00:56:55.727190+00:00",
+  "generatedAt": "2026-07-16T03:59:22.020702+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,33 +145,33 @@
         },
         {
           "rank": 5,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
-          "rank": 6,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 7,
-          "title": "F**k A Interview",
-          "artist": "Future"
+          "rank": 6,
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
-          "rank": 9,
-          "title": "Snow in Skyami",
+          "rank": 8,
+          "title": "F**k A Interview",
           "artist": "Future"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 10,
+          "title": "Snow in Skyami",
+          "artist": "Future"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 4,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 5,
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 9,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 10,
