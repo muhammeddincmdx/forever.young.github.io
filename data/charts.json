@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T17:04:15.683706+00:00",
+  "generatedAt": "2026-07-17T18:32:19.200169+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,60 +118,60 @@
       ]
     },
     {
-      "id": "apple-tr-most-played",
-      "name": "TR Top Songs",
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
       "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
       "entries": [
         {
           "rank": 1,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 2,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 3,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 4,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "California Girls",
+          "artist": "Future"
         },
         {
           "rank": 5,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 6,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 8,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Konnichiwa",
+          "artist": "Future"
         },
         {
           "rank": 9,
-          "title": "Yangın Yeri",
-          "artist": "Elif Buse Doğan"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "KIYAMAM",
-          "artist": "Sibel Can & Eypio"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         }
       ]
     },
