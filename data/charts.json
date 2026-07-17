@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T21:12:30.610993+00:00",
+  "generatedAt": "2026-07-17T22:11:22.297368+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,28 +140,28 @@
         },
         {
           "rank": 4,
-          "title": "California Girls",
-          "artist": "Future"
-        },
-        {
-          "rank": 5,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 6,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 7,
+          "rank": 5,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
-          "rank": 8,
-          "title": "Konnichiwa",
+          "rank": 6,
+          "title": "California Girls",
           "artist": "Future"
+        },
+        {
+          "rank": 7,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
+          "rank": 8,
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "Konnichiwa",
+          "artist": "Future"
         }
       ]
     },
@@ -223,8 +223,8 @@
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 10,
