@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T15:53:29.366846+00:00",
+  "generatedAt": "2026-07-17T17:04:15.683706+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -39,23 +39,23 @@
         },
         {
           "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 8,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
+          "rank": 8,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
           "rank": 9,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 10,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -72,28 +72,28 @@
         },
         {
           "rank": 2,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 3,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
+          "rank": 3,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 4,
+          "title": "Wonderwall - Remastered",
+          "artist": "Oasis"
+        },
+        {
+          "rank": 5,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Earrings",
           "artist": "Malcolm Todd"
-        },
-        {
-          "rank": 6,
-          "title": "SWIM",
-          "artist": "BTS"
         },
         {
           "rank": 7,
@@ -102,76 +102,18 @@
         },
         {
           "rank": 8,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 9,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
-          "rank": 10,
           "title": "Self Aware",
           "artist": "Temper City"
-        }
-      ]
-    },
-    {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 2,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 3,
-          "title": "California Girls",
-          "artist": "Future"
-        },
-        {
-          "rank": 4,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
-          "rank": 5,
-          "title": "Konnichiwa",
-          "artist": "Future"
-        },
-        {
-          "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 7,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 8,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 9,
-          "title": "MORNING DEW (DONK)",
-          "artist": "Beyoncé"
         },
         {
           "rank": 10,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
