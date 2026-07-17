@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T00:59:04.019627+00:00",
+  "generatedAt": "2026-07-17T04:09:35.340457+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,18 +9,18 @@
       "entries": [
         {
           "rank": 1,
+          "title": "Wonderwall - Remastered",
+          "artist": "Oasis"
+        },
+        {
+          "rank": 2,
           "title": "Dai Dai (w/ Burna Boy )",
           "artist": "Shakira"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
-        },
-        {
-          "rank": 3,
-          "title": "Wonderwall - Remastered",
-          "artist": "Oasis"
         },
         {
           "rank": 4,
@@ -34,8 +34,8 @@
         },
         {
           "rank": 6,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 7,
@@ -44,18 +44,18 @@
         },
         {
           "rank": 8,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 9,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         }
       ]
     },
@@ -114,64 +114,6 @@
           "rank": 10,
           "title": "Self Aware",
           "artist": "Temper City"
-        }
-      ]
-    },
-    {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 2,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 3,
-          "title": "California Girls",
-          "artist": "Future"
-        },
-        {
-          "rank": 4,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
-          "rank": 5,
-          "title": "Konnichiwa",
-          "artist": "Future"
-        },
-        {
-          "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 7,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 8,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 9,
-          "title": "MORNING DEW (DONK)",
-          "artist": "Beyoncé"
-        },
-        {
-          "rank": 10,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
         }
       ]
     },
