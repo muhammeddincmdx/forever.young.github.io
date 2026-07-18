@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T14:19:31.247165+00:00",
+  "generatedAt": "2026-07-18T15:27:25.761262+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,6 +118,64 @@
       ]
     },
     {
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 2,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
+          "rank": 3,
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
+        },
+        {
+          "rank": 4,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
+          "rank": 5,
+          "title": "Shabang",
+          "artist": "Drake"
+        },
+        {
+          "rank": 6,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 7,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
+          "rank": 8,
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
+        },
+        {
+          "rank": 9,
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 10,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
+        }
+      ]
+    },
+    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -165,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "KIYAMAM",
+          "artist": "Sibel Can & Eypio"
         },
         {
           "rank": 10,
-          "title": "KIYAMAM",
-          "artist": "Sibel Can & Eypio"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
