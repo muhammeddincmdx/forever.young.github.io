@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T20:38:39.952113+00:00",
+  "generatedAt": "2026-07-18T21:42:14.541549+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 5,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 6,
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 9,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         },
         {
           "rank": 10,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "KIYAMAM",
-          "artist": "Sibel Can & Eypio"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 10,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "KIYAMAM",
+          "artist": "Sibel Can & Eypio"
         }
       ]
     },
