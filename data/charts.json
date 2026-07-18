@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T03:49:19.872111+00:00",
+  "generatedAt": "2026-07-18T05:58:12.108417+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,23 +135,23 @@
         },
         {
           "rank": 3,
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
+        },
+        {
+          "rank": 4,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Shabang",
           "artist": "Drake"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 6,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
         },
         {
           "rank": 7,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 9,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 9,
-          "title": "California Girls",
-          "artist": "Future"
-        },
-        {
           "rank": 10,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "KIYAMAM",
-          "artist": "Sibel Can & Eypio"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
@@ -256,38 +256,38 @@
         },
         {
           "rank": 4,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
-        },
-        {
-          "rank": 5,
           "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
           "artist": "Taylor Swift"
         },
         {
+          "rank": 5,
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
+        },
+        {
           "rank": 6,
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
+        },
+        {
+          "rank": 7,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 7,
-          "title": "Be By You",
-          "artist": "Luke Combs"
-        },
-        {
           "rank": 8,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 9,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
+          "rank": 9,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
           "rank": 10,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         }
       ]
     }
