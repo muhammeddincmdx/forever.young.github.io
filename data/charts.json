@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T15:27:25.761262+00:00",
+  "generatedAt": "2026-07-18T16:26:04.027035+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,13 +9,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Wonderwall - Remastered",
-          "artist": "Oasis"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 2,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Wonderwall - Remastered",
+          "artist": "Oasis"
         },
         {
           "rank": 3,
@@ -34,13 +34,13 @@
         },
         {
           "rank": 6,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 7,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 8,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "NORMAL",
+          "artist": "BTS"
         },
         {
           "rank": 10,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         }
       ]
     },
