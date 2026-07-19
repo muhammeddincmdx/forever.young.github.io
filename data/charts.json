@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T09:45:45.823808+00:00",
+  "generatedAt": "2026-07-19T11:05:30.037257+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Snap",
+          "artist": "manifest"
         }
       ]
     },
