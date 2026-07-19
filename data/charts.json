@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T01:58:15.623238+00:00",
+  "generatedAt": "2026-07-19T05:23:00.418984+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 4,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
-          "rank": 5,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
+          "rank": 5,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
           "rank": 6,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 7,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         }
       ]
     },
@@ -251,43 +251,43 @@
         },
         {
           "rank": 3,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 4,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 5,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
+          "rank": 4,
+          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 5,
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
+        },
+        {
           "rank": 6,
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
+        },
+        {
+          "rank": 7,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 8,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
-          "rank": 8,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 9,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
           "rank": 10,
-          "title": "Homewrecker",
-          "artist": "sombr"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         }
       ]
     }
