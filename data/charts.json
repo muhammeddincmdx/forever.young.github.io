@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T23:45:03.809706+00:00",
+  "generatedAt": "2026-07-19T01:58:15.623238+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 7,
@@ -251,43 +251,43 @@
         },
         {
           "rank": 3,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 4,
           "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
           "artist": "Taylor Swift"
         },
         {
-          "rank": 5,
-          "title": "Should I Stay or Should I Go (Remastered)",
-          "artist": "The Clash"
-        },
-        {
-          "rank": 6,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
-        },
-        {
-          "rank": 7,
+          "rank": 4,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 8,
+          "rank": 5,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 6,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
-          "rank": 9,
+          "rank": 7,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
+          "rank": 8,
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 9,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
           "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "Homewrecker",
+          "artist": "sombr"
         }
       ]
     }
