@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T05:23:00.418984+00:00",
+  "generatedAt": "2026-07-19T07:39:10.980447+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,122 +118,6 @@
       ]
     },
     {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 2,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 3,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
-        },
-        {
-          "rank": 4,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 5,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 6,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
-          "rank": 7,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 8,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 9,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 10,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
-        }
-      ]
-    },
-    {
-      "id": "apple-tr-most-played",
-      "name": "TR Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Toz Pembe",
-          "artist": "manifest"
-        },
-        {
-          "rank": 2,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
-        },
-        {
-          "rank": 3,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 4,
-          "title": "Ara Beni",
-          "artist": "Hadise"
-        },
-        {
-          "rank": 5,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 6,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
-        },
-        {
-          "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
-        },
-        {
-          "rank": 8,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 9,
-          "title": "Snap",
-          "artist": "manifest"
-        },
-        {
-          "rank": 10,
-          "title": "KIYAMAM",
-          "artist": "Sibel Can & Eypio"
-        }
-      ]
-    },
-    {
       "id": "deezer-global-top",
       "name": "Global Top Tracks",
       "platform": "Deezer",
@@ -256,23 +140,23 @@
         },
         {
           "rank": 4,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 5,
-          "title": "Should I Stay or Should I Go (Remastered)",
-          "artist": "The Clash"
-        },
-        {
-          "rank": 6,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
+          "rank": 6,
+          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+          "artist": "Taylor Swift"
+        },
+        {
           "rank": 7,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 8,
@@ -281,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     }
