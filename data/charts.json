@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T17:28:29.094135+00:00",
+  "generatedAt": "2026-07-20T19:13:19.473966+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,28 +19,28 @@
         },
         {
           "rank": 3,
-          "title": "Wonderwall - Remastered",
-          "artist": "Oasis"
-        },
-        {
-          "rank": 4,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
-          "rank": 5,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "rank": 4,
+          "title": "Wonderwall - Remastered",
+          "artist": "Oasis"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Babydoll",
           "artist": "Dominic Fike"
+        },
+        {
+          "rank": 7,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 8,
@@ -145,28 +145,28 @@
         },
         {
           "rank": 5,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
-          "rank": 6,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
+          "rank": 7,
+          "title": "Shabang",
+          "artist": "Drake"
+        },
+        {
           "rank": 8,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 9,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
