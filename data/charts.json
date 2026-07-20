@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T23:50:45.766575+00:00",
+  "generatedAt": "2026-07-20T02:13:56.724532+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 4,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 5,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
+          "rank": 5,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
           "rank": 6,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 7,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 8,
