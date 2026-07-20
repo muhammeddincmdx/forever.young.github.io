@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T20:46:45.004476+00:00",
+  "generatedAt": "2026-07-20T21:55:41.812412+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 4,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 5,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Shabang",
           "artist": "Drake"
+        },
+        {
+          "rank": 7,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 8,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Snap",
+          "artist": "manifest"
         }
       ]
     },
