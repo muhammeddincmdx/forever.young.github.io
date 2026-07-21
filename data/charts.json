@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T14:32:35.743991+00:00",
+  "generatedAt": "2026-07-21T16:17:39.800010+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -172,6 +172,64 @@
           "rank": 10,
           "title": "Cinderella (feat. Ty Dolla $ign)",
           "artist": "Mac Miller"
+        }
+      ]
+    },
+    {
+      "id": "apple-tr-most-played",
+      "name": "TR Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Toz Pembe",
+          "artist": "manifest"
+        },
+        {
+          "rank": 2,
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
+        },
+        {
+          "rank": 3,
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 4,
+          "title": "Ara Beni",
+          "artist": "Hadise"
+        },
+        {
+          "rank": 5,
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 6,
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
+        },
+        {
+          "rank": 7,
+          "title": "Daha İyi",
+          "artist": "manifest"
+        },
+        {
+          "rank": 8,
+          "title": "Kırgınım",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 9,
+          "title": "KIYAMAM",
+          "artist": "Sibel Can & Eypio"
+        },
+        {
+          "rank": 10,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
