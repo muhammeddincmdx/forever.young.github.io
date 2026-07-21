@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T23:50:37.827115+00:00",
+  "generatedAt": "2026-07-21T01:57:42.886078+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "KIYAMAM",
-          "artist": "Sibel Can & Eypio"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 10,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "KIYAMAM",
+          "artist": "Sibel Can & Eypio"
         }
       ]
     },
