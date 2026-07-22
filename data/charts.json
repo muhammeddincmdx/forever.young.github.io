@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T12:11:21.511354+00:00",
+  "generatedAt": "2026-07-22T14:31:58.011386+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 5,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 6,
@@ -170,8 +170,66 @@
         },
         {
           "rank": 10,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
+        }
+      ]
+    },
+    {
+      "id": "apple-tr-most-played",
+      "name": "TR Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Toz Pembe",
+          "artist": "manifest"
+        },
+        {
+          "rank": 2,
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
+        },
+        {
+          "rank": 3,
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 4,
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 5,
+          "title": "Ara Beni",
+          "artist": "Hadise"
+        },
+        {
+          "rank": 6,
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
+        },
+        {
+          "rank": 7,
+          "title": "Kırgınım",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 8,
+          "title": "Daha İyi",
+          "artist": "manifest"
+        },
+        {
+          "rank": 9,
+          "title": "KIYAMAM",
+          "artist": "Sibel Can & Eypio"
+        },
+        {
+          "rank": 10,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
