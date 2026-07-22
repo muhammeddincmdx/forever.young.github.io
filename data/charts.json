@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T07:53:06.786913+00:00",
+  "generatedAt": "2026-07-22T10:17:56.931060+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,13 +125,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 2,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
@@ -145,23 +145,23 @@
         },
         {
           "rank": 5,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 6,
           "title": "Shabang",
           "artist": "Drake"
         },
         {
+          "rank": 6,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
           "rank": 7,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 8,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "KIYAMAM",
+          "artist": "Sibel Can & Eypio"
         }
       ]
     },
