@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T16:15:48.154377+00:00",
+  "generatedAt": "2026-07-22T17:47:02.893386+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Daha İyi",
+          "artist": "manifest"
         },
         {
           "rank": 8,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 9,
