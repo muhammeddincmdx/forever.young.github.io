@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T23:54:36.963845+00:00",
+  "generatedAt": "2026-07-22T01:56:17.300274+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 9,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 10,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "KIYAMAM",
-          "artist": "Sibel Can & Eypio"
+          "title": "Snap",
+          "artist": "manifest"
         },
         {
           "rank": 10,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
