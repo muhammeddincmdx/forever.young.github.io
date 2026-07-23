@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T07:02:06.120618+00:00",
+  "generatedAt": "2026-07-23T09:44:37.316883+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,23 +145,23 @@
         },
         {
           "rank": 5,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 6,
           "title": "Shabang",
           "artist": "Drake"
         },
         {
+          "rank": 6,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
           "rank": 7,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 8,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Snap",
-          "artist": "manifest"
+          "title": "KIYAMAM",
+          "artist": "Sibel Can & Eypio"
         }
       ]
     },
