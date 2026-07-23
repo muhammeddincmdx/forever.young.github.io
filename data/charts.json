@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T21:32:51.107482+00:00",
+  "generatedAt": "2026-07-23T22:48:44.653042+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,13 +125,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 3,
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 8,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
