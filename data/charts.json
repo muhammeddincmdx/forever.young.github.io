@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T13:29:31.428418+00:00",
+  "generatedAt": "2026-07-23T15:32:34.017738+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -114,64 +114,6 @@
           "rank": 10,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
-        }
-      ]
-    },
-    {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
-        },
-        {
-          "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 4,
-          "title": "Shabang",
-          "artist": "Drake"
-        },
-        {
-          "rank": 5,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 6,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 7,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 8,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 9,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 10,
-          "title": "Ran To Atlanta",
-          "artist": "Drake, Future & Molly Santana"
         }
       ]
     },
