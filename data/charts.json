@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T05:24:10.244309+00:00",
+  "generatedAt": "2026-07-24T07:44:33.361288+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,13 +125,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 2,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 8,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 9,
           "title": "Spend Dat",
           "artist": "Yung Miami"
         },
         {
-          "rank": 10,
-          "title": "I'm The Problem",
+          "rank": 8,
+          "title": "20 Cigarettes",
           "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 9,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 10,
+          "title": "Ran To Atlanta",
+          "artist": "Drake, Future & Molly Santana"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "KIYAMAM",
-          "artist": "Sibel Can & Eypio"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         }
       ]
     },
@@ -266,28 +266,28 @@
         },
         {
           "rank": 6,
-          "title": "Should I Stay or Should I Go (Remastered)",
-          "artist": "The Clash"
-        },
-        {
-          "rank": 7,
           "title": "Be By You",
           "artist": "Luke Combs"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
           "artist": "Taylor Swift"
         },
         {
+          "rank": 8,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
           "rank": 9,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
         }
       ]
     }
