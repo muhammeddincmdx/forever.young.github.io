@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T17:01:14.810264+00:00",
+  "generatedAt": "2026-07-24T18:53:56.926813+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -39,13 +39,13 @@
         },
         {
           "rank": 7,
-          "title": "Wonderwall - Remastered",
-          "artist": "Oasis"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 8,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Wonderwall - Remastered",
+          "artist": "Oasis"
         },
         {
           "rank": 9,
@@ -72,13 +72,13 @@
         },
         {
           "rank": 2,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 3,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 4,
@@ -87,13 +87,13 @@
         },
         {
           "rank": 5,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 6,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 7,
@@ -107,12 +107,12 @@
         },
         {
           "rank": 9,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 10,
-          "title": "stupid song",
+          "title": "the cure",
           "artist": "Olivia Rodrigo"
         }
       ]
