@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T21:34:25.215465+00:00",
+  "generatedAt": "2026-07-24T22:55:04.551373+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,8 +125,8 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 2,
@@ -135,23 +135,23 @@
         },
         {
           "rank": 3,
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
+        },
+        {
+          "rank": 4,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
-          "rank": 4,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
-        },
-        {
           "rank": 5,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 6,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 7,
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 9,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 10,
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
+        },
+        {
+          "rank": 8,
           "title": "Kırgınım",
           "artist": "BLOK3"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Daha İyi",
           "artist": "manifest"
-        },
-        {
-          "rank": 9,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 10,
