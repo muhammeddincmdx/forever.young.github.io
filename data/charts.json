@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T11:59:09.871098+00:00",
+  "generatedAt": "2026-07-24T13:50:23.654491+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 5,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 6,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 10,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
