@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T15:35:56.864920+00:00",
+  "generatedAt": "2026-07-25T16:48:43.420398+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,18 +19,18 @@
         },
         {
           "rank": 3,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
+        },
+        {
+          "rank": 4,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Earrings",
           "artist": "Malcolm Todd"
-        },
-        {
-          "rank": 5,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
         },
         {
           "rank": 6,
@@ -39,18 +39,18 @@
         },
         {
           "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 8,
           "title": "Wonderwall - Remastered",
           "artist": "Oasis"
         },
         {
+          "rank": 8,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
           "rank": 9,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "Animal",
+          "artist": "KATSEYE"
         },
         {
           "rank": 10,
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 7,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 8,
