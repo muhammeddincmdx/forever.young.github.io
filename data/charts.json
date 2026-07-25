@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T20:08:24.578578+00:00",
+  "generatedAt": "2026-07-25T21:22:26.003485+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 4,
@@ -150,28 +150,28 @@
         },
         {
           "rank": 6,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 7,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Shabang",
           "artist": "Drake"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "20 Cigarettes",
           "artist": "Morgan Wallen"
         },
         {
+          "rank": 9,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
           "rank": 10,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         }
       ]
     },
