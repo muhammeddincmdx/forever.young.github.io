@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T21:25:54.663534+00:00",
+  "generatedAt": "2026-07-26T22:27:33.869145+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 7,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 8,
@@ -165,12 +165,12 @@
         },
         {
           "rank": 9,
-          "title": "20 Cigarettes",
+          "title": "I'm The Problem",
           "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "I'm The Problem",
+          "title": "20 Cigarettes",
           "artist": "Morgan Wallen"
         }
       ]
