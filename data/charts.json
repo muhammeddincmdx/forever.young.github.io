@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T04:52:56.422060+00:00",
+  "generatedAt": "2026-07-26T07:31:40.044283+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,8 +155,8 @@
         },
         {
           "rank": 7,
-          "title": "20 Cigarettes",
-          "artist": "Morgan Wallen"
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
         },
         {
           "rank": 8,
@@ -165,8 +165,8 @@
         },
         {
           "rank": 9,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "20 Cigarettes",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
@@ -266,28 +266,28 @@
         },
         {
           "rank": 6,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 7,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 8,
           "title": "Stargazing",
           "artist": "Myles Smith"
         },
         {
+          "rank": 7,
+          "title": "Be By You",
+          "artist": "Luke Combs"
+        },
+        {
+          "rank": 8,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
           "rank": 9,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         }
       ]
     }
