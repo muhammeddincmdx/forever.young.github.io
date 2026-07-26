@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T17:56:18.061876+00:00",
+  "generatedAt": "2026-07-26T19:03:59.159967+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "Animal",
-          "artist": "KATSEYE"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 10,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Self Aware",
+          "artist": "Temper City"
         }
       ]
     },
@@ -145,23 +145,23 @@
         },
         {
           "rank": 5,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 6,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
+          "rank": 6,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
           "rank": 7,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 8,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Shabang",
+          "artist": "Drake"
         },
         {
           "rank": 9,
