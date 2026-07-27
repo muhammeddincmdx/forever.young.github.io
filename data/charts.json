@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T21:35:28.311924+00:00",
+  "generatedAt": "2026-07-27T22:54:11.068665+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,17 +160,17 @@
         },
         {
           "rank": 8,
+          "title": "Don't We",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 9,
           "title": "Spend Dat",
           "artist": "Yung Miami"
         },
         {
-          "rank": 9,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
-        },
-        {
           "rank": 10,
-          "title": "Don't We",
+          "title": "I'm The Problem",
           "artist": "Morgan Wallen"
         }
       ]
