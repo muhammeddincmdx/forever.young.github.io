@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T18:53:47.053449+00:00",
+  "generatedAt": "2026-07-27T20:15:46.408248+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,18 +19,18 @@
         },
         {
           "rank": 3,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 4,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Earrings",
           "artist": "Malcolm Todd"
+        },
+        {
+          "rank": 5,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 6,
@@ -39,23 +39,23 @@
         },
         {
           "rank": 7,
-          "title": "Wonderwall - Remastered",
-          "artist": "Oasis"
-        },
-        {
-          "rank": 8,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
+          "rank": 9,
+          "title": "Wonderwall - Remastered",
+          "artist": "Oasis"
+        },
+        {
           "rank": 10,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "Animal",
+          "artist": "KATSEYE"
         }
       ]
     },
@@ -155,22 +155,22 @@
         },
         {
           "rank": 7,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
-        },
-        {
-          "rank": 8,
           "title": "Shabang",
           "artist": "Drake"
         },
         {
+          "rank": 8,
+          "title": "Spend Dat",
+          "artist": "Yung Miami"
+        },
+        {
           "rank": 9,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "I'm The Problem",
+          "title": "Don't We",
           "artist": "Morgan Wallen"
         }
       ]
