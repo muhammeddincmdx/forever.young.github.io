@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T15:13:53.382844+00:00",
+  "generatedAt": "2026-07-28T16:56:18.091313+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -208,18 +208,18 @@
         },
         {
           "rank": 6,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
-        },
-        {
-          "rank": 7,
           "title": "Ara Beni",
           "artist": "Hadise"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Bana Ne Bu Sevdalardan",
           "artist": "Ezhel"
+        },
+        {
+          "rank": 8,
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 9,
