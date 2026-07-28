@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T05:27:50.781920+00:00",
+  "generatedAt": "2026-07-28T07:59:08.540089+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Don't We",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 9,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Spend Dat",
           "artist": "Yung Miami"
+        },
+        {
+          "rank": 10,
+          "title": "Don't We",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 7,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 8,
