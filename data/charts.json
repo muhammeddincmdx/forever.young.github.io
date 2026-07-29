@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T21:52:37.828763+00:00",
+  "generatedAt": "2026-07-29T22:54:15.404864+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -44,8 +44,8 @@
         },
         {
           "rank": 8,
-          "title": "Wonderwall - Remastered",
-          "artist": "Oasis"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 9,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 10,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "Wonderwall - Remastered",
+          "artist": "Oasis"
         }
       ]
     },
@@ -155,18 +155,18 @@
         },
         {
           "rank": 7,
+          "title": "Don't We",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 8,
           "title": "Shabang",
           "artist": "Drake"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 9,
-          "title": "Don't We",
-          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
