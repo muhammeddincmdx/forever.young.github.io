@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T18:53:13.002541+00:00",
+  "generatedAt": "2026-07-30T20:11:33.295918+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -24,33 +24,33 @@
         },
         {
           "rank": 4,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
-        },
-        {
-          "rank": 5,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 6,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
-        },
-        {
-          "rank": 7,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
+          "rank": 5,
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
+        },
+        {
+          "rank": 6,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
+        },
+        {
+          "rank": 7,
+          "title": "Animal",
+          "artist": "KATSEYE"
+        },
+        {
           "rank": 8,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 9,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 10,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 9,
           "title": "Don't We",
           "artist": "Morgan Wallen"
         },
         {
+          "rank": 9,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
+        },
+        {
           "rank": 10,
-          "title": "Spend Dat",
-          "artist": "Yung Miami"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         }
       ]
     },
