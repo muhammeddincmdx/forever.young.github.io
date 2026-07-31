@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T18:51:34.040673+00:00",
+  "generatedAt": "2026-07-31T20:14:52.388807+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -34,13 +34,13 @@
         },
         {
           "rank": 6,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Animal",
+          "artist": "KATSEYE"
         },
         {
           "rank": 7,
-          "title": "Animal",
-          "artist": "KATSEYE"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 8,
@@ -82,8 +82,8 @@
         },
         {
           "rank": 4,
-          "title": "Wonderwall - Remastered",
-          "artist": "Oasis"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 5,
@@ -92,28 +92,28 @@
         },
         {
           "rank": 6,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 7,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
+          "rank": 8,
+          "title": "Wonderwall - Remastered",
+          "artist": "Oasis"
+        },
+        {
           "rank": 9,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Animal",
+          "artist": "KATSEYE"
         },
         {
           "rank": 10,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         }
       ]
     },
@@ -140,38 +140,38 @@
         },
         {
           "rank": 4,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 5,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
-          "rank": 6,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 7,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 8,
-          "title": "Shabang",
+          "rank": 5,
+          "title": "Janice STFU",
           "artist": "Drake"
         },
         {
-          "rank": 9,
+          "rank": 6,
           "title": "petal",
           "artist": "Ariana Grande"
         },
         {
+          "rank": 7,
+          "title": "kiss me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 8,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
+          "rank": 9,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
           "rank": 10,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "stay",
+          "artist": "Ariana Grande"
         }
       ]
     },
@@ -188,13 +188,13 @@
         },
         {
           "rank": 2,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 3,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 4,
@@ -228,7 +228,7 @@
         },
         {
           "rank": 10,
-          "title": "kiss me",
+          "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         }
       ]
