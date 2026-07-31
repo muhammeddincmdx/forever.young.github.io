@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T09:37:30.631390+00:00",
+  "generatedAt": "2026-07-31T11:53:06.929603+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 5,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 6,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Be Her",
           "artist": "Ella Langley"
-        },
-        {
-          "rank": 7,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
         },
         {
           "rank": 8,
@@ -183,13 +183,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 2,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 3,
@@ -203,13 +203,13 @@
         },
         {
           "rank": 5,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 6,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 7,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Daha İyi",
-          "artist": "manifest"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     },
