@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T05:39:04.371718+00:00",
+  "generatedAt": "2026-08-01T08:07:30.193989+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,8 +130,8 @@
         },
         {
           "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "petal",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 3,
@@ -140,8 +140,8 @@
         },
         {
           "rank": 4,
-          "title": "petal",
-          "artist": "Ariana Grande"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
@@ -188,13 +188,13 @@
         },
         {
           "rank": 2,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 3,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 4,
@@ -208,28 +208,28 @@
         },
         {
           "rank": 6,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
-        },
-        {
-          "rank": 7,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
-        },
-        {
-          "rank": 8,
-          "title": "Ara Beni",
-          "artist": "Hadise"
-        },
-        {
-          "rank": 9,
           "title": "petal",
           "artist": "Ariana Grande"
         },
         {
+          "rank": 7,
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
+        },
+        {
+          "rank": 8,
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
+        },
+        {
+          "rank": 9,
+          "title": "Ara Beni",
+          "artist": "Hadise"
+        },
+        {
           "rank": 10,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     },
@@ -261,28 +261,28 @@
         },
         {
           "rank": 5,
-          "title": "Dai Dai",
-          "artist": "Shakira"
-        },
-        {
-          "rank": 6,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
+          "rank": 6,
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
+        },
+        {
           "rank": 7,
+          "title": "Dai Dai",
+          "artist": "Shakira"
+        },
+        {
+          "rank": 8,
           "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
           "artist": "Taylor Swift"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "I Just Might",
           "artist": "Bruno Mars"
-        },
-        {
-          "rank": 9,
-          "title": "Be By You",
-          "artist": "Luke Combs"
         },
         {
           "rank": 10,
