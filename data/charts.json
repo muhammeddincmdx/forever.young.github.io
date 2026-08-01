@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T20:08:43.614145+00:00",
+  "generatedAt": "2026-08-01T21:22:10.715370+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 4,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 5,
@@ -203,23 +203,23 @@
         },
         {
           "rank": 5,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
-        },
-        {
-          "rank": 6,
           "title": "pVg (Manifest Live Remix)",
           "artist": "manifest, Motive & Pango"
         },
         {
+          "rank": 6,
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
+        },
+        {
           "rank": 7,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 8,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 9,
