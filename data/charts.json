@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T07:27:40.957206+00:00",
+  "generatedAt": "2026-08-02T09:32:33.881538+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,18 +155,18 @@
         },
         {
           "rank": 7,
+          "title": "AH HA",
+          "artist": "Cardi B"
+        },
+        {
+          "rank": 8,
           "title": "kiss me",
           "artist": "Ariana Grande"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "stay",
           "artist": "Ariana Grande"
-        },
-        {
-          "rank": 9,
-          "title": "AH HA",
-          "artist": "Cardi B"
         },
         {
           "rank": 10,
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 7,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 8,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "petal",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 10,
-          "title": "petal",
-          "artist": "Ariana Grande"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         }
       ]
     },
