@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T21:22:54.759634+00:00",
+  "generatedAt": "2026-08-02T22:24:30.093219+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,52 +9,52 @@
       "entries": [
         {
           "rank": 1,
-          "title": "petal",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 2,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
-          "rank": 3,
-          "title": "kiss me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "Dai Dai (w/ Burna Boy )",
           "artist": "Shakira"
         },
         {
-          "rank": 5,
-          "title": "stay",
+          "rank": 3,
+          "title": "petal",
           "artist": "Ariana Grande"
+        },
+        {
+          "rank": 4,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 5,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 6,
-          "title": "oh well",
-          "artist": "Ariana Grande"
+          "title": "Animal",
+          "artist": "KATSEYE"
         },
         {
           "rank": 7,
-          "title": "big feelings",
-          "artist": "Ariana Grande"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 8,
-          "title": "like i do",
-          "artist": "Ariana Grande"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 9,
-          "title": "freak",
-          "artist": "Ariana Grande"
+          "title": "Wonderwall - Remastered",
+          "artist": "Oasis"
         },
         {
           "rank": 10,
-          "title": "never get over me",
+          "title": "kiss me",
           "artist": "Ariana Grande"
         }
       ]
