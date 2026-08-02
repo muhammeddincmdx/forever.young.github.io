@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T23:27:05.284424+00:00",
+  "generatedAt": "2026-08-02T01:04:45.243589+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,53 +9,53 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "petal",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 2,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 3,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
+          "rank": 3,
+          "title": "kiss me",
+          "artist": "Ariana Grande"
+        },
+        {
           "rank": 4,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 5,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "stay",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 6,
-          "title": "Animal",
-          "artist": "KATSEYE"
+          "title": "oh well",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 7,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "big feelings",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 8,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "like i do",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 9,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "freak",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 10,
-          "title": "Wonderwall - Remastered",
-          "artist": "Oasis"
+          "title": "never get over me",
+          "artist": "Ariana Grande"
         }
       ]
     },
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "petal",
-          "artist": "Ariana Grande"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "petal",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 4,
@@ -203,33 +203,33 @@
         },
         {
           "rank": 5,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
-        },
-        {
-          "rank": 6,
           "title": "Bana Ne Bu Sevdalardan",
           "artist": "Ezhel"
         },
         {
-          "rank": 7,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "rank": 6,
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Çok Güzel Gülüyorsun",
           "artist": "BLOK3 & Poizi"
         },
         {
+          "rank": 8,
+          "title": "Ara Beni",
+          "artist": "Hadise"
+        },
+        {
           "rank": 9,
-          "title": "petal",
-          "artist": "Ariana Grande"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "petal",
+          "artist": "Ariana Grande"
         }
       ]
     },
