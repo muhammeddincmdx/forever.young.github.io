@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T01:04:45.243589+00:00",
+  "generatedAt": "2026-08-02T04:49:12.931770+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "oh well",
-          "artist": "Ariana Grande"
+          "title": "AH HA",
+          "artist": "Cardi B"
         },
         {
           "rank": 10,
-          "title": "AH HA",
-          "artist": "Cardi B"
+          "title": "oh well",
+          "artist": "Ariana Grande"
         }
       ]
     },
