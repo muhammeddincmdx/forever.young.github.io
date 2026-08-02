@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T16:51:49.212794+00:00",
+  "generatedAt": "2026-08-02T17:55:49.986617+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,12 +160,12 @@
         },
         {
           "rank": 8,
-          "title": "kiss me",
+          "title": "stay",
           "artist": "Ariana Grande"
         },
         {
           "rank": 9,
-          "title": "stay",
+          "title": "kiss me",
           "artist": "Ariana Grande"
         },
         {
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
-        },
-        {
-          "rank": 8,
           "title": "Ara Beni",
           "artist": "Hadise"
         },
         {
+          "rank": 8,
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
+        },
+        {
           "rank": 9,
-          "title": "petal",
-          "artist": "Ariana Grande"
+          "title": "CRUSH!",
+          "artist": "Crush!"
         },
         {
           "rank": 10,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "petal",
+          "artist": "Ariana Grande"
         }
       ]
     },
