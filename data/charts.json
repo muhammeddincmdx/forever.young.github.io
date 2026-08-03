@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T04:58:29.453543+00:00",
+  "generatedAt": "2026-08-03T08:29:56.232954+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,12 +165,12 @@
         },
         {
           "rank": 9,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "oh well",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 10,
-          "title": "oh well",
+          "title": "kiss me",
           "artist": "Ariana Grande"
         }
       ]
@@ -208,23 +208,23 @@
         },
         {
           "rank": 6,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
-        },
-        {
-          "rank": 7,
           "title": "Çok Güzel Gülüyorsun",
           "artist": "BLOK3 & Poizi"
         },
         {
+          "rank": 7,
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
+        },
+        {
           "rank": 8,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "CRUSH!",
+          "artist": "Crush!"
         },
         {
           "rank": 9,
-          "title": "CRUSH!",
-          "artist": "Crush!"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 10,
@@ -266,13 +266,13 @@
         },
         {
           "rank": 6,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
+          "title": "Dai Dai",
+          "artist": "Shakira"
         },
         {
           "rank": 7,
-          "title": "Sleepless in a Hotel Room",
-          "artist": "Luke Combs"
+          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 8,
@@ -281,13 +281,13 @@
         },
         {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     }
