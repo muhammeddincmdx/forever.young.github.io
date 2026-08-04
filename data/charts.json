@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T07:36:54.462129+00:00",
+  "generatedAt": "2026-08-04T10:29:24.138622+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,12 +165,12 @@
         },
         {
           "rank": 9,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "oh well",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 10,
-          "title": "oh well",
+          "title": "like i do",
           "artist": "Ariana Grande"
         }
       ]
@@ -183,18 +183,18 @@
       "entries": [
         {
           "rank": 1,
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 2,
           "title": "Toz Pembe",
           "artist": "manifest"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Hileli",
           "artist": "manifest & Ajda Pekkan"
-        },
-        {
-          "rank": 3,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
         },
         {
           "rank": 4,
@@ -203,18 +203,18 @@
         },
         {
           "rank": 5,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
-        },
-        {
-          "rank": 6,
           "title": "Bana Ne Bu Sevdalardan",
           "artist": "Ezhel"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Çok Güzel Gülüyorsun",
           "artist": "BLOK3 & Poizi"
+        },
+        {
+          "rank": 7,
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 8,
