@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T14:58:40.417684+00:00",
+  "generatedAt": "2026-08-04T16:52:07.521150+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "stay",
-          "artist": "Ariana Grande"
+          "title": "AH HA",
+          "artist": "Cardi B"
         },
         {
           "rank": 8,
-          "title": "AH HA",
-          "artist": "Cardi B"
+          "title": "stay",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 9,
@@ -183,13 +183,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 2,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 3,
