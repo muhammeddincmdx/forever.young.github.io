@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T21:45:34.917104+00:00",
+  "generatedAt": "2026-08-04T22:55:11.495386+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
+          "rank": 9,
           "title": "AH HA",
           "artist": "Cardi B"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "oh well",
           "artist": "Ariana Grande"
-        },
-        {
-          "rank": 10,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
         }
       ]
     },
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 8,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 9,
