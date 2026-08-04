@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T16:52:07.521150+00:00",
+  "generatedAt": "2026-08-04T18:23:16.814725+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "petal",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 3,
-          "title": "petal",
-          "artist": "Ariana Grande"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 4,
@@ -29,33 +29,33 @@
         },
         {
           "rank": 5,
-          "title": "Animal",
-          "artist": "KATSEYE"
-        },
-        {
-          "rank": 6,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
+          "rank": 7,
+          "title": "Animal",
+          "artist": "KATSEYE"
+        },
+        {
           "rank": 8,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 9,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Wonderwall - Remastered",
+          "artist": "Oasis"
         },
         {
           "rank": 10,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         }
       ]
     },
