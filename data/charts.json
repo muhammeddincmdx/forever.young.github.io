@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T04:57:08.874243+00:00",
+  "generatedAt": "2026-08-04T07:36:54.462129+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -266,28 +266,28 @@
         },
         {
           "rank": 6,
-          "title": "Dai Dai",
-          "artist": "Shakira"
-        },
-        {
-          "rank": 7,
           "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
           "artist": "Taylor Swift"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
+          "rank": 8,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
           "rank": 9,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "Dai Dai",
+          "artist": "Shakira"
         },
         {
           "rank": 10,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         }
       ]
     }
