@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T01:50:14.158144+00:00",
+  "generatedAt": "2026-08-04T04:57:08.874243+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,12 +135,12 @@
         },
         {
           "rank": 3,
-          "title": "petal",
+          "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
           "rank": 4,
-          "title": "hate that i made you love me",
+          "title": "petal",
           "artist": "Ariana Grande"
         },
         {
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "oh well",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 9,
           "title": "AH HA",
           "artist": "Cardi B"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
+          "rank": 10,
+          "title": "oh well",
+          "artist": "Ariana Grande"
         }
       ]
     },
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 8,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 9,
