@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T05:27:42.731488+00:00",
+  "generatedAt": "2026-08-05T08:01:06.844239+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "AH HA",
+          "artist": "Cardi B"
         },
         {
           "rank": 8,
-          "title": "AH HA",
-          "artist": "Cardi B"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 9,
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 7,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 8,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         }
       ]
     },
