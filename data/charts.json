@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T12:49:52.671851+00:00",
+  "generatedAt": "2026-08-05T15:09:19.872452+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -183,13 +183,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 2,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 3,
@@ -203,18 +203,18 @@
         },
         {
           "rank": 5,
+          "title": "CRUSH!",
+          "artist": "CRUSH"
+        },
+        {
+          "rank": 6,
           "title": "Bana Ne Bu Sevdalardan",
           "artist": "Ezhel"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Çok Güzel Gülüyorsun",
           "artist": "BLOK3 & Poizi"
-        },
-        {
-          "rank": 7,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
         },
         {
           "rank": 8,
@@ -251,13 +251,13 @@
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 4,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
@@ -271,23 +271,23 @@
         },
         {
           "rank": 7,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 9,
           "title": "Dai Dai",
           "artist": "Shakira"
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
+          "rank": 9,
           "title": "Be By You",
           "artist": "Luke Combs"
+        },
+        {
+          "rank": 10,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         }
       ]
     }
