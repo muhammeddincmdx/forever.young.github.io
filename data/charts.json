@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T10:57:10.751062+00:00",
+  "generatedAt": "2026-08-05T12:49:52.671851+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 9,
           "title": "stay",
           "artist": "Ariana Grande"
         },
         {
+          "rank": 9,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
           "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "oh well",
+          "artist": "Ariana Grande"
         }
       ]
     },
@@ -183,13 +183,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 2,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 3,
@@ -203,8 +203,8 @@
         },
         {
           "rank": 5,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 6,
@@ -213,8 +213,8 @@
         },
         {
           "rank": 7,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 8,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 10,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         }
       ]
     },
