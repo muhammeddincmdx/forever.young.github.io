@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T01:52:21.945000+00:00",
+  "generatedAt": "2026-08-06T05:09:45.120013+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "petal",
-          "artist": "Ariana Grande"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 3,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "petal",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 4,
@@ -39,8 +39,8 @@
         },
         {
           "rank": 7,
-          "title": "Animal",
-          "artist": "KATSEYE"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 8,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "Wonderwall - Remastered",
-          "artist": "Oasis"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 10,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Animal",
+          "artist": "KATSEYE"
         }
       ]
     },
