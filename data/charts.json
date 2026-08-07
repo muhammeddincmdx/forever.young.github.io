@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T03:43:42.374633+00:00",
+  "generatedAt": "2026-08-07T05:28:16.493276+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,18 +125,18 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 2,
           "title": "Choosin' Texas",
           "artist": "Ella Langley"
         },
         {
+          "rank": 2,
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
+        },
+        {
           "rank": 3,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 4,
@@ -145,8 +145,8 @@
         },
         {
           "rank": 5,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 6,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         }
       ]
     },
@@ -251,13 +251,13 @@
         },
         {
           "rank": 3,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 4,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 5,
@@ -266,28 +266,28 @@
         },
         {
           "rank": 6,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
-        },
-        {
-          "rank": 7,
           "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
           "artist": "Taylor Swift"
         },
         {
-          "rank": 8,
-          "title": "Dai Dai",
-          "artist": "Shakira"
-        },
-        {
-          "rank": 9,
+          "rank": 7,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
+          "rank": 8,
+          "title": "Be By You",
+          "artist": "Luke Combs"
+        },
+        {
+          "rank": 9,
+          "title": "Dai Dai",
+          "artist": "Shakira"
+        },
+        {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Sleepless in a Hotel Room",
+          "artist": "Luke Combs"
         }
       ]
     }
