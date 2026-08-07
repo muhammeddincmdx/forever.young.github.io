@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T20:31:59.319720+00:00",
+  "generatedAt": "2026-08-07T21:31:04.819922+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -24,38 +24,38 @@
         },
         {
           "rank": 4,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
-        },
-        {
-          "rank": 5,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
+          "rank": 5,
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
+        },
+        {
           "rank": 6,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
+        },
+        {
+          "rank": 7,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
-          "rank": 8,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
           "rank": 9,
-          "title": "Wonderwall - Remastered",
-          "artist": "Oasis"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 10,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         }
       ]
     },
@@ -67,23 +67,23 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
-        },
-        {
-          "rank": 2,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 3,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
+          "rank": 2,
+          "title": "petal",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 3,
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
+        },
+        {
           "rank": 4,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 5,
@@ -92,28 +92,28 @@
         },
         {
           "rank": 6,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
-        },
-        {
-          "rank": 7,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 8,
-          "title": "Wonderwall - Remastered",
-          "artist": "Oasis"
+          "rank": 7,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Animal",
           "artist": "KATSEYE"
         },
         {
+          "rank": 9,
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
+        },
+        {
           "rank": 10,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Wonderwall - Remastered",
+          "artist": "Oasis"
         }
       ]
     },
