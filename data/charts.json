@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T10:26:51.979206+00:00",
+  "generatedAt": "2026-08-07T11:20:33.736242+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -183,13 +183,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 2,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 3,
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 7,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 8,
