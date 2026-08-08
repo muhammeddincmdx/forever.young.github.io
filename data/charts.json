@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T16:23:07.479915+00:00",
+  "generatedAt": "2026-08-08T17:01:09.459071+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 4,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 5,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "petal",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 9,
           "title": "I'm Back",
           "artist": "Pooh Shiesty"
         },
         {
+          "rank": 9,
+          "title": "Reap What You Sow",
+          "artist": "Pooh Shiesty"
+        },
+        {
           "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "petal",
+          "artist": "Ariana Grande"
         }
       ]
     },
