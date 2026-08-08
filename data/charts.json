@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T20:55:44.553683+00:00",
+  "generatedAt": "2026-08-08T21:23:17.169522+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,13 +9,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 2,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 3,
@@ -24,38 +24,38 @@
         },
         {
           "rank": 4,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 5,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
+          "rank": 5,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 6,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
-          "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 8,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
-          "rank": 9,
+          "rank": 7,
           "title": "Self Aware",
           "artist": "Temper City"
         },
         {
-          "rank": 10,
+          "rank": 8,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
+        },
+        {
+          "rank": 9,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
+          "rank": 10,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         }
       ]
     },
