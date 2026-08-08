@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T14:23:56.459772+00:00",
+  "generatedAt": "2026-08-08T14:55:57.999135+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -246,48 +246,48 @@
         },
         {
           "rank": 2,
+          "title": "Dai Dai",
+          "artist": "Shakira"
+        },
+        {
+          "rank": 3,
           "title": "the feeling",
           "artist": "Steve Lacy"
         },
         {
-          "rank": 3,
+          "rank": 4,
+          "title": "Doma",
+          "artist": "Jósean Log"
+        },
+        {
+          "rank": 5,
+          "title": "SUPERESTRELLA",
+          "artist": "Aitana"
+        },
+        {
+          "rank": 6,
+          "title": "daño",
+          "artist": "Peso Pluma"
+        },
+        {
+          "rank": 7,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
-          "rank": 4,
+          "rank": 8,
+          "title": "Todo De Ti",
+          "artist": "Rauw Alejandro"
+        },
+        {
+          "rank": 9,
           "title": "Choosin' Texas",
           "artist": "Ella Langley"
         },
         {
-          "rank": 5,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 6,
-          "title": "Be By You",
-          "artist": "Luke Combs"
-        },
-        {
-          "rank": 7,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 8,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 9,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
-        },
-        {
           "rank": 10,
-          "title": "Dai Dai",
-          "artist": "Shakira"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         }
       ]
     }
