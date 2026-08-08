@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T01:07:45.376103+00:00",
+  "generatedAt": "2026-08-08T03:05:20.024615+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "petal",
-          "artist": "Ariana Grande"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 7,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "petal",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "AH HA",
-          "artist": "Cardi B"
+          "title": "Last Man Breathin",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 10,
-          "title": "Last Man Breathin",
-          "artist": "Pooh Shiesty"
+          "title": "AH HA",
+          "artist": "Cardi B"
         }
       ]
     },
