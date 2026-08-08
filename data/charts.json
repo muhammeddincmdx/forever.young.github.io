@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T22:20:09.756716+00:00",
+  "generatedAt": "2026-08-08T22:54:53.744430+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,18 +150,18 @@
         },
         {
           "rank": 6,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 7,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
+          "rank": 7,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
           "rank": 8,
-          "title": "I'm Back",
-          "artist": "Pooh Shiesty"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "petal",
-          "artist": "Ariana Grande"
+          "title": "I'm Back",
+          "artist": "Pooh Shiesty"
         }
       ]
     },
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 8,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 9,
