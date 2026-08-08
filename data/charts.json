@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T06:37:34.503588+00:00",
+  "generatedAt": "2026-08-08T07:41:52.082608+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 4,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 5,
@@ -150,18 +150,18 @@
         },
         {
           "rank": 6,
+          "title": "Last Man Breathin",
+          "artist": "Pooh Shiesty"
+        },
+        {
+          "rank": 7,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "petal",
           "artist": "Ariana Grande"
-        },
-        {
-          "rank": 8,
-          "title": "Last Man Breathin",
-          "artist": "Pooh Shiesty"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "AH HA",
-          "artist": "Cardi B"
+          "title": "I'm Back",
+          "artist": "Pooh Shiesty"
         }
       ]
     },
@@ -251,13 +251,13 @@
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 4,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
@@ -266,28 +266,28 @@
         },
         {
           "rank": 6,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 7,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 8,
           "title": "Be By You",
           "artist": "Luke Combs"
         },
         {
+          "rank": 7,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 8,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
           "rank": 9,
-          "title": "Dai Dai",
-          "artist": "Shakira"
+          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 10,
-          "title": "Sleepless in a Hotel Room",
-          "artist": "Luke Combs"
+          "title": "Dai Dai",
+          "artist": "Shakira"
         }
       ]
     }
