@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T18:33:17.245848+00:00",
+  "generatedAt": "2026-08-09T19:26:17.243285+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,48 +14,48 @@
         },
         {
           "rank": 2,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 3,
-          "title": "petal",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 4,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
-        },
-        {
-          "rank": 5,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
+          "rank": 3,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 4,
+          "title": "petal",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 5,
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
+        },
+        {
           "rank": 6,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
-        },
-        {
-          "rank": 7,
-          "title": "Self Aware",
-          "artist": "Temper City"
-        },
-        {
-          "rank": 8,
           "title": "Billie Jean",
           "artist": "Michael Jackson"
         },
         {
+          "rank": 7,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
+        },
+        {
+          "rank": 8,
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
+        },
+        {
           "rank": 9,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 10,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     },
@@ -114,6 +114,64 @@
           "rank": 10,
           "title": "Wonderwall - Remastered",
           "artist": "Oasis"
+        }
+      ]
+    },
+    {
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 2,
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 3,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
+          "rank": 4,
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
+        },
+        {
+          "rank": 5,
+          "title": "Last Man Breathin",
+          "artist": "Pooh Shiesty"
+        },
+        {
+          "rank": 6,
+          "title": "Reap What You Sow",
+          "artist": "Pooh Shiesty"
+        },
+        {
+          "rank": 7,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
+          "rank": 8,
+          "title": "I'm Back",
+          "artist": "Pooh Shiesty"
+        },
+        {
+          "rank": 9,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 10,
+          "title": "Federal Reality",
+          "artist": "Pooh Shiesty"
         }
       ]
     },
