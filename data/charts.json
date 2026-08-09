@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T07:46:42.526649+00:00",
+  "generatedAt": "2026-08-09T08:33:29.310624+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -172,64 +172,6 @@
           "rank": 10,
           "title": "I'm Back",
           "artist": "Pooh Shiesty"
-        }
-      ]
-    },
-    {
-      "id": "apple-tr-most-played",
-      "name": "TR Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Toz Pembe",
-          "artist": "manifest"
-        },
-        {
-          "rank": 2,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
-        },
-        {
-          "rank": 3,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 4,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 5,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
-        },
-        {
-          "rank": 6,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
-        },
-        {
-          "rank": 7,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
-        },
-        {
-          "rank": 8,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
-        },
-        {
-          "rank": 9,
-          "title": "Ara Beni",
-          "artist": "Hadise"
-        },
-        {
-          "rank": 10,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
         }
       ]
     },
