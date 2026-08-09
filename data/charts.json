@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T09:31:26.904349+00:00",
+  "generatedAt": "2026-08-09T10:24:38.460552+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "I'm Back",
+          "artist": "Pooh Shiesty"
+        },
+        {
+          "rank": 9,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Be Her",
           "artist": "Ella Langley"
-        },
-        {
-          "rank": 10,
-          "title": "I'm Back",
-          "artist": "Pooh Shiesty"
         }
       ]
     },
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
+          "title": "Ara Beni",
+          "artist": "Hadise"
+        },
+        {
+          "rank": 8,
           "title": "pVg (Manifest Live Remix)",
           "artist": "manifest, Motive & Pango"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "CRUSH!",
           "artist": "CRUSH"
-        },
-        {
-          "rank": 9,
-          "title": "Ara Beni",
-          "artist": "Hadise"
         },
         {
           "rank": 10,
