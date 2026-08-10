@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T03:45:46.916864+00:00",
+  "generatedAt": "2026-08-10T05:18:29.619001+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Reap What You Sow",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 7,
-          "title": "Reap What You Sow",
-          "artist": "Pooh Shiesty"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 8,
@@ -203,13 +203,13 @@
         },
         {
           "rank": 5,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 6,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 7,
@@ -251,13 +251,13 @@
         },
         {
           "rank": 3,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 4,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 5,
@@ -271,23 +271,23 @@
         },
         {
           "rank": 7,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 8,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 9,
           "title": "Be By You",
           "artist": "Luke Combs"
         },
         {
+          "rank": 9,
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
+        },
+        {
           "rank": 10,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Dai Dai",
+          "artist": "Shakira"
         }
       ]
     }
