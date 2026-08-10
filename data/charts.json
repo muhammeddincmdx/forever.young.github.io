@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T17:44:00.251108+00:00",
+  "generatedAt": "2026-08-10T18:44:36.990059+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -24,23 +24,23 @@
         },
         {
           "rank": 4,
-          "title": "petal",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 5,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
+          "rank": 5,
+          "title": "petal",
+          "artist": "Ariana Grande"
+        },
+        {
           "rank": 6,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 7,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Loser",
+          "artist": "Tame Impala"
         },
         {
           "rank": 8,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 10,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Self Aware",
+          "artist": "Temper City"
         }
       ]
     },
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Reap What You Sow",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 6,
-          "title": "Reap What You Sow",
-          "artist": "Pooh Shiesty"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 7,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Federal Reality",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 10,
-          "title": "Federal Reality",
-          "artist": "Pooh Shiesty"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     },
@@ -183,13 +183,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Sebebi Yar",
-          "artist": "BLOK3"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 2,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 3,
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 9,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 10,
