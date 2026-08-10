@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T13:51:26.757136+00:00",
+  "generatedAt": "2026-08-10T14:51:02.648895+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Last Man Breathin",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 4,
-          "title": "Last Man Breathin",
-          "artist": "Pooh Shiesty"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 5,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 9,
           "title": "I'm Back",
           "artist": "Pooh Shiesty"
         },
         {
+          "rank": 9,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
           "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Federal Reality",
+          "artist": "Pooh Shiesty"
         }
       ]
     },
