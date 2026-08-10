@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T12:05:41.827425+00:00",
+  "generatedAt": "2026-08-10T13:51:26.757136+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 10,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         }
       ]
     },
