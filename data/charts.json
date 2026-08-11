@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T19:56:07.468546+00:00",
+  "generatedAt": "2026-08-11T20:37:09.011709+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,8 +14,8 @@
         },
         {
           "rank": 2,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "petal",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 3,
@@ -29,18 +29,18 @@
         },
         {
           "rank": 5,
-          "title": "petal",
-          "artist": "Ariana Grande"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 6,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Loser",
+          "artist": "Tame Impala"
         },
         {
           "rank": 7,
-          "title": "Loser",
-          "artist": "Tame Impala"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 8,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 10,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     },
