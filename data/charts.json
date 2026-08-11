@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T15:53:10.434977+00:00",
+  "generatedAt": "2026-08-11T16:50:29.236604+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Last Man Breathin",
-          "artist": "Pooh Shiesty"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 3,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Last Man Breathin",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 4,
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "I'm Back",
-          "artist": "Pooh Shiesty"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 8,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "I'm Back",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     },
@@ -218,8 +218,8 @@
         },
         {
           "rank": 8,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         }
       ]
     },
