@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T01:15:35.713536+00:00",
+  "generatedAt": "2026-08-12T03:33:41.444252+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "I'm Back",
-          "artist": "Pooh Shiesty"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "I'm Back",
+          "artist": "Pooh Shiesty"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         }
       ]
     },
