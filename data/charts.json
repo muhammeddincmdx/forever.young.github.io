@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T16:24:13.510481+00:00",
+  "generatedAt": "2026-08-12T17:25:43.570396+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,23 +19,23 @@
         },
         {
           "rank": 3,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 4,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
-        },
-        {
-          "rank": 5,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 6,
+          "rank": 4,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 5,
           "title": "Loser",
           "artist": "Tame Impala"
+        },
+        {
+          "rank": 6,
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 7,
@@ -44,13 +44,13 @@
         },
         {
           "rank": 8,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 9,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 10,
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Reap What You Sow",
-          "artist": "Pooh Shiesty"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 5,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Reap What You Sow",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 6,
@@ -155,22 +155,22 @@
         },
         {
           "rank": 7,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 8,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
+          "rank": 8,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
           "rank": 9,
-          "title": "I'm Back",
-          "artist": "Pooh Shiesty"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "Federal Reality",
+          "title": "I'm Back",
           "artist": "Pooh Shiesty"
         }
       ]
