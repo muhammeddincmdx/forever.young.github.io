@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T17:26:24.366387+00:00",
+  "generatedAt": "2026-08-13T18:24:53.092863+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,8 +14,8 @@
         },
         {
           "rank": 2,
-          "title": "petal",
-          "artist": "Ariana Grande"
+          "title": "Loser",
+          "artist": "Tame Impala"
         },
         {
           "rank": 3,
@@ -29,18 +29,18 @@
         },
         {
           "rank": 5,
-          "title": "Loser",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 6,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
+          "rank": 6,
+          "title": "SWIM",
+          "artist": "BTS"
+        },
+        {
           "rank": 7,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 8,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "petal",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 10,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         }
       ]
     },
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "oh yeah?",
-          "artist": "Steve Lacy"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "oh yeah?",
+          "artist": "Steve Lacy"
         }
       ]
     },
