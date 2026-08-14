@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T22:14:14.000668+00:00",
+  "generatedAt": "2026-08-14T22:46:33.164023+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -34,28 +34,28 @@
         },
         {
           "rank": 6,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 7,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
-        },
-        {
-          "rank": 8,
           "title": "Self Aware",
           "artist": "Temper City"
         },
         {
+          "rank": 7,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
+        },
+        {
+          "rank": 8,
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
+        },
+        {
           "rank": 9,
-          "title": "petal",
-          "artist": "Ariana Grande"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 10,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "petal",
+          "artist": "Ariana Grande"
         }
       ]
     },
@@ -67,23 +67,23 @@
       "entries": [
         {
           "rank": 1,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 2,
-          "title": "petal",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 3,
           "title": "Dai Dai (w/ Burna Boy )",
           "artist": "Shakira"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 3,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
+        },
+        {
+          "rank": 4,
+          "title": "petal",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 5,
@@ -92,28 +92,28 @@
         },
         {
           "rank": 6,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Loser",
+          "artist": "Tame Impala"
         },
         {
           "rank": 7,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 8,
-          "title": "Animal",
-          "artist": "KATSEYE"
-        },
-        {
-          "rank": 9,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
+          "rank": 9,
+          "title": "Self Aware",
+          "artist": "Temper City"
+        },
+        {
           "rank": 10,
-          "title": "Wonderwall - Remastered",
-          "artist": "Oasis"
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     },
@@ -145,12 +145,12 @@
         },
         {
           "rank": 5,
-          "title": "Last Man Breathin",
+          "title": "Reap What You Sow",
           "artist": "Pooh Shiesty"
         },
         {
           "rank": 6,
-          "title": "Reap What You Sow",
+          "title": "Last Man Breathin",
           "artist": "Pooh Shiesty"
         },
         {
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "oh yeah?",
-          "artist": "Steve Lacy"
+          "title": "Jaded",
+          "artist": "Koe Wetzel & Ella Langley"
         }
       ]
     },
