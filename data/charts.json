@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T01:16:11.818341+00:00",
+  "generatedAt": "2026-08-14T03:34:43.050172+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 9,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
+          "rank": 9,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
           "rank": 10,
-          "title": "oh yeah?",
-          "artist": "Steve Lacy"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
