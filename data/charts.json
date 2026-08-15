@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T05:18:08.795844+00:00",
+  "generatedAt": "2026-08-15T05:48:25.967574+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -261,33 +261,33 @@
         },
         {
           "rank": 5,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 6,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
+          "rank": 6,
+          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+          "artist": "Taylor Swift"
+        },
+        {
           "rank": 7,
-          "title": "Should I Stay or Should I Go (Remastered)",
-          "artist": "The Clash"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 8,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 9,
-          "title": "Dai Dai",
-          "artist": "Shakira"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 10,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Something To Lose",
+          "artist": "STELLA LEFTY"
         }
       ]
     }
