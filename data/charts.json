@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T16:47:33.844979+00:00",
+  "generatedAt": "2026-08-15T17:13:30.011313+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "Loser",
-          "artist": "Tame Impala"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 3,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "Loser",
+          "artist": "Tame Impala"
         },
         {
           "rank": 4,
@@ -29,13 +29,13 @@
         },
         {
           "rank": 5,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Animal",
+          "artist": "KATSEYE"
         },
         {
           "rank": 6,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 7,
@@ -44,18 +44,18 @@
         },
         {
           "rank": 8,
+          "title": "Self Aware",
+          "artist": "Temper City"
+        },
+        {
+          "rank": 9,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "SWIM",
           "artist": "BTS"
-        },
-        {
-          "rank": 10,
-          "title": "petal",
-          "artist": "Ariana Grande"
         }
       ]
     },
