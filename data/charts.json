@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T10:45:18.777738+00:00",
+  "generatedAt": "2026-08-15T11:12:27.064326+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Last Man Breathin",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 7,
-          "title": "Last Man Breathin",
-          "artist": "Pooh Shiesty"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 8,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "oh yeah?",
+          "artist": "Steve Lacy"
         }
       ]
     },
