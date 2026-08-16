@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T19:40:59.692831+00:00",
+  "generatedAt": "2026-08-16T20:13:01.989503+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,33 +145,33 @@
         },
         {
           "rank": 5,
-          "title": "Reap What You Sow",
-          "artist": "Pooh Shiesty"
-        },
-        {
-          "rank": 6,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
-          "rank": 7,
-          "title": "Last Man Breathin",
+          "rank": 6,
+          "title": "Reap What You Sow",
           "artist": "Pooh Shiesty"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
+          "rank": 8,
+          "title": "Last Man Breathin",
+          "artist": "Pooh Shiesty"
+        },
+        {
           "rank": 9,
-          "title": "Shabang",
-          "artist": "Drake"
+          "title": "Don't We",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         }
       ]
     },
