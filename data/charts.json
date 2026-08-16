@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T17:41:33.193136+00:00",
+  "generatedAt": "2026-08-16T18:17:16.637379+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -24,38 +24,38 @@
         },
         {
           "rank": 4,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 5,
-          "title": "Animal",
-          "artist": "KATSEYE"
-        },
-        {
-          "rank": 6,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
-        },
-        {
-          "rank": 7,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
+          "rank": 5,
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
+        },
+        {
+          "rank": 6,
+          "title": "Animal",
+          "artist": "KATSEYE"
+        },
+        {
+          "rank": 7,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
           "rank": 8,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
+        },
+        {
+          "rank": 9,
           "title": "Self Aware",
           "artist": "Temper City"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Babydoll",
           "artist": "Dominic Fike"
-        },
-        {
-          "rank": 10,
-          "title": "SWIM",
-          "artist": "BTS"
         }
       ]
     },
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 3,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 4,
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 8,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 9,
