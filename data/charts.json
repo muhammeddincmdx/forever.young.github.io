@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T22:43:44.154877+00:00",
+  "generatedAt": "2026-08-16T23:12:09.094010+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Don't We",
-          "artist": "Morgan Wallen"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 10,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "Don't We",
+          "artist": "Morgan Wallen"
         }
       ]
     },
