@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T11:13:02.992159+00:00",
+  "generatedAt": "2026-08-16T11:42:05.803898+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         },
         {
           "rank": 10,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         }
       ]
     },
