@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T05:57:47.472320+00:00",
+  "generatedAt": "2026-08-17T06:53:37.502572+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,28 +150,28 @@
         },
         {
           "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 7,
           "title": "Reap What You Sow",
           "artist": "Pooh Shiesty"
         },
         {
+          "rank": 7,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
           "rank": 8,
+          "title": "Last Man Breathin",
+          "artist": "Pooh Shiesty"
+        },
+        {
+          "rank": 9,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Don't We",
           "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 10,
-          "title": "Last Man Breathin",
-          "artist": "Pooh Shiesty"
         }
       ]
     },
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 9,
@@ -266,27 +266,27 @@
         },
         {
           "rank": 6,
-          "title": "Dai Dai",
-          "artist": "Shakira"
-        },
-        {
-          "rank": 7,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
+          "rank": 9,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
           "rank": 10,
-          "title": "Be By You",
+          "title": "Sleepless in a Hotel Room",
           "artist": "Luke Combs"
         }
       ]
