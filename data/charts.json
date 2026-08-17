@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T02:15:13.761605+00:00",
+  "generatedAt": "2026-08-17T03:25:23.527904+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,28 +150,28 @@
         },
         {
           "rank": 6,
-          "title": "Reap What You Sow",
-          "artist": "Pooh Shiesty"
-        },
-        {
-          "rank": 7,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 8,
-          "title": "Last Man Breathin",
+          "rank": 7,
+          "title": "Reap What You Sow",
           "artist": "Pooh Shiesty"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Don't We",
           "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 10,
+          "title": "Last Man Breathin",
+          "artist": "Pooh Shiesty"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 10,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         }
       ]
     },
