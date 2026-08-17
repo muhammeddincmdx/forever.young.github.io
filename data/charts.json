@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T08:33:55.807061+00:00",
+  "generatedAt": "2026-08-17T09:32:48.169986+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "oh yeah?",
+          "artist": "Steve Lacy"
         },
         {
           "rank": 10,
-          "title": "Don't We",
-          "artist": "Morgan Wallen"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         },
         {
           "rank": 10,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         }
       ]
     },
