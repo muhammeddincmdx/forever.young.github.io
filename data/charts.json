@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T23:43:44.439052+00:00",
+  "generatedAt": "2026-08-18T00:47:25.204773+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,48 +14,48 @@
         },
         {
           "rank": 2,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 3,
           "title": "Loser",
           "artist": "Tame Impala"
         },
         {
-          "rank": 4,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "rank": 3,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
-          "rank": 6,
-          "title": "Animal",
-          "artist": "KATSEYE"
+          "rank": 5,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
-          "rank": 8,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "rank": 7,
+          "title": "Animal",
+          "artist": "KATSEYE"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Self Aware",
           "artist": "Temper City"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Babydoll",
           "artist": "Dominic Fike"
+        },
+        {
+          "rank": 10,
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     },
