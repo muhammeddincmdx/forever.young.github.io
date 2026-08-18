@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T05:00:38.348199+00:00",
+  "generatedAt": "2026-08-18T05:34:20.867181+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -266,13 +266,13 @@
         },
         {
           "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 7,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 8,
@@ -281,13 +281,13 @@
         },
         {
           "rank": 9,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Midnight Sun",
+          "artist": "Zara Larsson"
         },
         {
           "rank": 10,
-          "title": "Sleepless in a Hotel Room",
-          "artist": "Luke Combs"
+          "title": "Folded",
+          "artist": "Kehlani"
         }
       ]
     }
