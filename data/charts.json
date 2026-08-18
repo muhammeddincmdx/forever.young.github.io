@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T16:21:40.658490+00:00",
+  "generatedAt": "2026-08-18T16:55:40.445372+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,8 +160,8 @@
         },
         {
           "rank": 8,
-          "title": "oh yeah?",
-          "artist": "Steve Lacy"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     },
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 7,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
