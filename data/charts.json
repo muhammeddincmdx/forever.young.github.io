@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T04:04:21.559459+00:00",
+  "generatedAt": "2026-08-18T05:00:38.348199+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 9,
           "title": "Don't We",
           "artist": "Morgan Wallen"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Jaded",
           "artist": "Koe Wetzel & Ella Langley"
-        },
-        {
-          "rank": 10,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
         }
       ]
     },
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 7,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 8,
