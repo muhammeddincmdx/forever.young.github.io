@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T17:20:26.996696+00:00",
+  "generatedAt": "2026-08-18T17:51:17.451907+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,13 +9,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Loser",
+          "artist": "Tame Impala"
         },
         {
           "rank": 2,
-          "title": "Loser",
-          "artist": "Tame Impala"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 3,
@@ -29,33 +29,33 @@
         },
         {
           "rank": 5,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
-          "rank": 6,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 7,
-          "title": "Animal",
-          "artist": "KATSEYE"
-        },
-        {
-          "rank": 8,
           "title": "Self Aware",
           "artist": "Temper City"
         },
         {
-          "rank": 9,
+          "rank": 6,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
+        },
+        {
+          "rank": 7,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 8,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "SWIM",
           "artist": "BTS"
+        },
+        {
+          "rank": 10,
+          "title": "Animal",
+          "artist": "KATSEYE"
         }
       ]
     },
