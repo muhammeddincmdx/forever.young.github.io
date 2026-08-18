@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:46:55.213966+00:00",
+  "generatedAt": "2026-08-18T20:14:35.221808+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,28 +150,28 @@
         },
         {
           "rank": 6,
-          "title": "Reap What You Sow",
-          "artist": "Pooh Shiesty"
-        },
-        {
-          "rank": 7,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 8,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "rank": 7,
+          "title": "Reap What You Sow",
+          "artist": "Pooh Shiesty"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "BbY WOW",
           "artist": "KAROL G, Judeline & rusowsky"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
+        },
+        {
+          "rank": 10,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
