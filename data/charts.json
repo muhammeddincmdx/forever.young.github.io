@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T02:11:08.645924+00:00",
+  "generatedAt": "2026-08-18T03:14:37.619173+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -251,43 +251,43 @@
         },
         {
           "rank": 3,
+          "title": "Dai Dai",
+          "artist": "Shakira"
+        },
+        {
+          "rank": 4,
+          "title": "Te Estoy Correteando",
+          "artist": "Latin Mafia"
+        },
+        {
+          "rank": 5,
           "title": "Choosin' Texas",
           "artist": "Ella Langley"
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
-          "rank": 5,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
           "rank": 7,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "SUPERESTRELLA",
+          "artist": "Aitana"
         },
         {
           "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Doma",
+          "artist": "Jósean Log"
         },
         {
           "rank": 9,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "daño",
+          "artist": "Peso Pluma"
         },
         {
           "rank": 10,
-          "title": "Sleepless in a Hotel Room",
-          "artist": "Luke Combs"
+          "title": "Todo Lo Fue",
+          "artist": "Lenin Ramírez"
         }
       ]
     }
