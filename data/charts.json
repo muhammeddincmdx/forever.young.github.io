@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T00:47:41.603576+00:00",
+  "generatedAt": "2026-08-19T02:14:03.733411+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Jaded",
+          "artist": "Koe Wetzel & Ella Langley"
         }
       ]
     },
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 7,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 8,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         }
       ]
     },
