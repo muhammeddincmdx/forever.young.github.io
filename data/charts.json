@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T10:22:54.288742+00:00",
+  "generatedAt": "2026-08-19T10:53:06.066135+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Reap What You Sow",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 8,
-          "title": "Reap What You Sow",
-          "artist": "Pooh Shiesty"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "oh yeah?",
+          "artist": "Steve Lacy"
         }
       ]
     },
@@ -188,13 +188,13 @@
         },
         {
           "rank": 2,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         },
         {
           "rank": 3,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 4,
