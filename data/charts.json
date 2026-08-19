@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T13:25:46.930164+00:00",
+  "generatedAt": "2026-08-19T14:04:25.356541+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -188,13 +188,13 @@
         },
         {
           "rank": 2,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 3,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         },
         {
           "rank": 4,
