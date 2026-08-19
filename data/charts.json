@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T09:56:13.887093+00:00",
+  "generatedAt": "2026-08-19T10:22:54.288742+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -251,42 +251,42 @@
         },
         {
           "rank": 3,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
-        },
-        {
-          "rank": 4,
           "title": "Choosin' Texas",
           "artist": "Ella Langley"
         },
         {
+          "rank": 4,
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
+        },
+        {
           "rank": 5,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
-        },
-        {
-          "rank": 6,
-          "title": "Dai Dai",
-          "artist": "Shakira"
-        },
-        {
-          "rank": 7,
           "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
           "artist": "Taylor Swift"
         },
         {
-          "rank": 8,
+          "rank": 6,
           "title": "I Just Might",
           "artist": "Bruno Mars"
         },
         {
+          "rank": 7,
+          "title": "Be By You",
+          "artist": "Luke Combs"
+        },
+        {
+          "rank": 8,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
           "rank": 9,
-          "title": "Something To Lose",
-          "artist": "STELLA LEFTY"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 10,
-          "title": "Be Her",
+          "title": "I Can't Love You Anymore",
           "artist": "Ella Langley"
         }
       ]
