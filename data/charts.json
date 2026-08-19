@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T19:00:37.406052+00:00",
+  "generatedAt": "2026-08-19T19:46:58.617874+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,18 +155,18 @@
         },
         {
           "rank": 7,
-          "title": "Reap What You Sow",
-          "artist": "Pooh Shiesty"
-        },
-        {
-          "rank": 8,
           "title": "BbY WOW",
           "artist": "KAROL G, Judeline & rusowsky"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 9,
+          "title": "Reap What You Sow",
+          "artist": "Pooh Shiesty"
         },
         {
           "rank": 10,
@@ -208,23 +208,23 @@
         },
         {
           "rank": 6,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 7,
           "title": "Bana Ne Bu Sevdalardan",
           "artist": "Ezhel"
         },
         {
+          "rank": 7,
+          "title": "Kırgınım",
+          "artist": "BLOK3"
+        },
+        {
           "rank": 8,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 9,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         },
         {
           "rank": 10,
