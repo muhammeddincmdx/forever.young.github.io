@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T22:18:39.850401+00:00",
+  "generatedAt": "2026-08-20T22:52:12.343132+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Don't We",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "Don't We",
-          "artist": "Morgan Wallen"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     },
