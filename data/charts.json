@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T19:09:28.685448+00:00",
+  "generatedAt": "2026-08-20T19:53:19.086986+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,18 +14,18 @@
         },
         {
           "rank": 2,
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
+        },
+        {
+          "rank": 3,
           "title": "Dai Dai (w/ Burna Boy )",
           "artist": "Shakira"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
-        },
-        {
-          "rank": 4,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
         },
         {
           "rank": 5,
@@ -34,23 +34,23 @@
         },
         {
           "rank": 6,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
-          "rank": 7,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
+          "rank": 7,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
+        },
+        {
           "rank": 8,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 9,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 10,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Reap What You Sow",
-          "artist": "Pooh Shiesty"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 10,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "Don't We",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
-        },
-        {
-          "rank": 9,
           "title": "pVg (Manifest Live Remix)",
           "artist": "manifest, Motive & Pango"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Ara Beni",
           "artist": "Hadise"
+        },
+        {
+          "rank": 10,
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         }
       ]
     },
