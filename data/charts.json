@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T04:05:30.848491+00:00",
+  "generatedAt": "2026-08-20T05:02:00.578083+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 10,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         }
       ]
     },
