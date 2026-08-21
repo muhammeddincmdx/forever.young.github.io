@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T20:16:29.181522+00:00",
+  "generatedAt": "2026-08-21T20:46:32.727889+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,13 +9,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Loser",
-          "artist": "Tame Impala"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 2,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Loser",
+          "artist": "Tame Impala"
         },
         {
           "rank": 3,
@@ -39,18 +39,18 @@
         },
         {
           "rank": 7,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
-          "rank": 8,
           "title": "SWIM",
           "artist": "BTS"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Babydoll",
           "artist": "Dominic Fike"
+        },
+        {
+          "rank": 9,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 10,
@@ -72,8 +72,8 @@
         },
         {
           "rank": 2,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Loser",
+          "artist": "Tame Impala"
         },
         {
           "rank": 3,
@@ -82,23 +82,23 @@
         },
         {
           "rank": 4,
-          "title": "petal",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 5,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
+          "rank": 5,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
+        },
+        {
           "rank": 6,
-          "title": "Loser",
-          "artist": "Tame Impala"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 7,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 8,
@@ -107,13 +107,13 @@
         },
         {
           "rank": 9,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 10,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Animal",
+          "artist": "KATSEYE"
         }
       ]
     },
