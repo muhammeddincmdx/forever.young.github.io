@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T10:31:36.124791+00:00",
+  "generatedAt": "2026-08-21T11:18:01.609051+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 4,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "In A Minute",
+          "artist": "Lil Baby"
         }
       ]
     },
@@ -188,13 +188,13 @@
         },
         {
           "rank": 2,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         },
         {
           "rank": 3,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 4,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         },
         {
           "rank": 10,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         }
       ]
     },
