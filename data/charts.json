@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T12:30:35.997921+00:00",
+  "generatedAt": "2026-08-21T13:38:29.378076+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Freestyle",
+          "artist": "Lil Baby"
         },
         {
           "rank": 9,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
@@ -188,13 +188,13 @@
         },
         {
           "rank": 2,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 3,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         },
         {
           "rank": 4,
