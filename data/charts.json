@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T19:05:09.771631+00:00",
+  "generatedAt": "2026-08-21T19:45:19.979606+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,28 +150,28 @@
         },
         {
           "rank": 6,
-          "title": "BbY WOW",
-          "artist": "KAROL G, rusowsky & Judeline"
-        },
-        {
-          "rank": 7,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 8,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "rank": 7,
+          "title": "BbY WOW",
+          "artist": "KAROL G, rusowsky & Judeline"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 9,
+          "title": "Don't We",
+          "artist": "Morgan Wallen"
+        },
+        {
           "rank": 10,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         }
       ]
     },
