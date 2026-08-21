@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T00:51:55.016372+00:00",
+  "generatedAt": "2026-08-21T02:19:33.788068+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
-        },
-        {
-          "rank": 9,
           "title": "Ara Beni",
           "artist": "Hadise"
         },
         {
+          "rank": 9,
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
+        },
+        {
           "rank": 10,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         }
       ]
     },
