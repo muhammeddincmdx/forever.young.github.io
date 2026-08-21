@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T07:35:42.010566+00:00",
+  "generatedAt": "2026-08-21T08:30:05.777156+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Freestyle",
+          "artist": "Lil Baby"
         },
         {
           "rank": 10,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         },
         {
           "rank": 4,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 5,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         }
       ]
     },
