@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T16:14:25.403407+00:00",
+  "generatedAt": "2026-08-22T16:47:04.816019+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "BbY WOW",
-          "artist": "KAROL G, rusowsky & Judeline"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 8,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "BbY WOW",
+          "artist": "KAROL G, rusowsky & Judeline"
         },
         {
           "rank": 9,
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 4,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         },
         {
           "rank": 5,
@@ -218,8 +218,8 @@
         },
         {
           "rank": 8,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         }
       ]
     },
