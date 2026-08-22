@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T22:13:25.353594+00:00",
+  "generatedAt": "2026-08-22T22:44:59.640209+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "Some of Your Love",
-          "artist": "PARTYNEXTDOOR"
-        },
-        {
-          "rank": 8,
           "title": "BbY WOW",
           "artist": "KAROL G, rusowsky & Judeline"
         },
         {
+          "rank": 8,
+          "title": "Some of Your Love",
+          "artist": "PARTYNEXTDOOR"
+        },
+        {
           "rank": 9,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "Don't We",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "Don't We",
-          "artist": "Morgan Wallen"
+          "title": "Jaded",
+          "artist": "Koe Wetzel & Ella Langley"
         }
       ]
     },
@@ -223,8 +223,8 @@
         },
         {
           "rank": 9,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 10,
