@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T15:13:38.275301+00:00",
+  "generatedAt": "2026-08-22T15:43:41.332357+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,60 +118,60 @@
       ]
     },
     {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
+      "id": "apple-tr-most-played",
+      "name": "TR Top Songs",
       "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
       "entries": [
         {
           "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 2,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 3,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         },
         {
           "rank": 4,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 5,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 6,
-          "title": "Some of Your Love",
-          "artist": "PARTYNEXTDOOR"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 7,
-          "title": "BbY WOW",
-          "artist": "KAROL G, rusowsky & Judeline"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 8,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 9,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         },
         {
           "rank": 10,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         }
       ]
     },
