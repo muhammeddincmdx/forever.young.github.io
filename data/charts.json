@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T04:02:49.663671+00:00",
+  "generatedAt": "2026-08-22T04:57:46.020747+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Jaded",
-          "artist": "Koe Wetzel & Ella Langley"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "Jaded",
+          "artist": "Koe Wetzel & Ella Langley"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 9,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 10,
