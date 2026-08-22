@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T19:17:43.766333+00:00",
+  "generatedAt": "2026-08-22T19:43:21.286958+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,8 +9,8 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 2,
@@ -19,8 +19,8 @@
         },
         {
           "rank": 3,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 4,
@@ -39,23 +39,23 @@
         },
         {
           "rank": 7,
-          "title": "SWIM",
-          "artist": "BTS"
-        },
-        {
-          "rank": 8,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
+          "rank": 9,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
+        },
+        {
           "rank": 10,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     },
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 3,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 4,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "Some of Your Love",
-          "artist": "PARTYNEXTDOOR"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 7,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Some of Your Love",
+          "artist": "PARTYNEXTDOOR"
         },
         {
           "rank": 8,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
+          "title": "Don't We",
+          "artist": "Morgan Wallen"
         }
       ]
     },
