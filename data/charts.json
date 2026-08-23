@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T05:32:50.781385+00:00",
+  "generatedAt": "2026-08-23T06:27:20.285196+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -246,8 +246,8 @@
         },
         {
           "rank": 2,
-          "title": "the feeling",
-          "artist": "Steve Lacy"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 3,
@@ -256,8 +256,8 @@
         },
         {
           "rank": 4,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
@@ -266,28 +266,28 @@
         },
         {
           "rank": 6,
-          "title": "Dai Dai",
-          "artist": "Shakira"
+          "title": "I Just Might",
+          "artist": "Bruno Mars"
         },
         {
           "rank": 7,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 9,
           "title": "Be By You",
           "artist": "Luke Combs"
         },
         {
+          "rank": 8,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
+          "rank": 9,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
           "rank": 10,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
         }
       ]
     }
