@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T19:16:47.801542+00:00",
+  "generatedAt": "2026-08-23T19:43:00.649953+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,18 +150,18 @@
         },
         {
           "rank": 6,
-          "title": "Some of Your Love",
-          "artist": "PARTYNEXTDOOR"
-        },
-        {
-          "rank": 7,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "BbY WOW",
           "artist": "KAROL G, rusowsky & Judeline"
+        },
+        {
+          "rank": 8,
+          "title": "Some of Your Love",
+          "artist": "PARTYNEXTDOOR"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
+          "title": "Don't We",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 8,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         },
         {
           "rank": 9,
