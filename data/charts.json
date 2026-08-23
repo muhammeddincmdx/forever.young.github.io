@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T07:09:52.028855+00:00",
+  "generatedAt": "2026-08-23T07:54:10.019546+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 4,
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "BbY WOW",
-          "artist": "KAROL G, rusowsky & Judeline"
-        },
-        {
-          "rank": 8,
           "title": "Some of Your Love",
           "artist": "PARTYNEXTDOOR"
         },
         {
+          "rank": 8,
+          "title": "BbY WOW",
+          "artist": "KAROL G, rusowsky & Judeline"
+        },
+        {
           "rank": 9,
-          "title": "Don't We",
-          "artist": "Morgan Wallen"
+          "title": "Freestyle",
+          "artist": "Lil Baby"
         },
         {
           "rank": 10,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "In A Minute",
+          "artist": "Lil Baby"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         },
         {
           "rank": 4,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 5,
