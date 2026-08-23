@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T00:52:29.587963+00:00",
+  "generatedAt": "2026-08-23T02:20:01.793945+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Jaded",
-          "artist": "Koe Wetzel & Ella Langley"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         }
       ]
     },
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Ara Beni",
-          "artist": "Hadise"
-        },
-        {
-          "rank": 8,
           "title": "CRUSH!",
           "artist": "CRUSH"
         },
         {
+          "rank": 8,
+          "title": "Ara Beni",
+          "artist": "Hadise"
+        },
+        {
           "rank": 9,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 10,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         }
       ]
     },
