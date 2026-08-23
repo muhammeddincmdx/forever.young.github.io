@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T13:08:40.736556+00:00",
+  "generatedAt": "2026-08-23T13:51:52.532952+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Some of Your Love",
+          "artist": "PARTYNEXTDOOR"
         },
         {
           "rank": 6,
-          "title": "Some of Your Love",
-          "artist": "PARTYNEXTDOOR"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 7,
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
+        },
+        {
+          "rank": 8,
           "title": "Ara Beni",
           "artist": "Hadise"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "CRUSH!",
           "artist": "CRUSH"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Bana Ne Bu Sevdalardan",
           "artist": "Ezhel"
-        },
-        {
-          "rank": 10,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
         }
       ]
     },
