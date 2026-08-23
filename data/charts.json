@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T18:17:18.283547+00:00",
+  "generatedAt": "2026-08-23T18:54:42.886593+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "Loser",
-          "artist": "Tame Impala"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 3,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Loser",
+          "artist": "Tame Impala"
         },
         {
           "rank": 4,
@@ -34,23 +34,23 @@
         },
         {
           "rank": 6,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 7,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
-        },
-        {
-          "rank": 8,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
+          "rank": 8,
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
+        },
+        {
           "rank": 9,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 10,
