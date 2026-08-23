@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T10:15:28.071745+00:00",
+  "generatedAt": "2026-08-23T10:47:26.316832+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,18 +150,18 @@
         },
         {
           "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 7,
           "title": "Some of Your Love",
           "artist": "PARTYNEXTDOOR"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "BbY WOW",
           "artist": "KAROL G, rusowsky & Judeline"
+        },
+        {
+          "rank": 8,
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 9,
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 4,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         },
         {
           "rank": 5,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         }
       ]
     },
