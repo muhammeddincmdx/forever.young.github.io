@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:31:06.238881+00:00",
+  "generatedAt": "2026-08-24T16:26:03.815493+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,23 +145,23 @@
         },
         {
           "rank": 5,
-          "title": "BbY WOW",
-          "artist": "KAROL G, rusowsky & Judeline"
-        },
-        {
-          "rank": 6,
-          "title": "Some of Your Love",
-          "artist": "PARTYNEXTDOOR"
-        },
-        {
-          "rank": 7,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
-          "rank": 8,
+          "rank": 6,
           "title": "Be Her",
           "artist": "Ella Langley"
+        },
+        {
+          "rank": 7,
+          "title": "Some of Your Love",
+          "artist": "PARTYNEXTDOOR"
+        },
+        {
+          "rank": 8,
+          "title": "BbY WOW",
+          "artist": "KAROL G, rusowsky & Judeline"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
+          "title": "Don't We",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -188,13 +188,13 @@
         },
         {
           "rank": 2,
-          "title": "Kayıp Kalp",
-          "artist": "BLOK3"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 3,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         },
         {
           "rank": 4,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 10,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         }
       ]
     },
