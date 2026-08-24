@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T05:08:57.963365+00:00",
+  "generatedAt": "2026-08-24T06:00:56.508543+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 4,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         }
       ]
     },
