@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T17:03:24.431883+00:00",
+  "generatedAt": "2026-08-24T17:55:24.427860+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,13 +9,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 2,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 3,
@@ -34,28 +34,28 @@
         },
         {
           "rank": 6,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 7,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
+          "rank": 8,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
+        },
+        {
           "rank": 9,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "SWIM",
+          "artist": "BTS"
         },
         {
           "rank": 10,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     },
