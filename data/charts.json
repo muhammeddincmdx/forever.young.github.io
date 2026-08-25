@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:52:02.052809+00:00",
+  "generatedAt": "2026-08-25T23:18:13.726723+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -246,48 +246,48 @@
         },
         {
           "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 3,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
-        },
-        {
-          "rank": 4,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 5,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
-        },
-        {
-          "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 7,
-          "title": "I Just Might",
-          "artist": "Bruno Mars"
-        },
-        {
-          "rank": 8,
           "title": "Dai Dai",
           "artist": "Shakira"
         },
         {
+          "rank": 3,
+          "title": "Te Estoy Correteando",
+          "artist": "Latin Mafia"
+        },
+        {
+          "rank": 4,
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
+        },
+        {
+          "rank": 5,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 6,
+          "title": "Loser",
+          "artist": "Tame Impala"
+        },
+        {
+          "rank": 7,
+          "title": "Todo De Ti",
+          "artist": "Rauw Alejandro"
+        },
+        {
+          "rank": 8,
+          "title": "SUPERESTRELLA",
+          "artist": "Aitana"
+        },
+        {
           "rank": 9,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "daño",
+          "artist": "Peso Pluma"
         },
         {
           "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "Doma",
+          "artist": "Jósean Log"
         }
       ]
     }
