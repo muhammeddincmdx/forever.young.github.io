@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:55:25.915615+00:00",
+  "generatedAt": "2026-08-25T06:34:20.283331+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 4,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Don't We",
-          "artist": "Morgan Wallen"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Freestyle",
+          "artist": "Lil Baby"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 10,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         }
       ]
     },
