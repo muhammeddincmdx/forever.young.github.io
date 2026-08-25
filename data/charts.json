@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T03:24:13.066001+00:00",
+  "generatedAt": "2026-08-25T04:06:32.885924+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 5,
+          "title": "BbY WOW",
+          "artist": "KAROL G, rusowsky & Judeline"
+        },
+        {
+          "rank": 6,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 7,
-          "title": "BbY WOW",
-          "artist": "KAROL G, rusowsky & Judeline"
         },
         {
           "rank": 8,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
