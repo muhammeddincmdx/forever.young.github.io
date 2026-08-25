@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T21:19:44.271694+00:00",
+  "generatedAt": "2026-08-25T21:50:30.245069+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Loser",
+          "artist": "Tame Impala"
         },
         {
           "rank": 3,
-          "title": "Loser",
-          "artist": "Tame Impala"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 4,
@@ -34,28 +34,28 @@
         },
         {
           "rank": 6,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
-          "rank": 7,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
+          "rank": 7,
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
+        },
+        {
           "rank": 8,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 9,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 10,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Iris",
+          "artist": "The Goo Goo Dolls"
         }
       ]
     },
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 3,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 4,
