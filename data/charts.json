@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T20:25:18.599977+00:00",
+  "generatedAt": "2026-08-26T23:54:18.891294+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,13 +19,13 @@
         },
         {
           "rank": 3,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 4,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 5,
@@ -34,28 +34,28 @@
         },
         {
           "rank": 6,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
-        },
-        {
-          "rank": 7,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 8,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
-          "rank": 9,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
+          "rank": 7,
+          "title": "BbY WOW (w/ Judeline , rusowsky )",
+          "artist": "KAROL G"
+        },
+        {
+          "rank": 8,
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 9,
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
+        },
+        {
           "rank": 10,
-          "title": "Iris",
-          "artist": "The Goo Goo Dolls"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     },
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
+          "title": "Coat of Many Colors",
+          "artist": "Dolly Parton"
         },
         {
           "rank": 9,
-          "title": "Coat of Many Colors",
-          "artist": "Dolly Parton"
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 10,
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 9,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 10,
