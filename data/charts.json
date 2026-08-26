@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T18:11:40.861649+00:00",
+  "generatedAt": "2026-08-26T20:25:18.599977+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Coat of Many Colors",
+          "artist": "Dolly Parton"
         },
         {
           "rank": 10,
-          "title": "Coat of Many Colors",
-          "artist": "Dolly Parton"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 9,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 10,
