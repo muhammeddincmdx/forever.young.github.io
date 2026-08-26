@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T16:11:28.486172+00:00",
+  "generatedAt": "2026-08-26T18:11:40.861649+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,33 +130,33 @@
         },
         {
           "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 3,
           "title": "9 to 5",
           "artist": "Dolly Parton"
         },
         {
-          "rank": 4,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "rank": 3,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Islands In the Stream",
           "artist": "Dolly Parton & Kenny Rogers"
         },
         {
+          "rank": 5,
+          "title": "I Will Always Love You",
+          "artist": "Dolly Parton"
+        },
+        {
           "rank": 6,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 7,
-          "title": "I Will Always Love You",
-          "artist": "Dolly Parton"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 8,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Coat of Many Colors",
+          "artist": "Dolly Parton"
         }
       ]
     },
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
-        },
-        {
-          "rank": 9,
           "title": "CRUSH!",
           "artist": "CRUSH"
         },
         {
+          "rank": 9,
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
+        },
+        {
           "rank": 10,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         }
       ]
     },
