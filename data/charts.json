@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T00:51:30.023887+00:00",
+  "generatedAt": "2026-08-26T02:20:33.173808+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "Don't We",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "Don't We",
-          "artist": "Morgan Wallen"
+          "title": "Jolene",
+          "artist": "Dolly Parton"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         }
       ]
     },
