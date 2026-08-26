@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T08:33:41.526166+00:00",
+  "generatedAt": "2026-08-26T09:32:45.223070+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,23 +125,23 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 2,
           "title": "Jolene",
           "artist": "Dolly Parton"
         },
         {
+          "rank": 2,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
           "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "9 to 5",
+          "artist": "Dolly Parton"
         },
         {
           "rank": 4,
-          "title": "9 to 5",
-          "artist": "Dolly Parton"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 5,
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Islands In the Stream",
+          "artist": "Dolly Parton & Kenny Rogers"
         },
         {
           "rank": 8,
-          "title": "Islands In the Stream",
-          "artist": "Dolly Parton & Kenny Rogers"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 9,
@@ -193,18 +193,18 @@
         },
         {
           "rank": 3,
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
+        },
+        {
+          "rank": 4,
           "title": "Toz Pembe",
           "artist": "manifest"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Hileli",
           "artist": "manifest & Ajda Pekkan"
-        },
-        {
-          "rank": 5,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 6,
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
-        },
-        {
-          "rank": 8,
           "title": "Ha Leylim",
           "artist": "Mabel Matiz"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Bana Ne Bu Sevdalardan",
           "artist": "Ezhel"
         },
         {
+          "rank": 9,
+          "title": "CRUSH!",
+          "artist": "CRUSH"
+        },
+        {
           "rank": 10,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         }
       ]
     },
