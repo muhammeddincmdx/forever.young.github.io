@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T11:00:14.144215+00:00",
+  "generatedAt": "2026-08-26T11:34:53.279528+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "I Will Always Love You",
+          "artist": "Dolly Parton"
         },
         {
           "rank": 9,
-          "title": "I Will Always Love You",
-          "artist": "Dolly Parton"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 10,
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 4,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 5,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 10,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         }
       ]
     },
