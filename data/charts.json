@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T13:52:56.785509+00:00",
+  "generatedAt": "2026-08-28T23:20:27.400226+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,53 +9,53 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Jolene",
-          "artist": "Dolly Parton"
-        },
-        {
-          "rank": 2,
-          "title": "9 to 5",
-          "artist": "Dolly Parton"
-        },
-        {
-          "rank": 3,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
-        },
-        {
-          "rank": 4,
-          "title": "Islands in the Stream (w/ Kenny Rogers )",
-          "artist": "Dolly Parton"
-        },
-        {
-          "rank": 5,
-          "title": "Loser",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 6,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 7,
           "title": "BbY WOW (w/ Judeline , rusowsky )",
           "artist": "KAROL G"
         },
         {
-          "rank": 8,
+          "rank": 2,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 3,
+          "title": "Loser",
+          "artist": "Tame Impala"
+        },
+        {
+          "rank": 4,
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
+        },
+        {
+          "rank": 5,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
+        },
+        {
+          "rank": 6,
           "title": "Dai Dai (w/ Burna Boy )",
           "artist": "Shakira"
         },
         {
-          "rank": 9,
+          "rank": 7,
           "title": "Self Aware",
           "artist": "Temper City"
         },
         {
+          "rank": 8,
+          "title": "Jolene",
+          "artist": "Dolly Parton"
+        },
+        {
+          "rank": 9,
+          "title": "back to friends",
+          "artist": "sombr"
+        },
+        {
           "rank": 10,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         }
       ]
     },
@@ -67,8 +67,8 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 2,
@@ -77,43 +77,43 @@
         },
         {
           "rank": 3,
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
+        },
+        {
+          "rank": 4,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 4,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
-        },
-        {
           "rank": 5,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
-          "rank": 6,
           "title": "Self Aware",
           "artist": "Temper City"
         },
         {
-          "rank": 7,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "rank": 6,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Babydoll",
           "artist": "Dominic Fike"
         },
         {
+          "rank": 8,
+          "title": "BbY WOW (w/ Judeline , rusowsky )",
+          "artist": "KAROL G"
+        },
+        {
           "rank": 9,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 10,
-          "title": "Animal",
-          "artist": "KATSEYE"
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     },
@@ -125,52 +125,52 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Jolene",
-          "artist": "Dolly Parton"
+          "title": "I Am",
+          "artist": "Rod Wave"
         },
         {
           "rank": 2,
+          "title": "Piece Of Your Love",
+          "artist": "Rod Wave"
+        },
+        {
+          "rank": 3,
           "title": "Choosin' Texas",
           "artist": "Ella Langley"
         },
         {
-          "rank": 3,
-          "title": "9 to 5",
-          "artist": "Dolly Parton"
-        },
-        {
           "rank": 4,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Look At Me Momma",
+          "artist": "Rod Wave"
         },
         {
           "rank": 5,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
+          "title": "Hustle",
+          "artist": "Rod Wave"
         },
         {
           "rank": 6,
-          "title": "Islands In the Stream",
-          "artist": "Dolly Parton & Kenny Rogers"
+          "title": "Mainstay (feat. Luv Von)",
+          "artist": "Rod Wave"
         },
         {
           "rank": 7,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "War Wounds",
+          "artist": "Rod Wave"
         },
         {
           "rank": 8,
-          "title": "I Will Always Love You",
+          "title": "Jolene",
           "artist": "Dolly Parton"
         },
         {
           "rank": 9,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Summer Joy Intro (feat. Summer Joy)",
+          "artist": "Rod Wave"
         },
         {
           "rank": 10,
-          "title": "Piece Of Your Love",
+          "title": "TP",
           "artist": "Rod Wave"
         }
       ]
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 5,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 6,
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
-        },
-        {
-          "rank": 8,
           "title": "Bana Ne Bu Sevdalardan",
           "artist": "Ezhel"
         },
         {
+          "rank": 8,
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
+        },
+        {
           "rank": 9,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 10,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         }
       ]
     },
