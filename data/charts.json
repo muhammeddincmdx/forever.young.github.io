@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T19:03:25.140279+00:00",
+  "generatedAt": "2026-08-29T21:51:08.125438+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,23 +19,23 @@
         },
         {
           "rank": 3,
-          "title": "Loser",
-          "artist": "Tame Impala"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 4,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
-        },
-        {
-          "rank": 5,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
+          "rank": 5,
+          "title": "Loser",
+          "artist": "Tame Impala"
+        },
+        {
           "rank": 6,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 7,
@@ -44,18 +44,18 @@
         },
         {
           "rank": 8,
-          "title": "Jolene",
-          "artist": "Dolly Parton"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 9,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         },
         {
           "rank": 10,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "back to friends",
+          "artist": "sombr"
         }
       ]
     },
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "Piece Of Your Love",
-          "artist": "Rod Wave"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Piece Of Your Love",
+          "artist": "Rod Wave"
         },
         {
           "rank": 4,
@@ -213,8 +213,8 @@
         },
         {
           "rank": 7,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 8,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 10,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         }
       ]
     },
