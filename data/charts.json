@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T15:42:29.056413+00:00",
+  "generatedAt": "2026-08-29T19:03:25.140279+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
-        },
-        {
-          "rank": 8,
           "title": "Bana Ne Bu Sevdalardan",
           "artist": "Ezhel"
         },
         {
+          "rank": 8,
+          "title": "Ara Beni",
+          "artist": "Hadise"
+        },
+        {
           "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         },
         {
           "rank": 10,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         }
       ]
     },
