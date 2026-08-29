@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T04:14:56.747479+00:00",
+  "generatedAt": "2026-08-29T11:15:36.287945+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,17 +140,17 @@
         },
         {
           "rank": 4,
-          "title": "Look At Me Momma",
-          "artist": "Rod Wave"
-        },
-        {
-          "rank": 5,
           "title": "Mainstay (feat. Luv Von)",
           "artist": "Rod Wave"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Hustle",
+          "artist": "Rod Wave"
+        },
+        {
+          "rank": 6,
+          "title": "Look At Me Momma",
           "artist": "Rod Wave"
         },
         {
@@ -160,17 +160,17 @@
         },
         {
           "rank": 8,
-          "title": "Jolene",
-          "artist": "Dolly Parton"
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 9,
-          "title": "TP",
+          "title": "One More Time",
           "artist": "Rod Wave"
         },
         {
           "rank": 10,
-          "title": "Summer Joy Intro (feat. Summer Joy)",
+          "title": "TP",
           "artist": "Rod Wave"
         }
       ]
@@ -193,18 +193,18 @@
         },
         {
           "rank": 3,
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
+        },
+        {
+          "rank": 4,
           "title": "Toz Pembe",
           "artist": "manifest"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Hileli",
           "artist": "manifest & Ajda Pekkan"
-        },
-        {
-          "rank": 5,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 6,
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         }
       ]
     },
@@ -271,23 +271,23 @@
         },
         {
           "rank": 7,
-          "title": "Should I Stay or Should I Go (Remastered)",
-          "artist": "The Clash"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 8,
+          "title": "Dai Dai",
+          "artist": "Shakira"
+        },
+        {
+          "rank": 9,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
-          "rank": 9,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
           "rank": 10,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
         }
       ]
     }
