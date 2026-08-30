@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T08:47:10.484976+00:00",
+  "generatedAt": "2026-08-30T14:11:00.547649+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Piece Of Your Love",
-          "artist": "Rod Wave"
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 4,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
+          "title": "Piece Of Your Love",
+          "artist": "Rod Wave"
         },
         {
           "rank": 5,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 9,
           "title": "Look At Me Momma",
           "artist": "Rod Wave"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "One More Time",
           "artist": "Rod Wave"
+        },
+        {
+          "rank": 10,
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
+          "title": "Ara Beni",
+          "artist": "Hadise"
+        },
+        {
+          "rank": 8,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "pVg (Manifest Live Remix)",
           "artist": "manifest, Motive & Pango"
-        },
-        {
-          "rank": 9,
-          "title": "Ara Beni",
-          "artist": "Hadise"
         },
         {
           "rank": 10,
