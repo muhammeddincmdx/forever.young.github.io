@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T21:18:44.439446+00:00",
+  "generatedAt": "2026-08-30T23:39:15.295944+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 3,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 4,
@@ -29,13 +29,13 @@
         },
         {
           "rank": 5,
-          "title": "Loser",
-          "artist": "Tame Impala"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 6,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 7,
@@ -44,8 +44,8 @@
         },
         {
           "rank": 8,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Loser",
+          "artist": "Tame Impala"
         },
         {
           "rank": 9,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 10,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "I Am",
-          "artist": "Rod Wave"
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 3,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
+          "title": "I Am",
+          "artist": "Rod Wave"
         },
         {
           "rank": 4,
@@ -165,12 +165,12 @@
         },
         {
           "rank": 9,
-          "title": "Look At Me Momma",
+          "title": "One More Time",
           "artist": "Rod Wave"
         },
         {
           "rank": 10,
-          "title": "One More Time",
+          "title": "Look At Me Momma",
           "artist": "Rod Wave"
         }
       ]
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 10,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
