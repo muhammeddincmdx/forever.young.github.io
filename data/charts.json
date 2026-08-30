@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T14:11:00.547649+00:00",
+  "generatedAt": "2026-08-30T18:07:24.148384+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 9,
           "title": "Look At Me Momma",
           "artist": "Rod Wave"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "One More Time",
           "artist": "Rod Wave"
-        },
-        {
-          "rank": 10,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 9,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
