@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T23:39:15.295944+00:00",
+  "generatedAt": "2026-08-31T02:43:34.236141+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,28 +135,28 @@
         },
         {
           "rank": 3,
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 4,
           "title": "I Am",
           "artist": "Rod Wave"
         },
         {
-          "rank": 4,
-          "title": "Piece Of Your Love",
-          "artist": "Rod Wave"
-        },
-        {
           "rank": 5,
-          "title": "Mainstay (feat. Luv Von)",
-          "artist": "Rod Wave"
-        },
-        {
-          "rank": 6,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
+          "rank": 6,
+          "title": "Piece Of Your Love",
+          "artist": "Rod Wave"
+        },
+        {
           "rank": 7,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Mainstay (feat. Luv Von)",
+          "artist": "Rod Wave"
         },
         {
           "rank": 8,
@@ -165,12 +165,12 @@
         },
         {
           "rank": 9,
-          "title": "One More Time",
-          "artist": "Rod Wave"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 10,
-          "title": "Look At Me Momma",
+          "title": "One More Time",
           "artist": "Rod Wave"
         }
       ]
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         }
       ]
     },
