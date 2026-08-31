@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T17:09:08.204933+00:00",
+  "generatedAt": "2026-08-31T21:57:44.781156+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 3,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 4,
@@ -29,23 +29,23 @@
         },
         {
           "rank": 5,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 6,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 7,
           "title": "Self Aware",
           "artist": "Temper City"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Loser",
           "artist": "Tame Impala"
+        },
+        {
+          "rank": 8,
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 9,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 10,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 7,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 8,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "TP",
+          "artist": "Rod Wave"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 9,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
