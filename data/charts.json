@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T15:51:15.636557+00:00",
+  "generatedAt": "2026-09-01T19:04:55.860087+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Piece Of Your Love",
-          "artist": "Rod Wave"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 6,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Piece Of Your Love",
+          "artist": "Rod Wave"
         },
         {
           "rank": 7,
@@ -213,18 +213,18 @@
         },
         {
           "rank": 7,
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
+        },
+        {
+          "rank": 8,
           "title": "Ara Beni",
           "artist": "Hadise"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
-        },
-        {
-          "rank": 9,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 10,
