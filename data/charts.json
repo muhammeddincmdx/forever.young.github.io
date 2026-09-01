@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T21:57:44.781156+00:00",
+  "generatedAt": "2026-09-01T00:59:36.251587+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 4,
-          "title": "I Am",
-          "artist": "Rod Wave"
-        },
-        {
-          "rank": 5,
-          "title": "Piece Of Your Love",
-          "artist": "Rod Wave"
-        },
-        {
-          "rank": 6,
           "title": "Been By Now",
           "artist": "Morgan Wallen"
         },
         {
-          "rank": 7,
+          "rank": 5,
           "title": "Janice STFU",
           "artist": "Drake"
+        },
+        {
+          "rank": 6,
+          "title": "Piece Of Your Love",
+          "artist": "Rod Wave"
+        },
+        {
+          "rank": 7,
+          "title": "I Am",
+          "artist": "Rod Wave"
         },
         {
           "rank": 8,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "TP",
-          "artist": "Rod Wave"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         }
       ]
     },
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 8,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 9,
