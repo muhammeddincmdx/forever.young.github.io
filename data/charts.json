@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:51:56.668669+00:00",
+  "generatedAt": "2026-09-01T15:51:15.636557+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 5,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 6,
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 8,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 9,
@@ -266,8 +266,8 @@
         },
         {
           "rank": 6,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 7,
@@ -281,13 +281,13 @@
         },
         {
           "rank": 9,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     }
