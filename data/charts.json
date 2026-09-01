@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T19:04:55.860087+00:00",
+  "generatedAt": "2026-09-01T21:52:40.108851+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Mainstay (feat. Luv Von)",
-          "artist": "Rod Wave"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 5,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Mainstay (feat. Luv Von)",
+          "artist": "Rod Wave"
         },
         {
           "rank": 6,
@@ -155,13 +155,13 @@
         },
         {
           "rank": 7,
-          "title": "I Am",
-          "artist": "Rod Wave"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 8,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "I Am",
+          "artist": "Rod Wave"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         }
       ]
     },
