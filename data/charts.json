@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T00:59:36.251587+00:00",
+  "generatedAt": "2026-09-01T06:08:27.862909+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,8 +135,8 @@
         },
         {
           "rank": 3,
-          "title": "Mainstay (feat. Luv Von)",
-          "artist": "Rod Wave"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 4,
@@ -145,8 +145,8 @@
         },
         {
           "rank": 5,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Mainstay (feat. Luv Von)",
+          "artist": "Rod Wave"
         },
         {
           "rank": 6,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
+        },
+        {
+          "rank": 9,
           "title": "Hustle",
           "artist": "Rod Wave"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "One More Time",
           "artist": "Rod Wave"
-        },
-        {
-          "rank": 10,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "Gamsız Hayat",
+          "artist": "Candan Erçetin"
         }
       ]
     },
