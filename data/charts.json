@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T23:42:20.656572+00:00",
+  "generatedAt": "2026-09-02T02:15:40.361271+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -29,8 +29,8 @@
         },
         {
           "rank": 5,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Loser",
+          "artist": "Tame Impala"
         },
         {
           "rank": 6,
@@ -39,23 +39,23 @@
         },
         {
           "rank": 7,
-          "title": "Loser",
-          "artist": "Tame Impala"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 8,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 9,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "back to friends",
+          "artist": "sombr"
         },
         {
           "rank": 10,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         }
       ]
     },
