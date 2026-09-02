@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T02:15:40.361271+00:00",
+  "generatedAt": "2026-09-02T07:12:42.122808+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 5,
-          "title": "Mainstay (feat. Luv Von)",
-          "artist": "Rod Wave"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 6,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Mainstay (feat. Luv Von)",
+          "artist": "Rod Wave"
         },
         {
           "rank": 7,
@@ -165,12 +165,12 @@
         },
         {
           "rank": 9,
-          "title": "Hustle",
-          "artist": "Rod Wave"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "One More Time",
+          "title": "Hustle",
           "artist": "Rod Wave"
         }
       ]
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Ara Beni",
-          "artist": "Hadise"
-        },
-        {
-          "rank": 9,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
+          "rank": 9,
+          "title": "Gamsız Hayat",
+          "artist": "Candan Erçetin"
+        },
+        {
           "rank": 10,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         }
       ]
     },
@@ -266,23 +266,23 @@
         },
         {
           "rank": 6,
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
+        },
+        {
+          "rank": 7,
           "title": "hate that i made you love me",
           "artist": "Ariana Grande"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
-          "rank": 8,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
           "rank": 9,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
