@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T22:13:11.184929+00:00",
+  "generatedAt": "2026-09-03T00:27:56.017564+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,17 +160,17 @@
         },
         {
           "rank": 8,
-          "title": "I Am",
-          "artist": "Rod Wave"
-        },
-        {
-          "rank": 9,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
+          "rank": 9,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
           "rank": 10,
-          "title": "Dope Girl",
+          "title": "I Am",
           "artist": "Rod Wave"
         }
       ]
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 10,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         }
       ]
     },
