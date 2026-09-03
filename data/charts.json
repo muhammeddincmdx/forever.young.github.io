@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T09:20:29.577485+00:00",
+  "generatedAt": "2026-09-03T13:42:08.996363+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Piece Of Your Love",
+          "artist": "Rod Wave"
         },
         {
           "rank": 9,
-          "title": "Piece Of Your Love",
-          "artist": "Rod Wave"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
-        },
-        {
-          "rank": 9,
           "title": "Ara Beni",
           "artist": "Hadise"
         },
         {
+          "rank": 9,
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
+        },
+        {
           "rank": 10,
-          "title": "Gamsız Hayat",
-          "artist": "Candan Erçetin"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         }
       ]
     },
