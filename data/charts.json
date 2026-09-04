@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T00:13:49.371039+00:00",
+  "generatedAt": "2026-09-04T04:50:39.160378+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,18 +155,18 @@
         },
         {
           "rank": 7,
-          "title": "Mainstay (feat. Luv Von)",
-          "artist": "Rod Wave"
-        },
-        {
-          "rank": 8,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 9,
+          "title": "Mainstay (feat. Luv Von)",
+          "artist": "Rod Wave"
         },
         {
           "rank": 10,
@@ -213,8 +213,8 @@
         },
         {
           "rank": 7,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
@@ -223,8 +223,8 @@
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 10,
