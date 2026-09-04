@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T22:24:44.272194+00:00",
+  "generatedAt": "2026-09-04T00:13:49.371039+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,33 +19,33 @@
         },
         {
           "rank": 3,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 4,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
+          "rank": 5,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 6,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 7,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 8,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 9,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 10,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "SWIM",
+          "artist": "BTS"
         }
       ]
     },
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "Mainstay (feat. Luv Von)",
-          "artist": "Rod Wave"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 7,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Mainstay (feat. Luv Von)",
+          "artist": "Rod Wave"
         },
         {
           "rank": 8,
@@ -170,8 +170,66 @@
         },
         {
           "rank": 10,
-          "title": "Piece Of Your Love",
-          "artist": "Rod Wave"
+          "title": "In A Minute",
+          "artist": "Lil Baby"
+        }
+      ]
+    },
+    {
+      "id": "apple-tr-most-played",
+      "name": "TR Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 2,
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 3,
+          "title": "Toz Pembe",
+          "artist": "manifest"
+        },
+        {
+          "rank": 4,
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
+        },
+        {
+          "rank": 5,
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
+        },
+        {
+          "rank": 6,
+          "title": "Kırgınım",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 7,
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
+        },
+        {
+          "rank": 8,
+          "title": "CRUSH!",
+          "artist": "CRUSH"
+        },
+        {
+          "rank": 9,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 10,
+          "title": "Ara Beni",
+          "artist": "Hadise"
         }
       ]
     },
