@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T13:38:40.712663+00:00",
+  "generatedAt": "2026-09-04T17:18:07.948160+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,28 +150,28 @@
         },
         {
           "rank": 6,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 7,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
-        },
-        {
-          "rank": 8,
-          "title": "Mainstay (feat. Luv Von)",
-          "artist": "Rod Wave"
-        },
-        {
-          "rank": 9,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 10,
-          "title": "Freestyle",
+          "rank": 7,
+          "title": "Mainstay (feat. Luv Von)",
+          "artist": "Rod Wave"
+        },
+        {
+          "rank": 8,
+          "title": "In A Minute",
           "artist": "Lil Baby"
+        },
+        {
+          "rank": 9,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 10,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         }
       ]
     },
@@ -193,18 +193,18 @@
         },
         {
           "rank": 3,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
-        },
-        {
-          "rank": 4,
           "title": "Toz Pembe",
           "artist": "manifest"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Hileli",
           "artist": "manifest & Ajda Pekkan"
+        },
+        {
+          "rank": 5,
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 6,
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 8,
           "title": "Ara Beni",
           "artist": "Hadise"
         },
         {
+          "rank": 8,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
+        },
+        {
           "rank": 9,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 10,
-          "title": "Bana Ne Bu Sevdalardan",
-          "artist": "Ezhel"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         }
       ]
     },
