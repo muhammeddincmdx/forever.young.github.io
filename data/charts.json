@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T09:14:00.764489+00:00",
+  "generatedAt": "2026-09-04T13:38:40.712663+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 7,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "In A Minute",
+          "artist": "Lil Baby"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Freestyle",
+          "artist": "Lil Baby"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         },
         {
           "rank": 10,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "Bana Ne Bu Sevdalardan",
+          "artist": "Ezhel"
         }
       ]
     },
