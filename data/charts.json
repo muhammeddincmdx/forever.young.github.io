@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T04:50:39.160378+00:00",
+  "generatedAt": "2026-09-04T09:14:00.764489+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 8,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Mainstay (feat. Luv Von)",
           "artist": "Rod Wave"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "In A Minute",
           "artist": "Lil Baby"
+        },
+        {
+          "rank": 10,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         }
       ]
     },
@@ -193,18 +193,18 @@
         },
         {
           "rank": 3,
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
+        },
+        {
+          "rank": 4,
           "title": "Toz Pembe",
           "artist": "manifest"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Hileli",
           "artist": "manifest & Ajda Pekkan"
-        },
-        {
-          "rank": 5,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 6,
@@ -218,8 +218,8 @@
         },
         {
           "rank": 8,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         }
       ]
     },
@@ -246,13 +246,13 @@
         },
         {
           "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 3,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 4,
@@ -266,23 +266,23 @@
         },
         {
           "rank": 6,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 7,
-          "title": "Should I Stay or Should I Go (Remastered)",
-          "artist": "The Clash"
-        },
-        {
-          "rank": 8,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
+          "rank": 8,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
           "rank": 9,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
