@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T16:30:33.075026+00:00",
+  "generatedAt": "2026-09-05T18:42:32.207785+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -24,18 +24,18 @@
         },
         {
           "rank": 4,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
-          "rank": 5,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
+          "rank": 5,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
+        },
+        {
           "rank": 6,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
         },
         {
           "rank": 7,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         },
         {
           "rank": 10,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         }
       ]
     },
