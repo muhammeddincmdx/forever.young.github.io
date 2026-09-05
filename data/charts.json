@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T02:18:16.645738+00:00",
+  "generatedAt": "2026-09-05T07:01:17.711449+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 9,
           "title": "In A Minute",
           "artist": "Lil Baby"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Freestyle",
           "artist": "Lil Baby"
+        },
+        {
+          "rank": 10,
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 9,
