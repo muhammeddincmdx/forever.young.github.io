@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T07:01:17.711449+00:00",
+  "generatedAt": "2026-09-05T11:20:29.639666+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,64 +118,6 @@
       ]
     },
     {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 2,
-          "title": "BbY WOW",
-          "artist": "KAROL G, rusowsky & Judeline"
-        },
-        {
-          "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 4,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 5,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
-        },
-        {
-          "rank": 6,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 7,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 8,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
-        },
-        {
-          "rank": 9,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
-        },
-        {
-          "rank": 10,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
-        }
-      ]
-    },
-    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -198,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 5,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 6,
@@ -223,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Gamsız Hayat",
+          "artist": "Candan Erçetin"
         },
         {
           "rank": 10,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         }
       ]
     },
@@ -266,28 +208,28 @@
         },
         {
           "rank": 6,
-          "title": "Be By You",
-          "artist": "Luke Combs"
-        },
-        {
-          "rank": 7,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
+          "rank": 8,
+          "title": "Should I Stay or Should I Go (Remastered)",
+          "artist": "The Clash"
+        },
+        {
           "rank": 9,
-          "title": "drop dead",
-          "artist": "Olivia Rodrigo"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 10,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "drop dead",
+          "artist": "Olivia Rodrigo"
         }
       ]
     }
