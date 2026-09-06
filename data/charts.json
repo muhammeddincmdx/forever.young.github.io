@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T16:07:08.450013+00:00",
+  "generatedAt": "2026-09-06T18:28:21.527578+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,6 +118,64 @@
       ]
     },
     {
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 2,
+          "title": "BbY WOW",
+          "artist": "KAROL G, rusowsky & Judeline"
+        },
+        {
+          "rank": 3,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
+          "rank": 4,
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
+        },
+        {
+          "rank": 5,
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 6,
+          "title": "Be Her",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 7,
+          "title": "In A Minute",
+          "artist": "Lil Baby"
+        },
+        {
+          "rank": 8,
+          "title": "Freestyle",
+          "artist": "Lil Baby"
+        },
+        {
+          "rank": 9,
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
+        },
+        {
+          "rank": 10,
+          "title": "WAIT FOR U (feat. Drake & Tems)",
+          "artist": "Future"
+        }
+      ]
+    },
+    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -165,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 10,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         }
       ]
     },
