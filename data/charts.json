@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T20:19:10.051648+00:00",
+  "generatedAt": "2026-09-07T22:55:27.259847+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,17 +160,17 @@
         },
         {
           "rank": 8,
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 9,
           "title": "In A Minute",
           "artist": "Lil Baby"
         },
         {
-          "rank": 9,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
-        },
-        {
           "rank": 10,
-          "title": "I'm The Problem",
+          "title": "Don't We",
           "artist": "Morgan Wallen"
         }
       ]
