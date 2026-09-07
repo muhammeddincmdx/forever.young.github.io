@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T16:34:12.177767+00:00",
+  "generatedAt": "2026-09-07T20:19:10.051648+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,48 +14,48 @@
         },
         {
           "rank": 2,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
-        },
-        {
-          "rank": 3,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
-          "rank": 4,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 5,
-          "title": "Loser",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 6,
+          "rank": 3,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
+          "rank": 4,
+          "title": "Loser",
+          "artist": "Tame Impala"
+        },
+        {
+          "rank": 5,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 6,
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
+        },
+        {
           "rank": 7,
+          "title": "Ain't In LA",
+          "artist": "ADÉLA"
+        },
+        {
+          "rank": 8,
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 9,
           "title": "Self Aware",
           "artist": "Temper City"
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Choosin' Texas",
           "artist": "Ella Langley"
-        },
-        {
-          "rank": 9,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
-        },
-        {
-          "rank": 10,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 4,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 5,
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
-        },
-        {
-          "rank": 8,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
-        },
-        {
-          "rank": 9,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
+          "rank": 8,
+          "title": "In A Minute",
+          "artist": "Lil Baby"
+        },
+        {
+          "rank": 9,
+          "title": "Freestyle",
+          "artist": "Lil Baby"
+        },
+        {
           "rank": 10,
-          "title": "WAIT FOR U (feat. Drake & Tems)",
-          "artist": "Future"
+          "title": "I'm The Problem",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 5,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 6,
@@ -223,8 +223,8 @@
         },
         {
           "rank": 9,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "pVg (Manifest Live Remix)",
+          "artist": "manifest, Motive & Pango"
         },
         {
           "rank": 10,
