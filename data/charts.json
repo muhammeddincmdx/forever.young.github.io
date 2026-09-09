@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:41:05.513693+00:00",
+  "generatedAt": "2026-09-09T18:58:02.132055+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 4,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 5,
@@ -155,18 +155,18 @@
         },
         {
           "rank": 7,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
-        },
-        {
-          "rank": 8,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 9,
+          "title": "In A Minute",
+          "artist": "Lil Baby"
         },
         {
           "rank": 10,
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 8,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 9,
