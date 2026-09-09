@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T06:14:10.487864+00:00",
+  "generatedAt": "2026-09-09T11:38:02.680657+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 4,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 5,
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 4,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 5,
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Gamsız Hayat",
-          "artist": "Candan Erçetin"
-        },
-        {
-          "rank": 9,
           "title": "Ara Beni",
           "artist": "Hadise"
         },
         {
+          "rank": 9,
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
+        },
+        {
           "rank": 10,
-          "title": "pVg (Manifest Live Remix)",
-          "artist": "manifest, Motive & Pango"
+          "title": "Gamsız Hayat",
+          "artist": "Candan Erçetin"
         }
       ]
     },
