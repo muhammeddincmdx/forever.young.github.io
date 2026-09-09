@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T01:24:06.292993+00:00",
+  "generatedAt": "2026-09-09T06:14:10.487864+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,13 +125,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "BbY WOW",
+          "artist": "KAROL G, rusowsky & Judeline"
         },
         {
           "rank": 2,
-          "title": "BbY WOW",
-          "artist": "KAROL G, rusowsky & Judeline"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
-        },
-        {
-          "rank": 9,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 9,
+          "title": "In A Minute",
+          "artist": "Lil Baby"
+        },
+        {
           "rank": 10,
-          "title": "I'm The Problem",
-          "artist": "Morgan Wallen"
+          "title": "Freestyle",
+          "artist": "Lil Baby"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Gamsız Hayat",
+          "artist": "Candan Erçetin"
         },
         {
           "rank": 9,
-          "title": "Gamsız Hayat",
-          "artist": "Candan Erçetin"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 10,
