@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T19:23:38.617253+00:00",
+  "generatedAt": "2026-09-10T21:43:24.193640+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,23 +14,23 @@
         },
         {
           "rank": 2,
-          "title": "Loser",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 3,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
+          "rank": 3,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 4,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Loser",
+          "artist": "Tame Impala"
         },
         {
           "rank": 5,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 6,
@@ -39,23 +39,23 @@
         },
         {
           "rank": 7,
+          "title": "back to friends",
+          "artist": "sombr"
+        },
+        {
+          "rank": 8,
           "title": "Self Aware",
           "artist": "Temper City"
         },
         {
-          "rank": 8,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
-        },
-        {
           "rank": 9,
-          "title": "Ain't In LA",
-          "artist": "ADÉLA"
+          "title": "Love Me Not",
+          "artist": "Ravyn Lenae"
         },
         {
           "rank": 10,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Ain't In LA",
+          "artist": "ADÉLA"
         }
       ]
     },
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 4,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 5,
