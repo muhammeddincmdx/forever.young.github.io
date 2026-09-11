@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T19:22:06.130553+00:00",
+  "generatedAt": "2026-09-11T21:48:21.358023+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,13 +135,13 @@
         },
         {
           "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 4,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 5,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "Ghost",
+          "artist": "Jhené Aiko"
+        },
+        {
+          "rank": 9,
           "title": "In A Minute",
           "artist": "Lil Baby"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 10,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
         }
       ]
     },
