@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T12:16:23.723215+00:00",
+  "generatedAt": "2026-09-11T16:38:59.715339+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -193,18 +193,18 @@
         },
         {
           "rank": 3,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
-        },
-        {
-          "rank": 4,
           "title": "Toz Pembe",
           "artist": "manifest"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Hileli",
           "artist": "manifest & Ajda Pekkan"
+        },
+        {
+          "rank": 5,
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 6,
@@ -213,23 +213,23 @@
         },
         {
           "rank": 7,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Benim Olsana",
+          "artist": "CRUSH"
         },
         {
           "rank": 8,
+          "title": "CRUSH!",
+          "artist": "CRUSH"
+        },
+        {
+          "rank": 9,
           "title": "Ara Beni",
           "artist": "Hadise"
         },
         {
-          "rank": 9,
-          "title": "Gamsız Hayat",
-          "artist": "Candan Erçetin"
-        },
-        {
           "rank": 10,
-          "title": "Ha Leylim",
-          "artist": "Mabel Matiz"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
@@ -246,48 +246,48 @@
         },
         {
           "rank": 2,
+          "title": "BbY WOW",
+          "artist": "KAROL G"
+        },
+        {
+          "rank": 3,
+          "title": "Te Estoy Correteando",
+          "artist": "Latin Mafia"
+        },
+        {
+          "rank": 4,
           "title": "Boston",
           "artist": "STELLA LEFTY"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Choosin' Texas",
           "artist": "Ella Langley"
         },
         {
-          "rank": 4,
+          "rank": 6,
+          "title": "Todo De Ti",
+          "artist": "Rauw Alejandro"
+        },
+        {
+          "rank": 7,
           "title": "Be Her",
           "artist": "Ella Langley"
         },
         {
-          "rank": 5,
-          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 6,
-          "title": "Be By You",
-          "artist": "Luke Combs"
-        },
-        {
-          "rank": 7,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
           "rank": 8,
-          "title": "Loving Life Again",
-          "artist": "Ella Langley"
+          "title": "SUPERESTRELLA",
+          "artist": "Aitana"
         },
         {
           "rank": 9,
-          "title": "Should I Stay or Should I Go (Remastered)",
-          "artist": "The Clash"
+          "title": "Stop Crying Your Heart Out",
+          "artist": "Oasis"
         },
         {
           "rank": 10,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Dai Dai",
+          "artist": "Shakira"
         }
       ]
     }
