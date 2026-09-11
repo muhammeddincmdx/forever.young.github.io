@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T07:22:57.928403+00:00",
+  "generatedAt": "2026-09-11T12:16:23.723215+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "stupid song",
-          "artist": "Olivia Rodrigo"
+          "title": "In A Minute",
+          "artist": "Lil Baby"
         },
         {
           "rank": 9,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 4,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 5,
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "Gamsız Hayat",
-          "artist": "Candan Erçetin"
-        },
-        {
-          "rank": 9,
           "title": "Ara Beni",
           "artist": "Hadise"
         },
         {
+          "rank": 9,
+          "title": "Gamsız Hayat",
+          "artist": "Candan Erçetin"
+        },
+        {
           "rank": 10,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "Ha Leylim",
+          "artist": "Mabel Matiz"
         }
       ]
     },
@@ -266,18 +266,18 @@
         },
         {
           "rank": 6,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 7,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
+          "title": "Loving Life Again",
+          "artist": "Ella Langley"
         },
         {
           "rank": 9,
@@ -286,8 +286,8 @@
         },
         {
           "rank": 10,
-          "title": "Be By You",
-          "artist": "Luke Combs"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         }
       ]
     }
