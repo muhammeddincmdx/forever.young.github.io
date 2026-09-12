@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T14:44:42.301582+00:00",
+  "generatedAt": "2026-09-12T17:35:08.516141+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,12 +140,12 @@
         },
         {
           "rank": 4,
-          "title": "So Good (feat. Kendrick Lamar)",
+          "title": "He Belongs",
           "artist": "Jhené Aiko"
         },
         {
           "rank": 5,
-          "title": "He Belongs",
+          "title": "So Good (feat. Kendrick Lamar)",
           "artist": "Jhené Aiko"
         },
         {
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         },
         {
           "rank": 10,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
@@ -246,48 +246,48 @@
         },
         {
           "rank": 2,
-          "title": "Dai Dai",
-          "artist": "Shakira"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 3,
-          "title": "NORMAL (Korean Ver.)",
-          "artist": "BTS"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 4,
-          "title": "Stop Crying Your Heart Out",
-          "artist": "Oasis"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 5,
-          "title": "BbY WOW",
-          "artist": "KAROL G"
+          "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 6,
-          "title": "SWIM",
-          "artist": "BTS"
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
         },
         {
           "rank": 7,
-          "title": "Come Over",
-          "artist": "BTS"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 8,
-          "title": "Billie Jean",
-          "artist": "Michael Jackson"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         },
         {
           "rank": 9,
-          "title": "Should I Stay or Should I Go (Remastered)",
-          "artist": "The Clash"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         },
         {
           "rank": 10,
-          "title": "Wonderwall (Remastered)",
-          "artist": "Oasis"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     }
