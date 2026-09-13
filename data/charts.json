@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T16:59:40.691979+00:00",
+  "generatedAt": "2026-09-13T19:14:33.048233+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -24,18 +24,18 @@
         },
         {
           "rank": 4,
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
+        },
+        {
+          "rank": 5,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Loser",
           "artist": "Tame Impala"
-        },
-        {
-          "rank": 6,
-          "title": "Self Aware",
-          "artist": "Temper City"
         },
         {
           "rank": 7,
@@ -44,18 +44,18 @@
         },
         {
           "rank": 8,
-          "title": "Iris",
-          "artist": "The Goo Goo Dolls"
+          "title": "Billie Jean",
+          "artist": "Michael Jackson"
         },
         {
           "rank": 9,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 10,
-          "title": "Ain't In LA",
-          "artist": "ADÉLA"
+          "title": "back to friends",
+          "artist": "sombr"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         },
         {
           "rank": 10,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
