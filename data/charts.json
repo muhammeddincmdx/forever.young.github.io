@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T13:01:14.202306+00:00",
+  "generatedAt": "2026-09-13T16:59:40.691979+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 5,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 6,
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
+          "title": "CRUSH!",
+          "artist": "CRUSH"
+        },
+        {
+          "rank": 9,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Ara Beni",
           "artist": "Hadise"
-        },
-        {
-          "rank": 10,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
         }
       ]
     },
