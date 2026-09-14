@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T15:08:08.708907+00:00",
+  "generatedAt": "2026-09-14T19:53:41.101445+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,12 +135,12 @@
         },
         {
           "rank": 3,
-          "title": "So Good (feat. Kendrick Lamar)",
+          "title": "He Belongs",
           "artist": "Jhené Aiko"
         },
         {
           "rank": 4,
-          "title": "He Belongs",
+          "title": "So Good (feat. Kendrick Lamar)",
           "artist": "Jhené Aiko"
         },
         {
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 8,
           "title": "Been By Now",
           "artist": "Morgan Wallen"
         },
         {
+          "rank": 8,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
           "rank": 9,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Love Bomb",
+          "artist": "Jhené Aiko & Ab-Soul"
         },
         {
           "rank": 10,
-          "title": "Love Bomb",
-          "artist": "Jhené Aiko & Ab-Soul"
+          "title": "Like, Whatever (feat. Tyga)",
+          "artist": "Jhené Aiko"
         }
       ]
     },
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 9,
           "title": "Gamsız Hayat",
           "artist": "Candan Erçetin"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Ara Beni",
           "artist": "Hadise"
+        },
+        {
+          "rank": 10,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
