@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T23:49:25.971195+00:00",
+  "generatedAt": "2026-09-14T02:43:19.732717+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Gamsız Hayat",
+          "artist": "Candan Erçetin"
         },
         {
           "rank": 10,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         }
       ]
     },
