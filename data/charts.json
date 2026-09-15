@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T16:15:21.728035+00:00",
+  "generatedAt": "2026-09-15T19:45:30.640871+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,43 +19,43 @@
         },
         {
           "rank": 3,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 4,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
-          "rank": 5,
-          "title": "Love Me Not",
-          "artist": "Ravyn Lenae"
-        },
-        {
-          "rank": 6,
           "title": "Loser",
           "artist": "Tame Impala"
         },
         {
-          "rank": 7,
+          "rank": 4,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 5,
           "title": "Ain't In LA",
           "artist": "ADÉLA"
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
+        },
+        {
+          "rank": 7,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 8,
+          "title": "back to friends",
+          "artist": "sombr"
+        },
+        {
           "rank": 9,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Love Me Not",
+          "artist": "Ravyn Lenae"
         },
         {
           "rank": 10,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "Self Aware",
+          "artist": "Temper City"
         }
       ]
     },
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 7,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 8,
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
+          "title": "Döndüm",
+          "artist": "Bora Duran"
+        },
+        {
+          "rank": 9,
           "title": "Gamsız Hayat",
           "artist": "Candan Erçetin"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
-        },
-        {
-          "rank": 10,
-          "title": "Döndüm",
-          "artist": "Bora Duran"
         }
       ]
     },
