@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T01:06:09.832321+00:00",
+  "generatedAt": "2026-09-15T06:20:22.982624+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,23 +155,23 @@
         },
         {
           "rank": 7,
-          "title": "Ceiling (Freestyle)",
-          "artist": "Jhené Aiko"
-        },
-        {
-          "rank": 8,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
+          "rank": 8,
+          "title": "Ceiling (Freestyle)",
+          "artist": "Jhené Aiko"
+        },
+        {
           "rank": 9,
-          "title": "Love Bomb",
-          "artist": "Jhené Aiko & Ab-Soul"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 10,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Love Bomb",
+          "artist": "Jhené Aiko & Ab-Soul"
         }
       ]
     },
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 5,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 6,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "CRUSH!",
-          "artist": "CRUSH"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "CRUSH!",
+          "artist": "CRUSH"
         }
       ]
     },
