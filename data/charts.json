@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T18:59:06.335425+00:00",
+  "generatedAt": "2026-09-16T21:57:24.052860+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,28 +19,28 @@
         },
         {
           "rank": 3,
-          "title": "Loser",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 4,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 5,
-          "title": "Ain't In LA",
-          "artist": "ADÉLA"
+          "rank": 4,
+          "title": "Loser",
+          "artist": "Tame Impala"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
+          "rank": 6,
+          "title": "Ain't In LA",
+          "artist": "ADÉLA"
+        },
+        {
           "rank": 7,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "Nicole Kidman",
+          "artist": "ADÉLA"
         },
         {
           "rank": 8,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 9,
-          "title": "Love Me Not",
-          "artist": "Ravyn Lenae"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "Love Me Not",
+          "artist": "Ravyn Lenae"
         }
       ]
     },
@@ -140,18 +140,18 @@
         },
         {
           "rank": 4,
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 5,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "He Belongs",
           "artist": "Jhené Aiko"
-        },
-        {
-          "rank": 6,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
         },
         {
           "rank": 7,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         }
       ]
     },
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 5,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 6,
