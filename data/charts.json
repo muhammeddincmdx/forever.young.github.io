@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T19:08:10.334408+00:00",
+  "generatedAt": "2026-09-17T22:18:40.931770+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,43 +19,43 @@
         },
         {
           "rank": 3,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 4,
-          "title": "Loser",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 5,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
-          "rank": 6,
           "title": "Ain't In LA",
           "artist": "ADÉLA"
         },
         {
+          "rank": 4,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 5,
+          "title": "Self Aware",
+          "artist": "Temper City"
+        },
+        {
+          "rank": 6,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
+        },
+        {
           "rank": 7,
-          "title": "Nicole Kidman",
-          "artist": "ADÉLA"
-        },
-        {
-          "rank": 8,
-          "title": "back to friends",
-          "artist": "sombr"
-        },
-        {
-          "rank": 9,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 8,
+          "title": "Nicole Kidman",
+          "artist": "ADÉLA"
+        },
+        {
+          "rank": 9,
+          "title": "Loser",
+          "artist": "Tame Impala"
+        },
+        {
           "rank": 10,
-          "title": "Love Me Not",
-          "artist": "Ravyn Lenae"
+          "title": "Iris",
+          "artist": "The Goo Goo Dolls"
         }
       ]
     },
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "So Good (feat. Kendrick Lamar)",
-          "artist": "Jhené Aiko"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 5,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "So Good (feat. Kendrick Lamar)",
+          "artist": "Jhené Aiko"
         },
         {
           "rank": 6,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "Ceiling (Freestyle)",
-          "artist": "Jhené Aiko"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Benim Olsana",
+          "artist": "CRUSH"
         },
         {
           "rank": 8,
-          "title": "Benim Olsana",
-          "artist": "CRUSH"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 9,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Gamsız Hayat",
-          "artist": "Candan Erçetin"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         }
       ]
     },
