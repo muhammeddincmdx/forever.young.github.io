@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T15:07:34.788404+00:00",
+  "generatedAt": "2026-09-17T19:08:10.334408+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "Ceiling (Freestyle)",
+          "artist": "Jhené Aiko"
         }
       ]
     },
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Döndüm",
+          "artist": "Bora Duran"
         },
         {
           "rank": 7,
-          "title": "Döndüm",
-          "artist": "Bora Duran"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Gamsız Hayat",
+          "artist": "Candan Erçetin"
         }
       ]
     },
