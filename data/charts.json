@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T22:18:40.931770+00:00",
+  "generatedAt": "2026-09-18T00:32:50.693313+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,23 +125,23 @@
       "entries": [
         {
           "rank": 1,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
-        },
-        {
-          "rank": 2,
           "title": "Choosin' Texas",
           "artist": "Ella Langley"
         },
         {
+          "rank": 2,
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
+        },
+        {
           "rank": 3,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 4,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 5,
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Gamsız Hayat",
+          "artist": "Candan Erçetin"
         }
       ]
     },
