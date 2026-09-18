@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:13:44.961311+00:00",
+  "generatedAt": "2026-09-18T22:42:29.907326+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -24,38 +24,38 @@
         },
         {
           "rank": 4,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 5,
-          "title": "Self Aware",
-          "artist": "Temper City"
-        },
-        {
-          "rank": 6,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
-          "rank": 7,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 8,
           "title": "Nicole Kidman",
           "artist": "ADÉLA"
         },
         {
+          "rank": 5,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
+          "rank": 6,
+          "title": "Self Aware",
+          "artist": "Temper City"
+        },
+        {
+          "rank": 7,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
+        },
+        {
+          "rank": 8,
+          "title": "Iris",
+          "artist": "The Goo Goo Dolls"
+        },
+        {
           "rank": 9,
-          "title": "Loser",
-          "artist": "Tame Impala"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "Iris",
-          "artist": "The Goo Goo Dolls"
+          "title": "Loser",
+          "artist": "Tame Impala"
         }
       ]
     },
@@ -77,43 +77,43 @@
         },
         {
           "rank": 3,
-          "title": "Loser",
-          "artist": "Tame Impala"
-        },
-        {
-          "rank": 4,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
-          "rank": 6,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
-        },
-        {
-          "rank": 7,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
-        },
-        {
-          "rank": 8,
-          "title": "Self Aware",
-          "artist": "Temper City"
-        },
-        {
-          "rank": 9,
+          "rank": 5,
           "title": "Ain't In LA",
           "artist": "ADÉLA"
         },
         {
+          "rank": 6,
+          "title": "Loser",
+          "artist": "Tame Impala"
+        },
+        {
+          "rank": 7,
+          "title": "Self Aware",
+          "artist": "Temper City"
+        },
+        {
+          "rank": 8,
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 9,
+          "title": "back to friends",
+          "artist": "sombr"
+        },
+        {
           "rank": 10,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Iris",
+          "artist": "The Goo Goo Dolls"
         }
       ]
     },
