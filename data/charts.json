@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T09:57:07.670023+00:00",
+  "generatedAt": "2026-09-18T14:05:47.653084+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,18 +140,18 @@
         },
         {
           "rank": 4,
-          "title": "Been By Now",
+          "title": "Last Thing You Need (from GTAVI: The Album)",
           "artist": "Morgan Wallen"
         },
         {
           "rank": 5,
-          "title": "So Good (feat. Kendrick Lamar)",
-          "artist": "Jhené Aiko"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 6,
-          "title": "Last Thing You Need (from GTAVI: The Album)",
-          "artist": "Morgan Wallen"
+          "title": "So Good (feat. Kendrick Lamar)",
+          "artist": "Jhené Aiko"
         },
         {
           "rank": 7,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Nicole Kidman",
-          "artist": "ADÉLA"
+          "title": "In A Minute",
+          "artist": "Lil Baby"
         },
         {
           "rank": 10,
-          "title": "Ghost",
-          "artist": "Jhené Aiko"
+          "title": "Nicole Kidman",
+          "artist": "ADÉLA"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Gamsız Hayat",
-          "artist": "Candan Erçetin"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         }
       ]
     },
