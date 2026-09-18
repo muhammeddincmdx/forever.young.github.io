@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T17:44:58.221340+00:00",
+  "generatedAt": "2026-09-18T20:13:44.961311+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,18 +125,18 @@
       "entries": [
         {
           "rank": 1,
+          "title": "Last Thing You Need (from GTAVI: The Album)",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 2,
           "title": "BbY WOW",
           "artist": "KAROL G, Judeline & rusowsky"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Choosin' Texas",
           "artist": "Ella Langley"
-        },
-        {
-          "rank": 3,
-          "title": "Last Thing You Need (from GTAVI: The Album)",
-          "artist": "Morgan Wallen"
         },
         {
           "rank": 4,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "Nicole Kidman",
-          "artist": "ADÉLA"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
