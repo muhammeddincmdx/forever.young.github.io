@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T05:26:12.104500+00:00",
+  "generatedAt": "2026-09-18T09:57:07.670023+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,13 +125,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 2,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
@@ -150,28 +150,28 @@
         },
         {
           "rank": 6,
+          "title": "Last Thing You Need (from GTAVI: The Album)",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 7,
           "title": "Dead Fresh",
           "artist": "Lil Baby"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "He Belongs",
           "artist": "Jhené Aiko"
         },
         {
-          "rank": 8,
-          "title": "Ghost",
-          "artist": "Jhené Aiko"
-        },
-        {
           "rank": 9,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Nicole Kidman",
+          "artist": "ADÉLA"
         },
         {
           "rank": 10,
-          "title": "Last Thing You Need (from GTAVI: The Album)",
-          "artist": "Morgan Wallen"
+          "title": "Ghost",
+          "artist": "Jhené Aiko"
         }
       ]
     },
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 5,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 6,
@@ -246,13 +246,13 @@
         },
         {
           "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Boston",
+          "artist": "STELLA LEFTY"
         },
         {
           "rank": 3,
-          "title": "Boston",
-          "artist": "STELLA LEFTY"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 4,
@@ -266,28 +266,28 @@
         },
         {
           "rank": 6,
-          "title": "Be By You",
-          "artist": "Luke Combs"
-        },
-        {
-          "rank": 7,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
+          "rank": 7,
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        },
+        {
           "rank": 8,
+          "title": "Stargazing",
+          "artist": "Myles Smith"
+        },
+        {
+          "rank": 9,
           "title": "Man I Need",
           "artist": "Olivia Dean"
         },
         {
-          "rank": 9,
-          "title": "Midnight Sun",
-          "artist": "Zara Larsson"
-        },
-        {
           "rank": 10,
-          "title": "Stargazing",
-          "artist": "Myles Smith"
+          "title": "Be By You",
+          "artist": "Luke Combs"
         }
       ]
     }
