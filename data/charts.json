@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T00:51:57.530700+00:00",
+  "generatedAt": "2026-09-19T05:21:59.324172+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 4,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 5,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 6,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "He Belongs",
-          "artist": "Jhené Aiko"
+          "title": "Nicole Kidman",
+          "artist": "ADÉLA"
         }
       ]
     },
@@ -228,8 +228,8 @@
         },
         {
           "rank": 10,
-          "title": "Ara Beni",
-          "artist": "Hadise"
+          "title": "Gamsız Hayat",
+          "artist": "Candan Erçetin"
         }
       ]
     },
