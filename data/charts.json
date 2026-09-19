@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T19:09:03.717640+00:00",
+  "generatedAt": "2026-09-19T21:33:49.226587+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Ain't In LA",
+          "artist": "ADÉLA"
         },
         {
           "rank": 3,
-          "title": "Ain't In LA",
-          "artist": "ADÉLA"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 4,
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 4,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -193,13 +193,13 @@
         },
         {
           "rank": 3,
-          "title": "Çok Güzel Gülüyorsun",
-          "artist": "BLOK3 & Poizi"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 4,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 5,
