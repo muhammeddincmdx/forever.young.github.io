@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T22:42:29.907326+00:00",
+  "generatedAt": "2026-09-19T00:51:57.530700+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 4,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "He Belongs",
-          "artist": "Jhené Aiko"
-        },
-        {
-          "rank": 9,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Be Her",
           "artist": "Ella Langley"
+        },
+        {
+          "rank": 10,
+          "title": "He Belongs",
+          "artist": "Jhené Aiko"
         }
       ]
     },
