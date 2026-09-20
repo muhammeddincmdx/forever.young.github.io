@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T19:12:09.184594+00:00",
+  "generatedAt": "2026-09-20T21:43:24.866309+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -34,28 +34,28 @@
         },
         {
           "rank": 6,
-          "title": "Self Aware",
-          "artist": "Temper City"
-        },
-        {
-          "rank": 7,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
+          "rank": 7,
+          "title": "Dai Dai (w/ Burna Boy )",
+          "artist": "Shakira"
+        },
+        {
           "rank": 8,
+          "title": "Self Aware",
+          "artist": "Temper City"
+        },
+        {
+          "rank": 9,
           "title": "Iris",
           "artist": "The Goo Goo Dolls"
         },
         {
-          "rank": 9,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
-        },
-        {
           "rank": 10,
-          "title": "Loser",
-          "artist": "Tame Impala"
+          "title": "Babydoll",
+          "artist": "Dominic Fike"
         }
       ]
     },
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 4,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Freestyle",
-          "artist": "Lil Baby"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         }
       ]
     },
@@ -213,13 +213,13 @@
         },
         {
           "rank": 7,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Benim Olsana",
+          "artist": "CRUSH"
         },
         {
           "rank": 8,
-          "title": "Benim Olsana",
-          "artist": "CRUSH"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 9,
