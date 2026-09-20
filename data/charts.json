@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T21:43:24.866309+00:00",
+  "generatedAt": "2026-09-20T23:45:15.713796+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -155,8 +155,8 @@
         },
         {
           "rank": 7,
-          "title": "So Good (feat. Kendrick Lamar)",
-          "artist": "Jhené Aiko"
+          "title": "I Can't Love You Anymore",
+          "artist": "Ella Langley & Morgan Wallen"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "MISS MY DAWG",
-          "artist": "Yeat & Drake"
+          "title": "So Good (feat. Kendrick Lamar)",
+          "artist": "Jhené Aiko"
         },
         {
           "rank": 10,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
