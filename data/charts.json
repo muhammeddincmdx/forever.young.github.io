@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T15:14:00.150136+00:00",
+  "generatedAt": "2026-09-21T20:04:07.584025+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,13 +14,13 @@
         },
         {
           "rank": 2,
-          "title": "Ain't In LA",
-          "artist": "ADÉLA"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 3,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Ain't In LA",
+          "artist": "ADÉLA"
         },
         {
           "rank": 4,
@@ -29,23 +29,23 @@
         },
         {
           "rank": 5,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 6,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
         },
         {
+          "rank": 6,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 7,
-          "title": "Dai Dai (w/ Burna Boy )",
-          "artist": "Shakira"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 8,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 4,
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
-          "title": "So Good (feat. Kendrick Lamar)",
-          "artist": "Jhené Aiko"
-        },
-        {
-          "rank": 9,
           "title": "I Can't Love You Anymore",
           "artist": "Ella Langley & Morgan Wallen"
         },
         {
+          "rank": 9,
+          "title": "So Good (feat. Kendrick Lamar)",
+          "artist": "Jhené Aiko"
+        },
+        {
           "rank": 10,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
