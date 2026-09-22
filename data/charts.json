@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T17:28:08.899065+00:00",
+  "generatedAt": "2026-09-22T20:21:58.561786+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -14,8 +14,8 @@
         },
         {
           "rank": 2,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Nicole Kidman",
+          "artist": "ADÉLA"
         },
         {
           "rank": 3,
@@ -24,13 +24,13 @@
         },
         {
           "rank": 4,
-          "title": "Nicole Kidman",
-          "artist": "ADÉLA"
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
         },
         {
           "rank": 5,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 6,
@@ -39,8 +39,8 @@
         },
         {
           "rank": 7,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 8,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 10,
-          "title": "Babydoll",
-          "artist": "Dominic Fike"
+          "title": "Loser",
+          "artist": "Tame Impala"
         }
       ]
     },
@@ -130,13 +130,13 @@
         },
         {
           "rank": 2,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 4,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "In A Minute",
-          "artist": "Lil Baby"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Benim Olsana",
+          "artist": "CRUSH"
         },
         {
           "rank": 9,
-          "title": "Benim Olsana",
-          "artist": "CRUSH"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
