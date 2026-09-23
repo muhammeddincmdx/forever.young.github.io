@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T07:05:11.347421+00:00",
+  "generatedAt": "2026-09-23T12:50:44.722586+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -114,64 +114,6 @@
           "rank": 10,
           "title": "Iris",
           "artist": "The Goo Goo Dolls"
-        }
-      ]
-    },
-    {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Last Thing You Need (from GTAVI: The Album)",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 2,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 3,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
-        },
-        {
-          "rank": 4,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 5,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 6,
-          "title": "Nicole Kidman",
-          "artist": "ADÉLA"
-        },
-        {
-          "rank": 7,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
-        },
-        {
-          "rank": 8,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 9,
-          "title": "So Good (feat. Kendrick Lamar)",
-          "artist": "Jhené Aiko"
-        },
-        {
-          "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
         }
       ]
     },
