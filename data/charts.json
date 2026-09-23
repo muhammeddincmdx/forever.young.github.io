@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T20:54:52.604955+00:00",
+  "generatedAt": "2026-09-23T23:22:31.360298+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "So Good (feat. Kendrick Lamar)",
-          "artist": "Jhené Aiko"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 10,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "So Good (feat. Kendrick Lamar)",
+          "artist": "Jhené Aiko"
         }
       ]
     },
@@ -218,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Benim Olsana",
+          "artist": "CRUSH"
         },
         {
           "rank": 9,
-          "title": "Benim Olsana",
-          "artist": "CRUSH"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
