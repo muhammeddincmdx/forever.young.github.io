@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T07:00:36.324696+00:00",
+  "generatedAt": "2026-09-24T12:39:19.767565+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,60 +118,60 @@
       ]
     },
     {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
+      "id": "apple-tr-most-played",
+      "name": "TR Top Songs",
       "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
       "entries": [
         {
           "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
         },
         {
           "rank": 2,
-          "title": "Last Thing You Need",
-          "artist": "Morgan Wallen"
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
         },
         {
           "rank": 3,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
         },
         {
           "rank": 4,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Döndüm",
+          "artist": "Bora Duran"
         },
         {
           "rank": 5,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 6,
-          "title": "Nicole Kidman",
-          "artist": "ADÉLA"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 7,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 9,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Benim Olsana",
+          "artist": "CRUSH"
         },
         {
           "rank": 10,
-          "title": "So Good (feat. Kendrick Lamar)",
-          "artist": "Jhené Aiko"
+          "title": "Ara Beni",
+          "artist": "Hadise"
         }
       ]
     },
