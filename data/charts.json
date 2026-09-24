@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T17:40:07.158374+00:00",
+  "generatedAt": "2026-09-24T20:59:23.339049+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,33 +19,33 @@
         },
         {
           "rank": 3,
-          "title": "Ain't In LA",
-          "artist": "ADÉLA"
-        },
-        {
-          "rank": 4,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
-          "rank": 5,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "rank": 4,
+          "title": "Ain't In LA",
+          "artist": "ADÉLA"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
+          "rank": 6,
+          "title": "Self Aware",
+          "artist": "Temper City"
+        },
+        {
           "rank": 7,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 8,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 9,
@@ -160,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
+          "title": "Be Her",
+          "artist": "Ella Langley"
         },
         {
           "rank": 9,
-          "title": "Be Her",
-          "artist": "Ella Langley"
+          "title": "Dead Fresh",
+          "artist": "Lil Baby"
         },
         {
           "rank": 10,
