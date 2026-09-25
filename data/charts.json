@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T08:24:16.551350+00:00",
+  "generatedAt": "2026-09-25T14:00:47.852640+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,48 +130,48 @@
         },
         {
           "rank": 2,
+          "title": "Patient Zero",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 3,
           "title": "BbY WOW",
           "artist": "KAROL G, Judeline & rusowsky"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Last Thing You Need",
           "artist": "Morgan Wallen"
         },
         {
-          "rank": 4,
+          "rank": 5,
+          "title": "Cleveland!",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 6,
+          "title": "Pink Clouding",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 7,
           "title": "Janice STFU",
           "artist": "Drake"
         },
         {
-          "rank": 5,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "rank": 8,
+          "title": "Babylon",
+          "artist": "Taylor Swift"
         },
         {
-          "rank": 6,
+          "rank": 9,
           "title": "Nicole Kidman",
           "artist": "ADÉLA"
         },
         {
-          "rank": 7,
-          "title": "Dead Fresh",
-          "artist": "Lil Baby"
-        },
-        {
-          "rank": 8,
-          "title": "I Can't Love You Anymore",
-          "artist": "Ella Langley & Morgan Wallen"
-        },
-        {
-          "rank": 9,
-          "title": "Be Her",
-          "artist": "Ella Langley"
-        },
-        {
           "rank": 10,
-          "title": "So Good (feat. Kendrick Lamar)",
-          "artist": "Jhené Aiko"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -183,12 +183,12 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Kayıp Kalp",
+          "title": "Sebebi Yar",
           "artist": "BLOK3"
         },
         {
           "rank": 2,
-          "title": "Sebebi Yar",
+          "title": "Kayıp Kalp",
           "artist": "BLOK3"
         },
         {
@@ -218,18 +218,18 @@
         },
         {
           "rank": 8,
+          "title": "Patient Zero",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 9,
           "title": "KUSURA BAKMA",
           "artist": "BLOK3"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Benim Olsana",
           "artist": "CRUSH"
-        },
-        {
-          "rank": 10,
-          "title": "Ara Beni",
-          "artist": "Hadise"
         }
       ]
     },
