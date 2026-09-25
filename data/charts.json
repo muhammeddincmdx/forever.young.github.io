@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T14:00:47.852640+00:00",
+  "generatedAt": "2026-09-25T18:46:54.119139+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -34,13 +34,13 @@
         },
         {
           "rank": 6,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 7,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 8,
@@ -72,33 +72,33 @@
         },
         {
           "rank": 2,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
+          "title": "Nicole Kidman",
+          "artist": "ADÉLA"
         },
         {
           "rank": 3,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 4,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
-          "rank": 5,
           "title": "Ain't In LA",
           "artist": "ADÉLA"
         },
         {
+          "rank": 4,
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
+        },
+        {
+          "rank": 5,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
+        },
+        {
           "rank": 6,
-          "title": "Loser",
-          "artist": "Tame Impala"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 7,
-          "title": "Self Aware",
-          "artist": "Temper City"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         },
         {
           "rank": 8,
@@ -107,13 +107,13 @@
         },
         {
           "rank": 9,
-          "title": "back to friends",
-          "artist": "sombr"
+          "title": "Iris",
+          "artist": "The Goo Goo Dolls"
         },
         {
           "rank": 10,
-          "title": "Iris",
-          "artist": "The Goo Goo Dolls"
+          "title": "Loser",
+          "artist": "Tame Impala"
         }
       ]
     },
@@ -125,53 +125,53 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 2,
           "title": "Patient Zero",
           "artist": "Taylor Swift"
         },
         {
-          "rank": 3,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
-        },
-        {
-          "rank": 4,
-          "title": "Last Thing You Need",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 5,
+          "rank": 2,
           "title": "Cleveland!",
           "artist": "Taylor Swift"
         },
         {
-          "rank": 6,
+          "rank": 3,
           "title": "Pink Clouding",
           "artist": "Taylor Swift"
         },
         {
-          "rank": 7,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 8,
+          "rank": 4,
           "title": "Babylon",
           "artist": "Taylor Swift"
         },
         {
+          "rank": 5,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 6,
+          "title": "Last Thing You Need",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 7,
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
+        },
+        {
+          "rank": 8,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
           "rank": 9,
-          "title": "Nicole Kidman",
-          "artist": "ADÉLA"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 10,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Nicole Kidman",
+          "artist": "ADÉLA"
         }
       ]
     },
