@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T05:14:31.291834+00:00",
+  "generatedAt": "2026-09-26T10:01:27.858819+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 6,
-          "title": "Last Thing You Need",
-          "artist": "Morgan Wallen"
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 7,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
+          "title": "Last Thing You Need (from GTAVI: The Album)",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 8,
@@ -165,13 +165,13 @@
         },
         {
           "rank": 9,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Nicole Kidman",
+          "artist": "ADÉLA"
         },
         {
           "rank": 10,
-          "title": "Nicole Kidman",
-          "artist": "ADÉLA"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         }
       ]
     },
@@ -271,23 +271,23 @@
         },
         {
           "rank": 7,
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 8,
-          "title": "Man I Need",
-          "artist": "Olivia Dean"
-        },
-        {
-          "rank": 9,
           "title": "drop dead",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 9,
+          "title": "Man I Need",
+          "artist": "Olivia Dean"
+        },
+        {
           "rank": 10,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Stargazing",
+          "artist": "Myles Smith"
         }
       ]
     }
