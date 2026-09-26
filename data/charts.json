@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:12:28.961970+00:00",
+  "generatedAt": "2026-09-26T21:20:42.632054+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,6 +118,64 @@
       ]
     },
     {
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Patient Zero",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 2,
+          "title": "Cleveland!",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 3,
+          "title": "Pink Clouding",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 4,
+          "title": "Babylon",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 5,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 6,
+          "title": "Last Thing You Need (from GTAVI: The Album)",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 7,
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
+        },
+        {
+          "rank": 8,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
+          "rank": 9,
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 10,
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
+        }
+      ]
+    },
+    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -160,13 +218,13 @@
         },
         {
           "rank": 8,
-          "title": "Patient Zero",
-          "artist": "Taylor Swift"
+          "title": "Benim Olsana",
+          "artist": "CRUSH"
         },
         {
           "rank": 9,
-          "title": "Benim Olsana",
-          "artist": "CRUSH"
+          "title": "Patient Zero",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 10,
