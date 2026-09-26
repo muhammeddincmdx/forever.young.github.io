@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:01:27.858819+00:00",
+  "generatedAt": "2026-09-26T14:37:07.708366+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         }
       ]
     },
@@ -203,18 +203,18 @@
         },
         {
           "rank": 5,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
-        },
-        {
-          "rank": 6,
           "title": "Toz Pembe",
           "artist": "manifest"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Hileli",
           "artist": "manifest & Ajda Pekkan"
+        },
+        {
+          "rank": 7,
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 8,
