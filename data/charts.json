@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T14:28:47.653968+00:00",
+  "generatedAt": "2026-09-27T18:35:37.956334+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,53 +9,53 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Patient Zero",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 2,
-          "title": "Cleveland!",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 3,
-          "title": "Pink Clouding",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 4,
-          "title": "Babylon",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 5,
           "title": "BbY WOW (w/ Judeline , rusowsky )",
           "artist": "KAROL G"
         },
         {
-          "rank": 6,
+          "rank": 2,
+          "title": "Patient Zero",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 3,
+          "title": "Cleveland!",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 4,
           "title": "Nicole Kidman",
           "artist": "ADÉLA"
         },
         {
-          "rank": 7,
-          "title": "The Fate of Ophelia",
+          "rank": 5,
+          "title": "Babylon",
           "artist": "Taylor Swift"
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "title": "Pink Clouding",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 7,
           "title": "Ain't In LA",
           "artist": "ADÉLA"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
+        },
+        {
+          "rank": 10,
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
         }
       ]
     },
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Benim Olsana",
+          "artist": "CRUSH"
         },
         {
           "rank": 10,
-          "title": "Benim Olsana",
-          "artist": "CRUSH"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         }
       ]
     },
