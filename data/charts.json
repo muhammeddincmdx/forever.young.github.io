@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T21:46:28.056892+00:00",
+  "generatedAt": "2026-09-28T00:11:46.730721+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -118,64 +118,6 @@
       ]
     },
     {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Patient Zero",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 2,
-          "title": "Cleveland!",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 3,
-          "title": "Babylon",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 4,
-          "title": "Pink Clouding",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 5,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 6,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
-        },
-        {
-          "rank": 7,
-          "title": "Last Thing You Need (from GTAVI: The Album)",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 8,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 9,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 10,
-          "title": "Nicole Kidman",
-          "artist": "ADÉLA"
-        }
-      ]
-    },
-    {
       "id": "apple-tr-most-played",
       "name": "TR Top Songs",
       "platform": "Apple Music",
@@ -218,13 +160,13 @@
         },
         {
           "rank": 8,
-          "title": "Benim Olsana",
-          "artist": "CRUSH"
+          "title": "Değiştiremezsin Yazılmışsa",
+          "artist": "BLOK3"
         },
         {
           "rank": 9,
-          "title": "Değiştiremezsin Yazılmışsa",
-          "artist": "BLOK3"
+          "title": "Benim Olsana",
+          "artist": "CRUSH"
         },
         {
           "rank": 10,
