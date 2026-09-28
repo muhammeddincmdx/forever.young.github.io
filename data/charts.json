@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:31:49.102189+00:00",
+  "generatedAt": "2026-09-28T19:55:37.885705+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,28 +130,28 @@
         },
         {
           "rank": 2,
-          "title": "Cleveland!",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 4,
           "title": "Babylon",
           "artist": "Taylor Swift"
         },
         {
+          "rank": 3,
+          "title": "Cleveland!",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 4,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
           "rank": 5,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
+          "title": "Pink Clouding",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 6,
-          "title": "Pink Clouding",
-          "artist": "Taylor Swift"
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 7,
@@ -160,8 +160,8 @@
         },
         {
           "rank": 8,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 9,
@@ -170,8 +170,8 @@
         },
         {
           "rank": 10,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         }
       ]
     },
@@ -198,13 +198,13 @@
         },
         {
           "rank": 4,
-          "title": "Döndüm",
-          "artist": "Bora Duran"
+          "title": "Kırgınım",
+          "artist": "BLOK3"
         },
         {
           "rank": 5,
-          "title": "Kırgınım",
-          "artist": "BLOK3"
+          "title": "Döndüm",
+          "artist": "Bora Duran"
         },
         {
           "rank": 6,
