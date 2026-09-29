@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T12:04:46.700390+00:00",
+  "generatedAt": "2026-09-29T18:10:16.751700+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,18 +135,18 @@
         },
         {
           "rank": 3,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
-        },
-        {
-          "rank": 4,
           "title": "Choosin' Texas",
           "artist": "Ella Langley"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Cleveland!",
           "artist": "Taylor Swift"
+        },
+        {
+          "rank": 5,
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 6,
@@ -208,13 +208,13 @@
         },
         {
           "rank": 6,
-          "title": "Toz Pembe",
-          "artist": "manifest"
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
         },
         {
           "rank": 7,
-          "title": "Hileli",
-          "artist": "manifest & Ajda Pekkan"
+          "title": "Toz Pembe",
+          "artist": "manifest"
         },
         {
           "rank": 8,
