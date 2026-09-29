@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T00:06:51.232998+00:00",
+  "generatedAt": "2026-09-29T05:57:11.886948+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -114,6 +114,64 @@
           "rank": 10,
           "title": "Loser",
           "artist": "Tame Impala"
+        }
+      ]
+    },
+    {
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Patient Zero",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 2,
+          "title": "Babylon",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 3,
+          "title": "Cleveland!",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 4,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 5,
+          "title": "Pink Clouding",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 6,
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
+        },
+        {
+          "rank": 7,
+          "title": "Last Thing You Need (from GTAVI: The Album)",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 8,
+          "title": "Nicole Kidman",
+          "artist": "ADÉLA"
+        },
+        {
+          "rank": 9,
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 10,
+          "title": "Janice STFU",
+          "artist": "Drake"
         }
       ]
     },
