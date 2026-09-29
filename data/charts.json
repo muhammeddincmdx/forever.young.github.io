@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T19:55:37.885705+00:00",
+  "generatedAt": "2026-09-29T00:06:51.232998+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -19,43 +19,43 @@
         },
         {
           "rank": 3,
-          "title": "Cleveland!",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 4,
           "title": "Nicole Kidman",
           "artist": "ADÉLA"
         },
         {
-          "rank": 5,
-          "title": "Babylon",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 6,
-          "title": "Pink Clouding",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 7,
-          "title": "Ain't In LA",
-          "artist": "ADÉLA"
-        },
-        {
-          "rank": 8,
+          "rank": 4,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
-          "rank": 9,
+          "rank": 5,
+          "title": "Ain't In LA",
+          "artist": "ADÉLA"
+        },
+        {
+          "rank": 6,
+          "title": "the cure",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "rank": 7,
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
+        },
+        {
+          "rank": 8,
           "title": "Beauty And A Beat (w/ Nicki Minaj )",
           "artist": "Justin Bieber"
         },
         {
+          "rank": 9,
+          "title": "Self Aware",
+          "artist": "Temper City"
+        },
+        {
           "rank": 10,
-          "title": "the cure",
-          "artist": "Olivia Rodrigo"
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift"
         }
       ]
     },
@@ -114,64 +114,6 @@
           "rank": 10,
           "title": "Loser",
           "artist": "Tame Impala"
-        }
-      ]
-    },
-    {
-      "id": "apple-us-most-played",
-      "name": "US Top Songs",
-      "platform": "Apple Music",
-      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Patient Zero",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 2,
-          "title": "Babylon",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 3,
-          "title": "Cleveland!",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 4,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 5,
-          "title": "Pink Clouding",
-          "artist": "Taylor Swift"
-        },
-        {
-          "rank": 6,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
-        },
-        {
-          "rank": 7,
-          "title": "Last Thing You Need (from GTAVI: The Album)",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 8,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 9,
-          "title": "Nicole Kidman",
-          "artist": "ADÉLA"
-        },
-        {
-          "rank": 10,
-          "title": "Janice STFU",
-          "artist": "Drake"
         }
       ]
     },
