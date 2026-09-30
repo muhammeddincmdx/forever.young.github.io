@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T06:59:15.282957+00:00",
+  "generatedAt": "2026-09-30T13:26:28.563884+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -130,18 +130,18 @@
         },
         {
           "rank": 2,
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
+        },
+        {
+          "rank": 3,
           "title": "Choosin' Texas",
           "artist": "Ella Langley"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Babylon",
           "artist": "Taylor Swift"
-        },
-        {
-          "rank": 4,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 5,
@@ -165,13 +165,71 @@
         },
         {
           "rank": 9,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 10,
-          "title": "Janice STFU",
-          "artist": "Drake"
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
+        }
+      ]
+    },
+    {
+      "id": "apple-tr-most-played",
+      "name": "TR Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/tr/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Sebebi Yar",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 2,
+          "title": "Kayıp Kalp",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 3,
+          "title": "Çok Güzel Gülüyorsun",
+          "artist": "BLOK3 & Poizi"
+        },
+        {
+          "rank": 4,
+          "title": "Kırgınım",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 5,
+          "title": "Döndüm",
+          "artist": "Bora Duran"
+        },
+        {
+          "rank": 6,
+          "title": "Toz Pembe",
+          "artist": "manifest"
+        },
+        {
+          "rank": 7,
+          "title": "Hileli",
+          "artist": "manifest & Ajda Pekkan"
+        },
+        {
+          "rank": 8,
+          "title": "Değiştiremezsin Yazılmışsa",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 9,
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
+        },
+        {
+          "rank": 10,
+          "title": "Umrumdışı",
+          "artist": "Mabel Matiz"
         }
       ]
     },
