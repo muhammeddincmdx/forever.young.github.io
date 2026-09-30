@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T18:30:09.900250+00:00",
+  "generatedAt": "2026-09-30T22:30:39.909239+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -29,33 +29,33 @@
         },
         {
           "rank": 5,
-          "title": "Earrings",
-          "artist": "Malcolm Todd"
-        },
-        {
-          "rank": 6,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
+          "rank": 6,
+          "title": "Earrings",
+          "artist": "Malcolm Todd"
+        },
+        {
           "rank": 7,
-          "title": "Cleveland!",
-          "artist": "Taylor Swift"
+          "title": "Self Aware",
+          "artist": "Temper City"
         },
         {
           "rank": 8,
-          "title": "Babylon",
-          "artist": "Taylor Swift"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         },
         {
           "rank": 9,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
+          "title": "stupid song",
+          "artist": "Olivia Rodrigo"
         },
         {
           "rank": 10,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
+          "title": "The One That Got Away",
+          "artist": "Katy Perry"
         }
       ]
     },
@@ -160,18 +160,18 @@
         },
         {
           "rank": 8,
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 9,
           "title": "Nicole Kidman",
           "artist": "ADÉLA"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Janice STFU",
           "artist": "Drake"
-        },
-        {
-          "rank": 10,
-          "title": "Been By Now",
-          "artist": "Morgan Wallen"
         }
       ]
     },
