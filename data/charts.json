@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:33:25.380662+00:00",
+  "generatedAt": "2026-10-01T20:42:48.291956+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 8,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 9,
           "title": "stupid song",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The One That Got Away",
           "artist": "Katy Perry"
+        },
+        {
+          "rank": 10,
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         }
       ]
     },
@@ -114,6 +114,64 @@
           "rank": 10,
           "title": "Loser",
           "artist": "Tame Impala"
+        }
+      ]
+    },
+    {
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Patient Zero",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 2,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 3,
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
+        },
+        {
+          "rank": 4,
+          "title": "Last Thing You Need",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 5,
+          "title": "Babylon",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 6,
+          "title": "Pink Clouding",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 7,
+          "title": "Cleveland!",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 8,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
+          "rank": 9,
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 10,
+          "title": "Nicole Kidman",
+          "artist": "ADÉLA"
         }
       ]
     },
