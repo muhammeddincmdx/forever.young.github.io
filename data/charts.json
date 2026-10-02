@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T17:10:11.465770+00:00",
+  "generatedAt": "2026-10-02T21:22:58.729368+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -9,13 +9,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Patient Zero",
-          "artist": "Taylor Swift"
+          "title": "BbY WOW (w/ Judeline , rusowsky )",
+          "artist": "KAROL G"
         },
         {
           "rank": 2,
-          "title": "BbY WOW (w/ Judeline , rusowsky )",
-          "artist": "KAROL G"
+          "title": "Patient Zero",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 3,
@@ -67,53 +67,53 @@
       "entries": [
         {
           "rank": 1,
+          "title": "Patient Zero",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 2,
           "title": "BbY WOW (w/ Judeline , rusowsky )",
           "artist": "KAROL G"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Nicole Kidman",
           "artist": "ADÉLA"
         },
         {
-          "rank": 3,
+          "rank": 4,
+          "title": "Cleveland!",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 5,
+          "title": "Babylon",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 6,
           "title": "Ain't In LA",
           "artist": "ADÉLA"
         },
         {
-          "rank": 4,
+          "rank": 7,
+          "title": "Pink Clouding",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 8,
           "title": "Earrings",
           "artist": "Malcolm Todd"
         },
         {
-          "rank": 5,
-          "title": "Beauty And A Beat (w/ Nicki Minaj )",
-          "artist": "Justin Bieber"
-        },
-        {
-          "rank": 6,
-          "title": "Self Aware",
-          "artist": "Temper City"
-        },
-        {
-          "rank": 7,
-          "title": "The One That Got Away",
-          "artist": "Katy Perry"
-        },
-        {
-          "rank": 8,
+          "rank": 9,
           "title": "the cure",
           "artist": "Olivia Rodrigo"
         },
         {
-          "rank": 9,
-          "title": "Iris",
-          "artist": "The Goo Goo Dolls"
-        },
-        {
           "rank": 10,
-          "title": "Loser",
-          "artist": "Tame Impala"
+          "title": "Beauty And A Beat (w/ Nicki Minaj )",
+          "artist": "Justin Bieber"
         }
       ]
     },
@@ -130,8 +130,8 @@
         },
         {
           "rank": 2,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
+          "title": "Solar Eclipse",
+          "artist": "Drake & Don Toliver"
         },
         {
           "rank": 3,
@@ -140,38 +140,38 @@
         },
         {
           "rank": 4,
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
+        },
+        {
+          "rank": 5,
           "title": "Last Thing You Need",
           "artist": "Morgan Wallen"
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "title": "Cold Shoulder",
+          "artist": "Drake, Don Toliver & Yebba"
+        },
+        {
+          "rank": 7,
+          "title": "Quebec",
+          "artist": "Drake"
+        },
+        {
+          "rank": 8,
           "title": "Babylon",
           "artist": "Taylor Swift"
         },
         {
-          "rank": 6,
-          "title": "Janice STFU",
-          "artist": "Drake"
-        },
-        {
-          "rank": 7,
-          "title": "Nicole Kidman",
-          "artist": "ADÉLA"
-        },
-        {
-          "rank": 8,
+          "rank": 9,
           "title": "Been By Now",
           "artist": "Morgan Wallen"
         },
         {
-          "rank": 9,
-          "title": "Pink Clouding",
-          "artist": "Taylor Swift"
-        },
-        {
           "rank": 10,
-          "title": "Cleveland!",
-          "artist": "Taylor Swift"
+          "title": "Janice STFU",
+          "artist": "Drake"
         }
       ]
     },
