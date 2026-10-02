@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T05:57:50.861258+00:00",
+  "generatedAt": "2026-10-02T11:50:47.099411+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -114,6 +114,64 @@
           "rank": 10,
           "title": "Loser",
           "artist": "Tame Impala"
+        }
+      ]
+    },
+    {
+      "id": "apple-us-most-played",
+      "name": "US Top Songs",
+      "platform": "Apple Music",
+      "source": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/50/songs.json",
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Patient Zero",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 2,
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
+        },
+        {
+          "rank": 3,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 4,
+          "title": "Last Thing You Need",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 5,
+          "title": "Babylon",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 6,
+          "title": "Janice STFU",
+          "artist": "Drake"
+        },
+        {
+          "rank": 7,
+          "title": "Nicole Kidman",
+          "artist": "ADÉLA"
+        },
+        {
+          "rank": 8,
+          "title": "Been By Now",
+          "artist": "Morgan Wallen"
+        },
+        {
+          "rank": 9,
+          "title": "Pink Clouding",
+          "artist": "Taylor Swift"
+        },
+        {
+          "rank": 10,
+          "title": "Cleveland!",
+          "artist": "Taylor Swift"
         }
       ]
     },
