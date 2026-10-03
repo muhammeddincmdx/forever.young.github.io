@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T00:35:07.190855+00:00",
+  "generatedAt": "2026-10-03T05:56:31.651213+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -135,23 +135,23 @@
         },
         {
           "rank": 3,
-          "title": "Choosin' Texas",
-          "artist": "Ella Langley"
-        },
-        {
-          "rank": 4,
-          "title": "BbY WOW",
-          "artist": "KAROL G, Judeline & rusowsky"
-        },
-        {
-          "rank": 5,
           "title": "Cold Shoulder",
           "artist": "Drake, Don Toliver & Yebba"
         },
         {
-          "rank": 6,
+          "rank": 4,
           "title": "Quebec",
           "artist": "Drake"
+        },
+        {
+          "rank": 5,
+          "title": "Choosin' Texas",
+          "artist": "Ella Langley"
+        },
+        {
+          "rank": 6,
+          "title": "BbY WOW",
+          "artist": "KAROL G, Judeline & rusowsky"
         },
         {
           "rank": 7,
@@ -160,8 +160,8 @@
         },
         {
           "rank": 8,
-          "title": "Babylon",
-          "artist": "Taylor Swift"
+          "title": "Janice STFU",
+          "artist": "Drake"
         },
         {
           "rank": 9,
@@ -170,7 +170,7 @@
         },
         {
           "rank": 10,
-          "title": "Janice STFU",
+          "title": "Classic PT2",
           "artist": "Drake"
         }
       ]
@@ -203,18 +203,18 @@
         },
         {
           "rank": 5,
+          "title": "Döndüm",
+          "artist": "Bora Duran"
+        },
+        {
+          "rank": 6,
           "title": "Hileli",
           "artist": "manifest & Ajda Pekkan"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Toz Pembe",
           "artist": "manifest"
-        },
-        {
-          "rank": 7,
-          "title": "Döndüm",
-          "artist": "Bora Duran"
         },
         {
           "rank": 8,
