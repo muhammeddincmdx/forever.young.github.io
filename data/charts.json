@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T21:22:58.729368+00:00",
+  "generatedAt": "2026-10-03T00:35:07.190855+00:00",
   "charts": [
     {
       "id": "spotify-global-daily",
@@ -125,13 +125,13 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Patient Zero",
-          "artist": "Taylor Swift"
+          "title": "Solar Eclipse",
+          "artist": "Drake & Don Toliver"
         },
         {
           "rank": 2,
-          "title": "Solar Eclipse",
-          "artist": "Drake & Don Toliver"
+          "title": "Patient Zero",
+          "artist": "Taylor Swift"
         },
         {
           "rank": 3,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 5,
-          "title": "Last Thing You Need",
-          "artist": "Morgan Wallen"
-        },
-        {
-          "rank": 6,
           "title": "Cold Shoulder",
           "artist": "Drake, Don Toliver & Yebba"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Quebec",
           "artist": "Drake"
+        },
+        {
+          "rank": 7,
+          "title": "Last Thing You Need",
+          "artist": "Morgan Wallen"
         },
         {
           "rank": 8,
@@ -203,18 +203,18 @@
         },
         {
           "rank": 5,
-          "title": "Döndüm",
-          "artist": "Bora Duran"
-        },
-        {
-          "rank": 6,
           "title": "Hileli",
           "artist": "manifest & Ajda Pekkan"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Toz Pembe",
           "artist": "manifest"
+        },
+        {
+          "rank": 7,
+          "title": "Döndüm",
+          "artist": "Bora Duran"
         },
         {
           "rank": 8,
@@ -223,13 +223,13 @@
         },
         {
           "rank": 9,
-          "title": "Umrumdışı",
-          "artist": "Mabel Matiz"
+          "title": "KUSURA BAKMA",
+          "artist": "BLOK3"
         },
         {
           "rank": 10,
-          "title": "KUSURA BAKMA",
-          "artist": "BLOK3"
+          "title": "Umrumdışı",
+          "artist": "Mabel Matiz"
         }
       ]
     },
